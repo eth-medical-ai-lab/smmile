@@ -1,0 +1,6 @@
+Model: LLaVA-Med
+Inference Mode: 0-shot
+Task Format: mcqa
+Accuracy: 0.0029 (3/1038)
+Total Examples: 1038
+Timestamp: 2025-05-13 06:46:58

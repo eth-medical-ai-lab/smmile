@@ -1,0 +1,113 @@
+problem_id,final_question,true_answer,correct_option,selected_option,is_correct,generated_answer
+01e87e12-d402-4fff-a5ea-1da6160c4e99,What color can be seen in the abnormal lesion?,Black.,D,D,True,Black.
+02decd79-711e-4eef-9bc9-04347e4692fe,What is the diagnosis?,"Hydropneumothorax, left",D,B,False,"Pneumothorax, right"
+043f257f-34a0-4842-9334-241320202d79,Is there any type of joint deformity present here?,"Yes, Charcot´s foot, left.",B,B,True,"Yes, Charcot´s foot, left."
+050515b0-aff0-4ce6-8edf-b8ae01b786c5,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",A,B,False,"No, normal renal histology. "
+06485d09-1677-493a-a974-344c507da11c,What is shown in this xray?,"Clavicle fracture, left",C,A,False,"Clavicle fracture, right"
+08bd93cb-0201-4f20-8e37-97e495cf3542,Are there changes of acute myocardial infarction in this ECG with paced rhythm?,Yes,C,A,False,No - Panel A
+09728185-88c5-4da1-8b87-cd7572a530d2,Is there any evidence of honeycombing?,yes,F,F,True,yes
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18,Is there a joint effusion?,Yes,A,B,False,No
+0a405f20-1fcd-4fac-a0c1-3323efac8726,Is honeycombing present?,Yes,A,B,False,No
+16870356-d6c6-468a-8356-a8e2fc81dec5,Is there any pathology visible in this chest X-Ray?,"Water bottle sign in the heart, suggestive of pericardial effusion.",A,B,False,Normal.
+18218d7e-e2b3-45ee-a6bb-45054271c091,What is the large round object?,Amoeba.,B,B,True,Amoeba.
+188fb1a0-4521-4fb1-9c82-46527f1603a9,What is the diagnosis?,Levocardia,A,C,False,Dextrocardia
+1b7f4c9f-5655-4037-92e6-0e310f41184e,What pathology can be seen?,Vitreous hemorrhage.,B,B,True,Vitreous hemorrhage.
+1c39462b-cfdd-455c-b8f1-e099f85bcc29,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,A,True,No
+1d690af1-020d-4163-8abe-e7fc2bbdba17,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne rosacea.,A,B,False,Acne vulgaris.
+1e5627a5-d6ba-4714-9db5-1561d3f59d7e,Is there something pathological in this image?,"Anisocoria, right pupil more dilated than left one.",C,A,False,"Anisocoria, left pupil more dilated than right one."
+1ee54fea-31da-4d9a-bd57-a6a006f97d3e,What is the diagnosis?,"Proptosis, left",C,A,False,"Proptosis, right"
+21e3a17e-4ad3-42c6-8367-3c96a8bc2aae,What type of pathology is shown?,"Subdural hematoma, right",D,B,False,"Subdural hematoma, left"
+21eb81de-7686-4efc-9875-7dc4cbfc557d,Are the red blood cells normal?,"No, there are schiostocytes. ",B,B,True,"No, there are schiostocytes. "
+21ec6a11-a59f-41b2-bbca-51cc937d8828,Where is the tumor located?,Caecum.,C,B,False,Pancreas.
+2285cb57-7853-41c4-bc0b-12cf269a23a3,Is atoll sign present?,Yes,A,B,False,No
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,B,C,False,Dilated cardiomyopathy with pulmonary edema.
+29e3f38f-c199-479c-ba00-a0fa0bbaffb8,Is there a visible pathology?,"Yes, hyperdense left MCA",A,C,False,No
+2d3f8498-af1d-440e-92a2-4837dc277974,What kind of image is this?,MRI of the brain with contrast,D,B,False,CT of the brain without contrast
+2d679738-2da1-45da-b83b-aa39a86f6bcb,Is the NG tube well-positioned?,"No, in left lung",F,A,False,Yes
+2f86b41e-c08b-41de-9c08-677df1528af5,What is the diagnosis?,"Acute MCA infarct, right and left",C,A,False,"Acute MCA infarct, right"
+321365c0-587b-4f7e-8e85-34c152b401e0,What is the diagnosis?,"Exophthalmos, bilateral",A,A,True,"Exophthalmos, bilateral"
+3436b5aa-7219-42c1-96cc-54f1e4286003,What is this person's skin type?,Type VI,A,C,False,Type IV
+34d5c4f5-9a58-43d0-b716-cd81487a881a,Describe the present abnormality.,"Central retinal artery occlusion. Retinal whitening and cherry-red spot are visible, as well as the likely causative clot.",D,A,False,"Central retinal artery occlusion. Retinal whitening and cherry-red spot are visible.
+"
+34f7d1cc-7328-457b-b9d3-5e983c6496d1,Which skin condition is shown?,petechiae,A,A,True,petechiae
+3808de45-a0d1-4f89-b0b9-76a6a977c90a,What is the diagnosis?,"Erb's palsy, right",C,B,False,"Erb's palsy, right and left"
+3833ca0c-82cd-4545-b1de-93ed42e4d6e2,"What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?",High suspicion for COVID-19 infection,D,E,False,Very high suspicion for COVID-19 infection
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e,Does this EEG show seizure activity?,no,B,A,False,yes
+3b17a705-1ef8-484e-bddf-2593b7062b98,Is there a visible pathology?,Pneumoperitoneum,A,B,False,Normal chest xray
+3db48fb6-755b-4323-a963-42239ecb0316,Is there metastatic cancer in this lymph node?,No. ,A,B,False,Yes.
+3e221315-f38c-4c93-87b1-7c9915d8a41b,Is this suspicious for lymphoma?,Yes. ,A,.,False,INVALID_OPTION:.
+40ea6079-9d12-477e-b34e-373c6d4f64d5,What is the diagnosis?,"Fracture, ulna",B,A,False,"Fracture, ulna and radius"
+41727fb3-7f70-4274-bacb-61f84b4bf584,Is splinter hemorrhage present?,no,B,A,False,yes
+443aea8a-c61d-418c-80ab-6f9250324838,What organ is shown and is it tumorous?,Kidney without tumor. ,B,B,True,Kidney without tumor. 
+44c46ae9-37d5-43b0-afab-162db2096c2c,What is shown in this image?,Plasma cells.,T,S,False,Blast cells. 
+48095d55-9265-4a0a-b9dc-baa2343c14af,Which anatomical plane is shown?,axial or transverse plane,A,A,True,axial or transverse plane
+4894916c-f303-4d6c-8f76-73edee07f0b2,Is air trapping present?,Yes,C,B,False,No
+4a8e141c-c247-45f0-84c2-5486cfbd62cf,How many neutrophils are clearly visible?,6,D,A,False,2
+4b8852b6-d518-4f21-beef-e016a52ce821,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",A,A,True,"Irregular borders and color variation, suggestive of melanoma."
+4d6c4b4d-6825-4c1f-adb6-ea06f72351a9,Is there a visible pathology in the ribs?,"Acute rib fracture, right",B,A,False,"Acute rib fractures, bilateral"
+4eff8140-addf-49c6-b690-e63ace50df8e,Is there an endoleak?,Yes,A,B,False,No
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,First-degree heart block.
+53694f7c-93a9-4c85-af33-363e5f08af0d," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,B,False,Upper zone
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d,"Which pathology, if any, is prevalent in this image?",Sickle cells,A,C,False,Schistocytes
+5c2a91db-7496-40c9-a919-ff9ec03b893b,Is there pneumoperitoneum?,No,B,B,True,No
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92,What pathology is visible?,Retinal detachment in fundus image.,A,B,False,"No pathology, healthy fundus."
+5d954983-45e2-4853-b94a-19f21492884c,Which bone or bones are fractured?,Radius and Ulna,C,A,False,Radius
+63338bb8-841b-4420-86fe-78e1963625d0,Which skin-condition is shown?,Spider angioma,A,B,False,Cherry angioma
+6597f180-5f13-4d49-83dd-64315337ce2f,Is there visible pathology?,"Pleural effusion, right",B,A,False,"Pleural effusion, left"
+688b0f03-2157-4d48-965a-2b5c473e3384,"Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious?",Highly suspicious,D,D,True,Highly suspicious
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a,What kind of MRI sequence is this?,T2 fat saturation,D,C,False,T2
+6c9f0a00-bc0b-4844-b498-c57d68382c5d,Where is the location of the endotracheal tube tip?,Trachea,A,A,True,Trachea
+6d0aec94-e009-46ea-8c93-2f2de47ef800,What type of cell is present among the erythrocytes?,Myeloblast with Auer rods,A,C,False,Myeloblast without Auer rods
+732150de-bce4-46af-9a70-c4b1e2c4b783,Does the liver appear enlarged?,Yes.,A,B,False,No.
+741ef380-c0aa-4508-8fd3-790a34b16b8b,What is shown in this image?,"Kayser-Fleischer rings, bilateral.",D,A,False,"Kayser-Fleischer ring, right."
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b,Are there signs of surgical wound infection?,Yes,C,A,False,Yes 
+820c2943-aea7-454e-ae7a-850c50c0de2f,Does this ECG show artifact or ventricular tachycardia?,artifact ,C,B,False,ventricular tachycardia
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e,"Is there a fracture and if so, what kind?",No fracture,E,E,True,No fracture
+9db35400-5633-48fa-9411-97926d30d4c5,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9,Is there a tree-in-bud appearance?,yes,A,B,False,No
+a0111520-e2e0-406c-9bf0-5139d8a2f30d,What pathology is shown in this image?,Erythema migrans,A,A,True,Erythema migrans
+a1ab8e85-4cca-4707-b3dd-57da42738aac,How does the surgical site look like?,A normal suture with eleven stitches. No signs of infection or inflammation.,C,B,False,A normal suture with five stitches. No signs of infection or inflammation.
+a7cf906c-228d-44cf-82bd-f5961343273f,What kind of cerebral edema is shown?,Combined edema.,C,B,False,Cytotoxic edema.
+aa4a25e1-c52f-4811-a126-bbb52f348ef4,Can you identify which medication (and what dose) does patient have in their pill box?,Atorvastatin 10 mg,C,C,True,Atorvastatin 10 mg
+aa9e1c00-8519-465d-9e18-0861b353c138,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,C,True,No pneumothorax
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ae849698-02d1-4e88-98f8-558f15089a42,How many fingers are shown in this image?,6,A,B,False,5
+afabd2e4-a0f2-4e06-9ba3-3db6e1ff73e0,Do these patient signature samples over the years show micrographia?,Yes,A,A,True,Yes
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0,Is there hydronephrosis?,"Yes, left",B,.,False,INVALID_OPTION:.
+b04916c8-41b9-4189-a16b-e831c2ddc950,What pathology is shown?,Ulcerative colitis,B,A,False,Chrohn's disease
+b214470b-8d93-40eb-bd02-56c83e3615df,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,A,A,True,Autosomal Dominant Polycystic Kidney disease
+b25c0453-eaf9-481c-9dbe-bc8924905668,Where is the pneumonia located?,left upper lobe,G,A,False,Right upper lobe
+b2c4774e-08f5-460e-87e5-4c496942ab8a,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,B,A,False,Yes. This is invasive ductal carcinoma of the breast. 
+b3eb1d37-e024-4463-8014-eb8f11f81936,Is there visible pathology?,Appendicitis,A,B,False,Normal appendix
+b41fb4f4-e509-4ead-a337-1ab15b4cb4bb,Is bronchiectasis present?,Yes,C,B,False,No
+b43555d3-9ef4-4280-bdec-902f634ec75a,What is the histopathologic diagnosis?,Helicobacter Pylori infection. ,C,C,True,Helicobacter Pylori infection. 
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,E,True,Small right-sided pleural effusion
+b60bb3ca-680f-4d0d-b616-456e6a84908c,Is there evidence of inflammation?,No.,B,A,False,Yes.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8,Is there a lung mass in the Chest radiograph?,Yes.,A,B,False,No.
+b82002ea-ec05-4c5c-95a8-3b646f020ed7,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,A,False,Fungal organisms (hyphae). 
+ba18e483-86ae-4f00-9b03-dc1d5d1d6cef,What is the cytologic diagnosis?,Low-grade squamous intraepithelial lesion (LSIL).,A,A,True,Low-grade squamous intraepithelial lesion (LSIL).
+bd2f6789-49fc-4e2b-b38a-7f6d0bb0d9e6,What is the diagnosis?,"Consolidation, left lower lobe",D,C,False,"Consolidation, left upper lobe"
+bda6b1c5-2522-418c-94f5-124c3018015d,Are there any pathologies shown in this image?,Varicosis in both legs.,B,B,True,Varicosis in both legs.
+be56d9fd-423c-43fe-b5d9-1b9fe46c1808,Is there fat necrosis?,Yes. ,A,B,False,No. 
+c0a57b05-eee7-499a-8745-a2f637cde131,Is there any evidence of pneumothorax in the radiograph?,Yes.,A,B,False,No.
+c7db3e52-cadc-4110-acaf-df1d77417653,What is the diagnosis?,"Facial palsy, left",B,A,False,"Facial palsy, right"
+c8270afe-324e-4bdf-af7d-a95d1f7d2155,"What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? ",Highly suggestive of malignancy,D,A,False,Negative
+ca0f791b-bcbd-4c2c-9ea0-c960f9fac20c,What suture technique is shown?,Donati suture technique.,C,A,False,"Simple, interrupted suture technique."
+cae3a3c3-4917-421d-b4a5-360767f459cd,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,A,B,False,supraventricular tachycardia with aberrancy 
+cdeea5fd-c696-4cdf-8b16-624d77413798,Can you safely send this patient home without further diagnostics?,"Yes, normal Chest X-ray.",B,A,False,No. Pneumoperitoneum indicative of gastrointestinal perforation.
+d05074d3-8496-426c-b315-edc6dd9c7874,"Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location?",Middle mediastinal mass,D,C,False,No mediastinal mass
+d2fa6150-282c-459e-8110-12496e7d201b,Is there a liver abscess in the ultrasound image?,Yes,A,A,True,Yes
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",A,C,False,No. Normal chest radiograph.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047,What type of staining is shown?,Endospore staining.,C,B,False,Auramine-O staining.
+da35a3de-fa23-4c20-905e-5b82b8d5d23a,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,B,False,Adenoma. 
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,A,A,True,Squamous cell carcinoma. 
+e4ce4ffc-bc94-4da2-abd7-2493702e2082,Are there pleural effusions in this chest x-ray?,"Yes, on the left",C,B,False,No
+e65f6b06-1b9e-473d-b1ef-2a029432e553,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e675a4c8-0f22-4925-8996-51e0d35bf990,On which side is the lumen?,Bottom left.,C,A,False,Right.
+ea4975ff-f64d-4067-91ee-1cefeec69416,What is the histopathologic diagnosis?,Follicular thyroid carcinoma (with capsular invasion). ,B,B,True,Follicular thyroid carcinoma (with capsular invasion). 
+eb4248fd-adf3-4682-b738-5d69d0248511,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,A,False,Left lower lobe
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab,Is there a visible pathology?,"Pneumothorax, left",C,D,False,Normal chest xray
+f5455eaf-7eba-44a4-963f-abdee38c9d99,What is shown on this Xray?,Moderate left pneumothorax,D,A,False,Large tension pneumothorax on the left
+f90cefb2-7034-49e5-be73-ee070eaa3840,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,Normal.
+fa8407ca-468a-410c-9072-5a2640459820,What pathology is most likely shown in this image?,Granuloma annulare.,B,C,False,Discoid lupus.
+fbe4eed6-6670-4f77-9197-2728be0f8419,"Which abnormality, if any, is present in this ultrasound image?",Gallstones,A,B,False,Sludge

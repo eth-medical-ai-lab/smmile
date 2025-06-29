@@ -1,0 +1,846 @@
+problem_id,final_question,true_answer,generated_answer,full_response
+01e87e12-d402-4fff-a5ea-1da6160c4e99,What color can be seen in the abnormal lesion?,Black.,"The abnormal lesion shows multiple colors. The central portion appears black (a dark, nearly black center), surrounded by a reddish-pink area of inflammation or erythema. There's also a thin whitish ring that appears to encircle the dark center, possibly representing scaling or crusting. The surrounding skin shows a yellowish-tan background with some reddish discoloration extending outward from the central lesion.
+
+This multi-colored appearance with a dark center and surrounding erythema is concerning and warrants proper dermatological evaluation.","The abnormal lesion shows multiple colors. The central portion appears black (a dark, nearly black center), surrounded by a reddish-pink area of inflammation or erythema. There's also a thin whitish ring that appears to encircle the dark center, possibly representing scaling or crusting. The surrounding skin shows a yellowish-tan background with some reddish discoloration extending outward from the central lesion.
+
+This multi-colored appearance with a dark center and surrounding erythema is concerning and warrants proper dermatological evaluation."
+02decd79-711e-4eef-9bc9-04347e4692fe,What is the diagnosis?,"Hydropneumothorax, left","This chest X-ray shows left lower lobe pneumonia with a small left pleural effusion. The findings include:
+
+1. Consolidation in the left lower lung field with air bronchograms
+2. Blunting of the left costophrenic angle consistent with a small pleural effusion
+3. Slight leftward mediastinal shift due to volume loss in the left lower lobe
+4. The right lung appears clear
+
+This pattern is consistent with left lower lobe pneumonia, which is an infection causing inflammatory consolidation of the lung parenchyma. The small pleural effusion is a common accompanying finding with pneumonia.","This chest X-ray shows left lower lobe pneumonia with a small left pleural effusion. The findings include:
+
+1. Consolidation in the left lower lung field with air bronchograms
+2. Blunting of the left costophrenic angle consistent with a small pleural effusion
+3. Slight leftward mediastinal shift due to volume loss in the left lower lobe
+4. The right lung appears clear
+
+This pattern is consistent with left lower lobe pneumonia, which is an infection causing inflammatory consolidation of the lung parenchyma. The small pleural effusion is a common accompanying finding with pneumonia."
+043f257f-34a0-4842-9334-241320202d79,Is there any type of joint deformity present here?,"Yes, Charcot´s foot, left.","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.6.content.1.image.source.base64: image exceeds 5 MB maximum: 6034308 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.6.content.1.image.source.base64: image exceeds 5 MB maximum: 6034308 bytes > 5242880 bytes'}}"
+050515b0-aff0-4ce6-8edf-b8ae01b786c5,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}"
+06485d09-1677-493a-a974-344c507da11c,What is shown in this xray?,"Clavicle fracture, left","This X-ray shows a left clavicle fracture. There is a clear discontinuity in the mid-portion of the left clavicle with displacement of the fracture fragments. The ""L"" marker in the upper right corner confirms this is a left-sided image. The surrounding shoulder structures (acromion, scapula, and proximal humerus) appear intact. The visible portion of the lung fields and upper ribs also appear normal. This type of mid-shaft clavicle fracture is a common injury, often resulting from direct trauma to the shoulder or falls onto an outstretched hand.","This X-ray shows a left clavicle fracture. There is a clear discontinuity in the mid-portion of the left clavicle with displacement of the fracture fragments. The ""L"" marker in the upper right corner confirms this is a left-sided image. The surrounding shoulder structures (acromion, scapula, and proximal humerus) appear intact. The visible portion of the lung fields and upper ribs also appear normal. This type of mid-shaft clavicle fracture is a common injury, often resulting from direct trauma to the shoulder or falls onto an outstretched hand."
+08bd93cb-0201-4f20-8e37-97e495cf3542,Are there changes of acute myocardial infarction in this ECG with paced rhythm?,Yes,"This ECG shows a ventricular paced rhythm, which makes the diagnosis of acute myocardial infarction (AMI) challenging because the pacing causes secondary repolarization abnormalities that can mask or mimic infarction patterns.
+
+Looking carefully at this ECG:
+
+1. There is a regular ventricular paced rhythm with wide QRS complexes and the characteristic pacing spikes preceding the QRS complexes
+2. The ST segments show some elevation in leads V1-V3, but this is expected with right ventricular pacing
+3. There is no excessive discordant ST elevation (ST elevation in leads with negative QRS complexes)
+4. No obvious ST depression in leads with positive QRS complexes that would be concerning for ischemia
+
+Using the modified Sgarbossa criteria for identifying AMI in paced rhythms (which looks for excessive discordant ST elevation/depression), I don't see definitive evidence of acute myocardial infarction in this ECG.
+
+The ST-T wave changes appear proportionate to the QRS changes, which is the expected pattern in uncomplicated ventricular pacing. There are no obvious regional ST segment abnormalities that would suggest acute coronary occlusion beyond what is expected with pacing.","This ECG shows a ventricular paced rhythm, which makes the diagnosis of acute myocardial infarction (AMI) challenging because the pacing causes secondary repolarization abnormalities that can mask or mimic infarction patterns.
+
+Looking carefully at this ECG:
+
+1. There is a regular ventricular paced rhythm with wide QRS complexes and the characteristic pacing spikes preceding the QRS complexes
+2. The ST segments show some elevation in leads V1-V3, but this is expected with right ventricular pacing
+3. There is no excessive discordant ST elevation (ST elevation in leads with negative QRS complexes)
+4. No obvious ST depression in leads with positive QRS complexes that would be concerning for ischemia
+
+Using the modified Sgarbossa criteria for identifying AMI in paced rhythms (which looks for excessive discordant ST elevation/depression), I don't see definitive evidence of acute myocardial infarction in this ECG.
+
+The ST-T wave changes appear proportionate to the QRS changes, which is the expected pattern in uncomplicated ventricular pacing. There are no obvious regional ST segment abnormalities that would suggest acute coronary occlusion beyond what is expected with pacing."
+09728185-88c5-4da1-8b87-cd7572a530d2,Is there any evidence of honeycombing?,yes,"Yes, there is evidence of honeycombing in this image. Honeycombing appears as clustered cystic air spaces with well-defined walls, typically of similar diameters (3-10 mm), and is visible in both lungs. This finding is characteristic of end-stage pulmonary fibrosis and represents destroyed and fibrotic lung tissue. The honeycombing in this image is diffuse and bilateral, which is consistent with advanced interstitial lung disease, most likely idiopathic pulmonary fibrosis (IPF) or another form of interstitial lung disease in its fibrotic phase.","Yes, there is evidence of honeycombing in this image. Honeycombing appears as clustered cystic air spaces with well-defined walls, typically of similar diameters (3-10 mm), and is visible in both lungs. This finding is characteristic of end-stage pulmonary fibrosis and represents destroyed and fibrotic lung tissue. The honeycombing in this image is diffuse and bilateral, which is consistent with advanced interstitial lung disease, most likely idiopathic pulmonary fibrosis (IPF) or another form of interstitial lung disease in its fibrotic phase."
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18,Is there a joint effusion?,No,No,No
+0a405f20-1fcd-4fac-a0c1-3323efac8726,Is honeycombing present?,Yes,"No, honeycombing is not present in this CT image.
+
+What is visible is a pattern of diffuse ground-glass opacities throughout both lungs with some areas of consolidation, particularly in the peripheral regions. There are also some linear opacities and interlobular septal thickening, but the image does not demonstrate the characteristic clustered cystic air spaces with well-defined walls that define honeycombing.
+
+This pattern is more consistent with an inflammatory or infectious process such as viral pneumonia (including COVID-19), organizing pneumonia, or possibly an early interstitial lung disease without honeycombing.","No, honeycombing is not present in this CT image.
+
+What is visible is a pattern of diffuse ground-glass opacities throughout both lungs with some areas of consolidation, particularly in the peripheral regions. There are also some linear opacities and interlobular septal thickening, but the image does not demonstrate the characteristic clustered cystic air spaces with well-defined walls that define honeycombing.
+
+This pattern is more consistent with an inflammatory or infectious process such as viral pneumonia (including COVID-19), organizing pneumonia, or possibly an early interstitial lung disease without honeycombing."
+16870356-d6c6-468a-8356-a8e2fc81dec5,Is there any pathology visible in this chest X-Ray?,"Water bottle sign in the heart, suggestive of pericardial effusion.","Yes, there is significant pathology visible in this chest X-ray:
+
+1. There is a large, homogeneous opacity in the right lower lung field that obscures the right hemidiaphragm and right heart border, consistent with a right lower lobe consolidation or pleural effusion.
+
+2. The cardiac silhouette appears enlarged, though this may be partially due to the adjacent opacity.
+
+3. The left costophrenic angle appears blunted, which may suggest a small left pleural effusion as well.
+
+4. The lung fields otherwise show normal vascular markings.
+
+This radiographic appearance is concerning for pneumonia with parapneumonic effusion, though other possibilities include malignancy with pleural effusion or primary pleural disease. Clinical correlation and further imaging (such as a lateral view or CT scan) would be helpful for definitive diagnosis.","Yes, there is significant pathology visible in this chest X-ray:
+
+1. There is a large, homogeneous opacity in the right lower lung field that obscures the right hemidiaphragm and right heart border, consistent with a right lower lobe consolidation or pleural effusion.
+
+2. The cardiac silhouette appears enlarged, though this may be partially due to the adjacent opacity.
+
+3. The left costophrenic angle appears blunted, which may suggest a small left pleural effusion as well.
+
+4. The lung fields otherwise show normal vascular markings.
+
+This radiographic appearance is concerning for pneumonia with parapneumonic effusion, though other possibilities include malignancy with pleural effusion or primary pleural disease. Clinical correlation and further imaging (such as a lateral view or CT scan) would be helpful for definitive diagnosis."
+18218d7e-e2b3-45ee-a6bb-45054271c091,What is the large round object?,Amoeba.,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 8802312 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 8802312 bytes > 5242880 bytes'}}"
+188fb1a0-4521-4fb1-9c82-46527f1603a9,What is the diagnosis?,Levocardia,"This chest X-ray shows levocardia with cardiomegaly (enlarged heart). The heart is positioned normally in the left chest (levocardia), but appears significantly enlarged, particularly with prominence of the left ventricle based on the cardiac silhouette. There is also evidence of increased pulmonary vascular markings, suggesting possible pulmonary vascular congestion. The lung fields otherwise appear clear without obvious infiltrates or effusions.
+
+This radiographic appearance is consistent with cardiomegaly, which could be due to various underlying cardiac conditions such as:
+- Congestive heart failure
+- Valvular heart disease
+- Cardiomyopathy
+- Chronic hypertension with left ventricular hypertrophy
+- Congenital heart disease
+
+Additional clinical information and further cardiac studies (such as echocardiography) would be needed to determine the specific etiology of the cardiomegaly.","This chest X-ray shows levocardia with cardiomegaly (enlarged heart). The heart is positioned normally in the left chest (levocardia), but appears significantly enlarged, particularly with prominence of the left ventricle based on the cardiac silhouette. There is also evidence of increased pulmonary vascular markings, suggesting possible pulmonary vascular congestion. The lung fields otherwise appear clear without obvious infiltrates or effusions.
+
+This radiographic appearance is consistent with cardiomegaly, which could be due to various underlying cardiac conditions such as:
+- Congestive heart failure
+- Valvular heart disease
+- Cardiomyopathy
+- Chronic hypertension with left ventricular hypertrophy
+- Congenital heart disease
+
+Additional clinical information and further cardiac studies (such as echocardiography) would be needed to determine the specific etiology of the cardiomegaly."
+1b7f4c9f-5655-4037-92e6-0e310f41184e,What pathology can be seen?,Vitreous hemorrhage.,"This fundus photograph shows a large subretinal hemorrhage. The image reveals a significant accumulation of blood beneath the retina, appearing as a dark red, well-demarcated area occupying a substantial portion of the visible fundus. The hemorrhage has a fluid level and obscures the underlying choroidal and retinal details in that region.
+
+Subretinal hemorrhages like this can occur in several conditions, including:
+- Wet age-related macular degeneration
+- Traumatic choroidal rupture
+- Pathologic myopia with choroidal neovascularization
+- Polypoidal choroidal vasculopathy
+- Ocular histoplasmosis syndrome
+- Retinal arterial macroaneurysm
+
+This represents an urgent ophthalmologic condition that requires prompt evaluation and management to prevent permanent vision loss from photoreceptor damage due to prolonged blood exposure.","This fundus photograph shows a large subretinal hemorrhage. The image reveals a significant accumulation of blood beneath the retina, appearing as a dark red, well-demarcated area occupying a substantial portion of the visible fundus. The hemorrhage has a fluid level and obscures the underlying choroidal and retinal details in that region.
+
+Subretinal hemorrhages like this can occur in several conditions, including:
+- Wet age-related macular degeneration
+- Traumatic choroidal rupture
+- Pathologic myopia with choroidal neovascularization
+- Polypoidal choroidal vasculopathy
+- Ocular histoplasmosis syndrome
+- Retinal arterial macroaneurysm
+
+This represents an urgent ophthalmologic condition that requires prompt evaluation and management to prevent permanent vision loss from photoreceptor damage due to prolonged blood exposure."
+1c39462b-cfdd-455c-b8f1-e099f85bcc29,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.8.content.1.image.source.base64: image exceeds 5 MB maximum: 5589200 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.8.content.1.image.source.base64: image exceeds 5 MB maximum: 5589200 bytes > 5242880 bytes'}}"
+1d690af1-020d-4163-8abe-e7fc2bbdba17,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,"Acne vulgaris.
+
+The image shows scattered inflammatory papules and comedones without the characteristic diffuse facial erythema, telangiectasia, or central facial distribution typically seen in rosacea. The lesions appear to be more discrete inflammatory papules consistent with acne vulgaris rather than the persistent erythema and papulopustular features of rosacea.","Acne vulgaris.
+
+The image shows scattered inflammatory papules and comedones without the characteristic diffuse facial erythema, telangiectasia, or central facial distribution typically seen in rosacea. The lesions appear to be more discrete inflammatory papules consistent with acne vulgaris rather than the persistent erythema and papulopustular features of rosacea."
+1e5627a5-d6ba-4714-9db5-1561d3f59d7e,Is there something pathological in this image?,"Anisocoria, right pupil more dilated than left one.","The image shows a pair of eyes with blue irises. I don't observe any obvious pathological findings in this image. The pupils appear symmetric and appropriately sized, the sclera (white part of the eyes) appears clear without significant redness or yellowing, and there are no visible lesions, discharge, or structural abnormalities. The eyelids appear normal without ptosis (drooping) or inflammation.
+
+This appears to be a normal presentation of eyes. However, a complete ophthalmological assessment would require additional views and examination techniques to rule out more subtle pathologies.","The image shows a pair of eyes with blue irises. I don't observe any obvious pathological findings in this image. The pupils appear symmetric and appropriately sized, the sclera (white part of the eyes) appears clear without significant redness or yellowing, and there are no visible lesions, discharge, or structural abnormalities. The eyelids appear normal without ptosis (drooping) or inflammation.
+
+This appears to be a normal presentation of eyes. However, a complete ophthalmological assessment would require additional views and examination techniques to rule out more subtle pathologies."
+1ee54fea-31da-4d9a-bd57-a6a006f97d3e,What is the diagnosis?,"Proptosis, left","This axial CT image shows bilateral proptosis (forward displacement of the eyeballs) with what appears to be enlargement of the extraocular muscles, particularly evident in the medial rectus muscles. The orbital fat appears relatively preserved.
+
+The constellation of findings is consistent with Graves' ophthalmopathy (also called thyroid eye disease or thyroid-associated orbitopathy). This is an autoimmune inflammatory disorder associated with Graves' disease where antibodies target the orbital tissues, causing inflammation, swelling of the extraocular muscles, and increased orbital fat volume, resulting in the characteristic proptosis.
+
+The bilateral and relatively symmetric involvement is typical of Graves' ophthalmopathy, which is the most common cause of bilateral proptosis in adults.","This axial CT image shows bilateral proptosis (forward displacement of the eyeballs) with what appears to be enlargement of the extraocular muscles, particularly evident in the medial rectus muscles. The orbital fat appears relatively preserved.
+
+The constellation of findings is consistent with Graves' ophthalmopathy (also called thyroid eye disease or thyroid-associated orbitopathy). This is an autoimmune inflammatory disorder associated with Graves' disease where antibodies target the orbital tissues, causing inflammation, swelling of the extraocular muscles, and increased orbital fat volume, resulting in the characteristic proptosis.
+
+The bilateral and relatively symmetric involvement is typical of Graves' ophthalmopathy, which is the most common cause of bilateral proptosis in adults."
+21e3a17e-4ad3-42c6-8367-3c96a8bc2aae,What type of pathology is shown?,"Subdural hematoma, right","This CT scan shows an intraparenchymal hemorrhage (IPH) in the right basal ganglia region with intraventricular extension. There is hyperdense blood within the right lateral ventricle and possibly the third ventricle. The hemorrhage appears to originate from the right basal ganglia/thalamic region, which is a common location for hypertensive hemorrhages. There is also some surrounding hypodensity suggesting edema. This type of hemorrhage is often associated with hypertension, though other causes like vascular malformations, tumors, or coagulopathies could be considered.","This CT scan shows an intraparenchymal hemorrhage (IPH) in the right basal ganglia region with intraventricular extension. There is hyperdense blood within the right lateral ventricle and possibly the third ventricle. The hemorrhage appears to originate from the right basal ganglia/thalamic region, which is a common location for hypertensive hemorrhages. There is also some surrounding hypodensity suggesting edema. This type of hemorrhage is often associated with hypertension, though other causes like vascular malformations, tumors, or coagulopathies could be considered."
+21eb81de-7686-4efc-9875-7dc4cbfc557d,Are the red blood cells normal?,"No, there are schiostocytes. ","No, the red blood cells in this peripheral blood smear are not normal. I can observe several abnormalities:
+
+1. There is significant anisocytosis (variation in cell size) with some microcytes (smaller cells) and occasional macrocytes (larger cells)
+
+2. There are fragmented red blood cells (schistocytes) visible throughout the field
+
+3. Some cells appear to have irregular shapes or fragments
+
+4. There is at least one nucleated cell visible (likely a white blood cell) in the lower right portion of the image
+
+These findings, particularly the presence of schistocytes (fragmented red blood cells), could suggest conditions such as microangiopathic hemolytic anemia, disseminated intravascular coagulation (DIC), thrombotic thrombocytopenic purpura (TTP), hemolytic uremic syndrome (HUS), or mechanical hemolysis from a prosthetic heart valve. Clinical correlation would be necessary for a definitive diagnosis.","No, the red blood cells in this peripheral blood smear are not normal. I can observe several abnormalities:
+
+1. There is significant anisocytosis (variation in cell size) with some microcytes (smaller cells) and occasional macrocytes (larger cells)
+
+2. There are fragmented red blood cells (schistocytes) visible throughout the field
+
+3. Some cells appear to have irregular shapes or fragments
+
+4. There is at least one nucleated cell visible (likely a white blood cell) in the lower right portion of the image
+
+These findings, particularly the presence of schistocytes (fragmented red blood cells), could suggest conditions such as microangiopathic hemolytic anemia, disseminated intravascular coagulation (DIC), thrombotic thrombocytopenic purpura (TTP), hemolytic uremic syndrome (HUS), or mechanical hemolysis from a prosthetic heart valve. Clinical correlation would be necessary for a definitive diagnosis."
+21ec6a11-a59f-41b2-bbca-51cc937d8828,Where is the tumor located?,Caecum.,"Based on this abdominal CT scan image, I don't see a clearly defined tumor. The image shows an axial (cross-sectional) view of the abdomen at approximately the level of the lower lumbar spine. 
+
+If there is a tumor present, it's not immediately obvious on this particular slice. To properly identify a tumor location, I would need to review multiple sequential images, possibly with contrast enhancement, and potentially correlate with other imaging modalities.
+
+For a definitive assessment, I would recommend consulting the complete radiological report that accompanies this imaging study, as it would provide a comprehensive interpretation by a radiologist who has reviewed the entire scan.","Based on this abdominal CT scan image, I don't see a clearly defined tumor. The image shows an axial (cross-sectional) view of the abdomen at approximately the level of the lower lumbar spine. 
+
+If there is a tumor present, it's not immediately obvious on this particular slice. To properly identify a tumor location, I would need to review multiple sequential images, possibly with contrast enhancement, and potentially correlate with other imaging modalities.
+
+For a definitive assessment, I would recommend consulting the complete radiological report that accompanies this imaging study, as it would provide a comprehensive interpretation by a radiologist who has reviewed the entire scan."
+2285cb57-7853-41c4-bc0b-12cf269a23a3,Is atoll sign present?,Yes,"Yes, the atoll sign (also known as the reversed halo sign) is present in this CT image of the chest. 
+
+The image shows a characteristic focal rounded area of ground-glass opacity surrounded by a more dense ring or crescent of consolidation in the right lower lung. This appearance resembles an atoll (a ring-shaped coral reef) or a reversed halo, hence the name.
+
+The atoll sign is classically associated with organizing pneumonia, but can also be seen in other conditions including fungal infections (particularly mucormycosis), tuberculosis, sarcoidosis, and pulmonary infarction. In the context of COVID-19 pneumonia, this sign has also been reported.
+
+This finding represents a specific pattern of disease where the central ground-glass opacity may represent an area of resolving or developing disease, while the surrounding consolidation represents a more active inflammatory process.","Yes, the atoll sign (also known as the reversed halo sign) is present in this CT image of the chest. 
+
+The image shows a characteristic focal rounded area of ground-glass opacity surrounded by a more dense ring or crescent of consolidation in the right lower lung. This appearance resembles an atoll (a ring-shaped coral reef) or a reversed halo, hence the name.
+
+The atoll sign is classically associated with organizing pneumonia, but can also be seen in other conditions including fungal infections (particularly mucormycosis), tuberculosis, sarcoidosis, and pulmonary infarction. In the context of COVID-19 pneumonia, this sign has also been reported.
+
+This finding represents a specific pattern of disease where the central ground-glass opacity may represent an area of resolving or developing disease, while the surrounding consolidation represents a more active inflammatory process."
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,"This chest X-ray shows cardiomegaly (enlarged heart) with left ventricular predominance. The cardiac silhouette appears significantly enlarged, particularly on the left side, with a ""boot-shaped"" appearance suggestive of left ventricular hypertrophy. There is also evidence of pulmonary vascular congestion, particularly in the perihilar regions.
+
+These findings are consistent with left-sided heart failure, which could be due to:
+1. Hypertensive heart disease
+2. Valvular heart disease (particularly aortic stenosis or mitral regurgitation)
+3. Ischemic cardiomyopathy
+4. Dilated cardiomyopathy
+
+The absence of significant pulmonary edema suggests that the condition may be compensated or under treatment. Clinical correlation would be necessary for a definitive diagnosis.","This chest X-ray shows cardiomegaly (enlarged heart) with left ventricular predominance. The cardiac silhouette appears significantly enlarged, particularly on the left side, with a ""boot-shaped"" appearance suggestive of left ventricular hypertrophy. There is also evidence of pulmonary vascular congestion, particularly in the perihilar regions.
+
+These findings are consistent with left-sided heart failure, which could be due to:
+1. Hypertensive heart disease
+2. Valvular heart disease (particularly aortic stenosis or mitral regurgitation)
+3. Ischemic cardiomyopathy
+4. Dilated cardiomyopathy
+
+The absence of significant pulmonary edema suggests that the condition may be compensated or under treatment. Clinical correlation would be necessary for a definitive diagnosis."
+29e3f38f-c199-479c-ba00-a0fa0bbaffb8,Is there a visible pathology?,No,"Yes, there is a visible pathology in this non-contrast CT scan of the brain. There is a hyperdense basilar artery, which appears as an abnormally bright (white) dot in the posterior fossa/brainstem region. This finding is consistent with a basilar artery thrombosis, which represents an acute blood clot within the basilar artery. This is a critical finding as basilar artery occlusion is a life-threatening condition that can lead to posterior circulation stroke affecting the brainstem, cerebellum, and occipital lobes.","Yes, there is a visible pathology in this non-contrast CT scan of the brain. There is a hyperdense basilar artery, which appears as an abnormally bright (white) dot in the posterior fossa/brainstem region. This finding is consistent with a basilar artery thrombosis, which represents an acute blood clot within the basilar artery. This is a critical finding as basilar artery occlusion is a life-threatening condition that can lead to posterior circulation stroke affecting the brainstem, cerebellum, and occipital lobes."
+2d3f8498-af1d-440e-92a2-4837dc277974,What kind of image is this?,MRI of the brain with contrast,"This is an MRI of the brain with contrast (T1-weighted with gadolinium). The image shows an axial (horizontal) cross-section through the brain at the level of the temporal lobes and orbits. The contrast enhancement allows for better visualization of blood vessels, tumors, inflammation, or breakdown of the blood-brain barrier. The bright areas in the image represent structures that have taken up the contrast agent.","This is an MRI of the brain with contrast (T1-weighted with gadolinium). The image shows an axial (horizontal) cross-section through the brain at the level of the temporal lobes and orbits. The contrast enhancement allows for better visualization of blood vessels, tumors, inflammation, or breakdown of the blood-brain barrier. The bright areas in the image represent structures that have taken up the contrast agent."
+2d679738-2da1-45da-b83b-aa39a86f6bcb,Is the NG tube well-positioned?,"No, in left lung","Yes, the NG tube appears to be well-positioned. The tube follows the expected course down the esophagus and into the stomach. The tip is visible below the diaphragm in the gastric region, which is the appropriate location for an NG tube. The tube does not show any concerning features such as coiling in the airway or terminating in the lung fields.","Yes, the NG tube appears to be well-positioned. The tube follows the expected course down the esophagus and into the stomach. The tip is visible below the diaphragm in the gastric region, which is the appropriate location for an NG tube. The tube does not show any concerning features such as coiling in the airway or terminating in the lung fields."
+2f86b41e-c08b-41de-9c08-677df1528af5,What is the diagnosis?,"Acute MCA infarct, right and left","This MRI brain image (FLAIR sequence) shows bilateral periventricular white matter hyperintensities. These findings are consistent with small vessel ischemic disease, which represents chronic microvascular changes in the brain. The changes appear relatively symmetrical and follow the distribution of the periventricular white matter.
+
+This pattern is commonly seen in patients with chronic hypertension, diabetes, advanced age, or other vascular risk factors. It represents chronic damage to small vessels supplying the deep white matter of the brain. Unlike the acute MCA infarcts seen in the previous images, these changes develop gradually over time and typically cause more subtle clinical manifestations.","This MRI brain image (FLAIR sequence) shows bilateral periventricular white matter hyperintensities. These findings are consistent with small vessel ischemic disease, which represents chronic microvascular changes in the brain. The changes appear relatively symmetrical and follow the distribution of the periventricular white matter.
+
+This pattern is commonly seen in patients with chronic hypertension, diabetes, advanced age, or other vascular risk factors. It represents chronic damage to small vessels supplying the deep white matter of the brain. Unlike the acute MCA infarcts seen in the previous images, these changes develop gradually over time and typically cause more subtle clinical manifestations."
+321365c0-587b-4f7e-8e85-34c152b401e0,What is the diagnosis?,"Exophthalmos, bilateral","This image shows bilateral scleral icterus (yellowing of the sclera), which is a clinical sign of jaundice. Jaundice occurs when there is excessive bilirubin in the blood, causing yellow discoloration of the skin, mucous membranes, and the whites of the eyes.
+
+The diagnosis is hyperbilirubinemia, which can result from various underlying conditions:
+
+1. Liver disease (hepatitis, cirrhosis)
+2. Biliary obstruction (gallstones, pancreatic cancer, bile duct strictures)
+3. Hemolytic disorders (where red blood cells break down too quickly)
+4. Genetic conditions affecting bilirubin metabolism (Gilbert's syndrome, Crigler-Najjar syndrome)
+
+Further laboratory tests would be needed to determine the specific cause of the jaundice in this case.","This image shows bilateral scleral icterus (yellowing of the sclera), which is a clinical sign of jaundice. Jaundice occurs when there is excessive bilirubin in the blood, causing yellow discoloration of the skin, mucous membranes, and the whites of the eyes.
+
+The diagnosis is hyperbilirubinemia, which can result from various underlying conditions:
+
+1. Liver disease (hepatitis, cirrhosis)
+2. Biliary obstruction (gallstones, pancreatic cancer, bile duct strictures)
+3. Hemolytic disorders (where red blood cells break down too quickly)
+4. Genetic conditions affecting bilirubin metabolism (Gilbert's syndrome, Crigler-Najjar syndrome)
+
+Further laboratory tests would be needed to determine the specific cause of the jaundice in this case."
+3436b5aa-7219-42c1-96cc-54f1e4286003,What is this person's skin type?,Type VI,"Type V
+
+Based on the Fitzpatrick skin type classification, this appears to be Type V skin. This skin type:
+
+- Has a naturally brown/dark brown tone
+- Rarely burns in the sun
+- Tans easily and darkens quickly with sun exposure
+- Has higher natural protection against UV radiation
+- Is common in individuals with South Asian, Middle Eastern, or African ancestry
+
+Type V skin requires sun protection but has more natural melanin that provides some inherent UV defense compared to lighter skin types.","Type V
+
+Based on the Fitzpatrick skin type classification, this appears to be Type V skin. This skin type:
+
+- Has a naturally brown/dark brown tone
+- Rarely burns in the sun
+- Tans easily and darkens quickly with sun exposure
+- Has higher natural protection against UV radiation
+- Is common in individuals with South Asian, Middle Eastern, or African ancestry
+
+Type V skin requires sun protection but has more natural melanin that provides some inherent UV defense compared to lighter skin types."
+34d5c4f5-9a58-43d0-b716-cd81487a881a,Describe the present abnormality.,"Central retinal artery occlusion. Retinal whitening and cherry-red spot are visible, as well as the likely causative clot.","This fundus photograph shows a macular cherry-red spot with surrounding retinal whitening/edema, which is characteristic of central retinal artery occlusion (CRAO). The cherry-red spot appears as a distinct reddish area at the fovea, contrasting with the pale, edematous retina surrounding it. This occurs because the choroidal circulation remains intact at the fovea (where the retina is thinnest) while the surrounding retina becomes opaque due to ischemia from the arterial occlusion. The optic disc appears slightly hyperemic. CRAO is an ophthalmic emergency that typically causes sudden, painless, severe vision loss and requires urgent evaluation and management.","This fundus photograph shows a macular cherry-red spot with surrounding retinal whitening/edema, which is characteristic of central retinal artery occlusion (CRAO). The cherry-red spot appears as a distinct reddish area at the fovea, contrasting with the pale, edematous retina surrounding it. This occurs because the choroidal circulation remains intact at the fovea (where the retina is thinnest) while the surrounding retina becomes opaque due to ischemia from the arterial occlusion. The optic disc appears slightly hyperemic. CRAO is an ophthalmic emergency that typically causes sudden, painless, severe vision loss and requires urgent evaluation and management."
+34f7d1cc-7328-457b-b9d3-5e983c6496d1,Which skin condition is shown?,petechiae,"The image shows petechiae, which are small (1-2 mm), round, non-blanching hemorrhagic spots that appear on the skin due to bleeding from small blood vessels. In this case, there are multiple purplish-red spots distributed across what appears to be a limb.
+
+Petechiae can occur due to various causes including:
+- Thrombocytopenia (low platelet count)
+- Vascular fragility
+- Certain infections (like meningococcemia, Rocky Mountain spotted fever)
+- Vasculitis
+- Trauma (including pressure or friction)
+- Certain medications
+- Blood clotting disorders
+
+When petechiae appear in this widespread pattern, it's important to seek medical evaluation as it could indicate a systemic condition requiring prompt attention.","The image shows petechiae, which are small (1-2 mm), round, non-blanching hemorrhagic spots that appear on the skin due to bleeding from small blood vessels. In this case, there are multiple purplish-red spots distributed across what appears to be a limb.
+
+Petechiae can occur due to various causes including:
+- Thrombocytopenia (low platelet count)
+- Vascular fragility
+- Certain infections (like meningococcemia, Rocky Mountain spotted fever)
+- Vasculitis
+- Trauma (including pressure or friction)
+- Certain medications
+- Blood clotting disorders
+
+When petechiae appear in this widespread pattern, it's important to seek medical evaluation as it could indicate a systemic condition requiring prompt attention."
+3808de45-a0d1-4f89-b0b9-76a6a977c90a,What is the diagnosis?,"Erb's palsy, right and left","This image shows a case of Erb's palsy affecting the right arm.
+
+Erb's palsy (also known as Erb-Duchenne palsy) is a form of brachial plexus injury that typically occurs during difficult childbirth. The characteristic findings visible in this image include:
+
+- The affected right arm is held in the classic ""waiter's tip"" position
+- Internal rotation of the arm
+- Pronation of the forearm
+- Wrist flexion
+- The hand appears to be in a claw-like position
+
+This condition results from damage to the upper trunk of the brachial plexus (C5-C6 nerve roots), often caused by excessive lateral traction on the neck during delivery, particularly in cases of shoulder dystocia. The injury affects the child's ability to rotate the arm outward or lift it away from the body.
+
+Most cases (70-80%) resolve spontaneously within the first year of life, but some require physical therapy or surgical intervention if recovery is incomplete.","This image shows a case of Erb's palsy affecting the right arm.
+
+Erb's palsy (also known as Erb-Duchenne palsy) is a form of brachial plexus injury that typically occurs during difficult childbirth. The characteristic findings visible in this image include:
+
+- The affected right arm is held in the classic ""waiter's tip"" position
+- Internal rotation of the arm
+- Pronation of the forearm
+- Wrist flexion
+- The hand appears to be in a claw-like position
+
+This condition results from damage to the upper trunk of the brachial plexus (C5-C6 nerve roots), often caused by excessive lateral traction on the neck during delivery, particularly in cases of shoulder dystocia. The injury affects the child's ability to rotate the arm outward or lift it away from the body.
+
+Most cases (70-80%) resolve spontaneously within the first year of life, but some require physical therapy or surgical intervention if recovery is incomplete."
+3833ca0c-82cd-4545-b1de-93ed42e4d6e2,"What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?",Very high suspicion for COVID-19 infection,"Very high suspicion for COVID-19 infection
+
+The CT images show extensive bilateral ground-glass opacities with areas of consolidation in a peripheral and posterior distribution, which is highly characteristic of COVID-19 pneumonia. The images demonstrate the classic radiographic pattern of COVID-19 with:
+
+1. Bilateral involvement
+2. Peripheral/subpleural distribution
+3. Ground-glass opacities with areas of consolidation
+4. Multilobar involvement
+
+These findings represent the severe manifestation of COVID-19 pneumonia with extensive parenchymal involvement. The pattern is quite typical and would be considered diagnostic in the appropriate clinical context during the pandemic.","Very high suspicion for COVID-19 infection
+
+The CT images show extensive bilateral ground-glass opacities with areas of consolidation in a peripheral and posterior distribution, which is highly characteristic of COVID-19 pneumonia. The images demonstrate the classic radiographic pattern of COVID-19 with:
+
+1. Bilateral involvement
+2. Peripheral/subpleural distribution
+3. Ground-glass opacities with areas of consolidation
+4. Multilobar involvement
+
+These findings represent the severe manifestation of COVID-19 pneumonia with extensive parenchymal involvement. The pattern is quite typical and would be considered diagnostic in the appropriate clinical context during the pandemic."
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e,Does this EEG show seizure activity?,no,"Yes, this EEG shows seizure activity. The recording demonstrates rhythmic, high-amplitude activity that evolves over time, particularly prominent in the posterior channels (P3-O1, P4-O2, etc.). There is a clear pattern of rhythmic, evolving, synchronized discharges with increasing amplitude and frequency - hallmark characteristics of ictal (seizure) activity. The rhythmic activity appears to be most prominent in the posterior head regions bilaterally, suggesting a possible posterior onset seizure. The bottom tracing appears to be an ECG recording showing the heart rhythm during the seizure event. This pattern is consistent with an electrographic seizure.","Yes, this EEG shows seizure activity. The recording demonstrates rhythmic, high-amplitude activity that evolves over time, particularly prominent in the posterior channels (P3-O1, P4-O2, etc.). There is a clear pattern of rhythmic, evolving, synchronized discharges with increasing amplitude and frequency - hallmark characteristics of ictal (seizure) activity. The rhythmic activity appears to be most prominent in the posterior head regions bilaterally, suggesting a possible posterior onset seizure. The bottom tracing appears to be an ECG recording showing the heart rhythm during the seizure event. This pattern is consistent with an electrographic seizure."
+3b17a705-1ef8-484e-bddf-2593b7062b98,Is there a visible pathology?,Pneumoperitoneum,"Yes, there is a visible pathology in this abdominal X-ray. This image shows pneumoperitoneum, which is free air in the peritoneal cavity. The air appears as an abnormal lucency (dark area) under the diaphragm and throughout the abdomen. This is a serious finding that typically indicates perforation of a hollow viscus (such as stomach, small intestine, or colon). Pneumoperitoneum is a surgical emergency that requires immediate intervention to identify and repair the source of perforation.","Yes, there is a visible pathology in this abdominal X-ray. This image shows pneumoperitoneum, which is free air in the peritoneal cavity. The air appears as an abnormal lucency (dark area) under the diaphragm and throughout the abdomen. This is a serious finding that typically indicates perforation of a hollow viscus (such as stomach, small intestine, or colon). Pneumoperitoneum is a surgical emergency that requires immediate intervention to identify and repair the source of perforation."
+3db48fb6-755b-4323-a963-42239ecb0316,Is there metastatic cancer in this lymph node?,No. ,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 7900532 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 7900532 bytes > 5242880 bytes'}}"
+3e221315-f38c-4c93-87b1-7c9915d8a41b,Is this suspicious for lymphoma?,No.,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 20982072 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 20982072 bytes > 5242880 bytes'}}"
+40ea6079-9d12-477e-b34e-373c6d4f64d5,What is the diagnosis?,"Fracture, ulna","This X-ray shows normal forearm anatomy with intact radius and ulna bones. There is no evidence of fracture, dislocation, or other bony abnormality in this image. The cortical margins appear smooth and continuous throughout both bones. The radiographic markers indicate this is a right (R) forearm X-ray. This would be interpreted as a normal study without pathological findings.","This X-ray shows normal forearm anatomy with intact radius and ulna bones. There is no evidence of fracture, dislocation, or other bony abnormality in this image. The cortical margins appear smooth and continuous throughout both bones. The radiographic markers indicate this is a right (R) forearm X-ray. This would be interpreted as a normal study without pathological findings."
+41727fb3-7f70-4274-bacb-61f84b4bf584,Is splinter hemorrhage present?,no,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 5896852 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 5896852 bytes > 5242880 bytes'}}"
+443aea8a-c61d-418c-80ab-6f9250324838,What organ is shown and is it tumorous?,Kidney without tumor. ,"This image shows a bisected kidney in a gross pathology specimen. The kidney appears normal without evidence of tumors. The image is labeled to show the normal anatomical structures of the kidney:
+
+- Renal cortex (c): The outer portion with its characteristic reddish-brown appearance
+- Medulla (m): The inner portion with its striated appearance
+- Calyx (cx): Part of the collecting system that receives urine from the renal pyramids
+- Pelvis (p): The central collecting area that funnels urine toward the ureter
+
+This is a normal kidney specimen without any visible tumorous growths. The clear demarcation between cortex and medulla, the uniform texture, and the absence of any irregular masses or nodules suggest this is a healthy kidney specimen being used for educational purposes.","This image shows a bisected kidney in a gross pathology specimen. The kidney appears normal without evidence of tumors. The image is labeled to show the normal anatomical structures of the kidney:
+
+- Renal cortex (c): The outer portion with its characteristic reddish-brown appearance
+- Medulla (m): The inner portion with its striated appearance
+- Calyx (cx): Part of the collecting system that receives urine from the renal pyramids
+- Pelvis (p): The central collecting area that funnels urine toward the ureter
+
+This is a normal kidney specimen without any visible tumorous growths. The clear demarcation between cortex and medulla, the uniform texture, and the absence of any irregular masses or nodules suggest this is a healthy kidney specimen being used for educational purposes."
+44c46ae9-37d5-43b0-afab-162db2096c2c,What is shown in this image?,Plasma cells.,"ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}"
+48095d55-9265-4a0a-b9dc-baa2343c14af,Which anatomical plane is shown?,axial or transverse plane,axial or transverse plane,axial or transverse plane
+4894916c-f303-4d6c-8f76-73edee07f0b2,Is air trapping present?,Yes,"Yes, there appears to be air trapping present in this chest CT image. The left lung shows areas of decreased attenuation (darker regions) compared to the right lung, which is characteristic of air trapping. This finding suggests small airway disease where air is unable to be properly expelled during exhalation, becoming ""trapped"" in the affected lung regions. Air trapping is commonly seen in conditions such as asthma, bronchiolitis, or chronic obstructive pulmonary disease (COPD). The mosaic pattern of attenuation (areas of different densities) visible in the left lung is consistent with regional air trapping.","Yes, there appears to be air trapping present in this chest CT image. The left lung shows areas of decreased attenuation (darker regions) compared to the right lung, which is characteristic of air trapping. This finding suggests small airway disease where air is unable to be properly expelled during exhalation, becoming ""trapped"" in the affected lung regions. Air trapping is commonly seen in conditions such as asthma, bronchiolitis, or chronic obstructive pulmonary disease (COPD). The mosaic pattern of attenuation (areas of different densities) visible in the left lung is consistent with regional air trapping."
+4a8e141c-c247-45f0-84c2-5486cfbd62cf,How many neutrophils are clearly visible?,6,"In this blood smear image, I can see 3 neutrophils that are clearly visible. Neutrophils are characterized by their segmented nuclei (typically 3-5 lobes) and pale cytoplasm. The image shows these cells among numerous red blood cells (the smaller, pink/red circular cells). The neutrophils are identifiable by their multi-lobed nuclei stained dark purple/blue and their lighter cytoplasm.","In this blood smear image, I can see 3 neutrophils that are clearly visible. Neutrophils are characterized by their segmented nuclei (typically 3-5 lobes) and pale cytoplasm. The image shows these cells among numerous red blood cells (the smaller, pink/red circular cells). The neutrophils are identifiable by their multi-lobed nuclei stained dark purple/blue and their lighter cytoplasm."
+4b8852b6-d518-4f21-beef-e016a52ce821,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.","The image shows a dark, irregular lesion on the lip with ulceration and crusting. This appears to be a squamous cell carcinoma of the lip, which commonly presents in this location due to chronic sun exposure. The lesion shows typical features including dark pigmentation, irregular borders, and ulceration. Squamous cell carcinomas on the lip often develop from actinic keratoses or other precancerous conditions and require prompt medical evaluation. This type of lesion is more common in individuals with significant sun exposure history, particularly in fair-skinned individuals.","The image shows a dark, irregular lesion on the lip with ulceration and crusting. This appears to be a squamous cell carcinoma of the lip, which commonly presents in this location due to chronic sun exposure. The lesion shows typical features including dark pigmentation, irregular borders, and ulceration. Squamous cell carcinomas on the lip often develop from actinic keratoses or other precancerous conditions and require prompt medical evaluation. This type of lesion is more common in individuals with significant sun exposure history, particularly in fair-skinned individuals."
+4d6c4b4d-6825-4c1f-adb6-ea06f72351a9,Is there a visible pathology in the ribs?,"Acute rib fracture, right","Yes, there is visible pathology in the ribs in this CT image. There appears to be an acute rib fracture on the right side. The fracture line is visible as a discontinuity in the cortex of the rib. There also appears to be some soft tissue swelling adjacent to the fracture site, which is consistent with an acute injury.
+
+The lung parenchyma appears relatively normal, though there may be some subtle areas of increased density in the right lung that could represent contusion associated with the trauma that caused the rib fracture.
+
+This type of injury is typically painful and may affect breathing mechanics. Depending on the clinical context, management would focus on pain control and monitoring for potential complications such as pneumothorax or hemothorax.","Yes, there is visible pathology in the ribs in this CT image. There appears to be an acute rib fracture on the right side. The fracture line is visible as a discontinuity in the cortex of the rib. There also appears to be some soft tissue swelling adjacent to the fracture site, which is consistent with an acute injury.
+
+The lung parenchyma appears relatively normal, though there may be some subtle areas of increased density in the right lung that could represent contusion associated with the trauma that caused the rib fracture.
+
+This type of injury is typically painful and may affect breathing mechanics. Depending on the clinical context, management would focus on pain control and monitoring for potential complications such as pneumothorax or hemothorax."
+4eff8140-addf-49c6-b690-e63ace50df8e,Is there an endoleak?,No,"No, I don't see evidence of an endoleak in this CT image. The aortic stent graft appears to be properly positioned with no contrast extravasation visible outside the lumen of the graft. The two circular hyperdense areas represent the dual lumens of the stent graft, which is normal. There is no contrast seen in the aneurysm sac surrounding the graft, which would be the hallmark finding of an endoleak.","No, I don't see evidence of an endoleak in this CT image. The aortic stent graft appears to be properly positioned with no contrast extravasation visible outside the lumen of the graft. The two circular hyperdense areas represent the dual lumens of the stent graft, which is normal. There is no contrast seen in the aneurysm sac surrounding the graft, which would be the hallmark finding of an endoleak."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.","This ECG shows second-degree heart block, type 2 (Mobitz II).
+
+The key features visible in this rhythm strip include:
+
+1. Regular P waves occurring at a consistent rate
+2. Intermittently non-conducted P waves (P waves not followed by QRS complexes)
+3. Constant PR interval in the conducted beats (no progressive PR prolongation)
+4. The pattern shows a fixed ratio of non-conduction (appears to be 2:1 conduction)
+
+This is characteristic of Mobitz II second-degree AV block, which is typically more concerning than Mobitz I (Wenckebach) because it often indicates a disease process below the AV node in the His-Purkinje system and carries a higher risk of progression to complete heart block.","This ECG shows second-degree heart block, type 2 (Mobitz II).
+
+The key features visible in this rhythm strip include:
+
+1. Regular P waves occurring at a consistent rate
+2. Intermittently non-conducted P waves (P waves not followed by QRS complexes)
+3. Constant PR interval in the conducted beats (no progressive PR prolongation)
+4. The pattern shows a fixed ratio of non-conduction (appears to be 2:1 conduction)
+
+This is characteristic of Mobitz II second-degree AV block, which is typically more concerning than Mobitz I (Wenckebach) because it often indicates a disease process below the AV node in the His-Purkinje system and carries a higher risk of progression to complete heart block."
+53694f7c-93a9-4c85-af33-363e5f08af0d," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,Lower zone,Lower zone
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d,"Which pathology, if any, is prevalent in this image?",Schistocytes,"This peripheral blood smear shows microcytic, hypochromic red blood cells, which is consistent with iron deficiency anemia. The red cells appear smaller than normal (microcytic) with increased central pallor (hypochromic). There is also some anisocytosis (variation in size) and poikilocytosis (variation in shape) visible in the image. These morphological changes are characteristic findings in iron deficiency anemia, though similar appearances can sometimes be seen in other microcytic anemias such as thalassemia.","This peripheral blood smear shows microcytic, hypochromic red blood cells, which is consistent with iron deficiency anemia. The red cells appear smaller than normal (microcytic) with increased central pallor (hypochromic). There is also some anisocytosis (variation in size) and poikilocytosis (variation in shape) visible in the image. These morphological changes are characteristic findings in iron deficiency anemia, though similar appearances can sometimes be seen in other microcytic anemias such as thalassemia."
+5c2a91db-7496-40c9-a919-ff9ec03b893b,Is there pneumoperitoneum?,No,"No, I don't see evidence of pneumoperitoneum in this chest X-ray. There is no free air visible under the diaphragm, which would be the classic radiographic sign of pneumoperitoneum on an upright chest film. The diaphragmatic contours appear normal without any subdiaphragmatic lucency that would suggest free intraperitoneal air. The lung fields and cardiac silhouette also appear within normal limits on this AP erect chest radiograph.","No, I don't see evidence of pneumoperitoneum in this chest X-ray. There is no free air visible under the diaphragm, which would be the classic radiographic sign of pneumoperitoneum on an upright chest film. The diaphragmatic contours appear normal without any subdiaphragmatic lucency that would suggest free intraperitoneal air. The lung fields and cardiac silhouette also appear within normal limits on this AP erect chest radiograph."
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92,What pathology is visible?,Retinal detachment in fundus image.,"This fundus image shows a vitreous hemorrhage. The characteristic features include:
+
+1. Diffuse reddish-orange haze obscuring clear visualization of the retinal details
+2. Blurred appearance of the optic disc
+3. Poor visualization of retinal vessels, particularly in the periphery
+4. Overall diminished clarity of the fundus view
+
+Vitreous hemorrhage occurs when blood leaks into the vitreous humor (the clear gel that fills the space between the lens and the retina). Common causes include diabetic retinopathy, retinal tears, trauma, posterior vitreous detachment, or retinal vein occlusion. This condition typically presents with sudden vision loss, floaters, or a reddish tint to vision, depending on the severity of the bleeding.","This fundus image shows a vitreous hemorrhage. The characteristic features include:
+
+1. Diffuse reddish-orange haze obscuring clear visualization of the retinal details
+2. Blurred appearance of the optic disc
+3. Poor visualization of retinal vessels, particularly in the periphery
+4. Overall diminished clarity of the fundus view
+
+Vitreous hemorrhage occurs when blood leaks into the vitreous humor (the clear gel that fills the space between the lens and the retina). Common causes include diabetic retinopathy, retinal tears, trauma, posterior vitreous detachment, or retinal vein occlusion. This condition typically presents with sudden vision loss, floaters, or a reddish tint to vision, depending on the severity of the bleeding."
+5d954983-45e2-4853-b94a-19f21492884c,Which bone or bones are fractured?,Ulna,"Radius
+
+This X-ray shows a fracture of the distal radius. There is a clear fracture line visible in the distal third of the radius with slight displacement. The ulna appears intact with no visible fracture lines. This type of injury is commonly known as a Colles' fracture when it occurs with dorsal displacement, though from this single view, the exact classification is difficult to determine with certainty.","Radius
+
+This X-ray shows a fracture of the distal radius. There is a clear fracture line visible in the distal third of the radius with slight displacement. The ulna appears intact with no visible fracture lines. This type of injury is commonly known as a Colles' fracture when it occurs with dorsal displacement, though from this single view, the exact classification is difficult to determine with certainty."
+63338bb8-841b-4420-86fe-78e1963625d0,Which skin-condition is shown?,Superficial spreading melanoma,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.12.content.1.image.source.base64: image exceeds 5 MB maximum: 5282772 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.12.content.1.image.source.base64: image exceeds 5 MB maximum: 5282772 bytes > 5242880 bytes'}}"
+6597f180-5f13-4d49-83dd-64315337ce2f,Is there visible pathology?,"Pleural effusion, right","Yes, there is visible pathology in this chest X-ray. The image shows a large right-sided pleural effusion. This is evidenced by:
+
+1. Opacification of the right lower lung field
+2. Blunting of the right costophrenic angle
+3. Partial obscuration of the right hemidiaphragm
+4. A meniscus sign (concave appearance of the fluid level)
+5. Shift of the mediastinum slightly toward the left side, suggesting the effusion is causing some mass effect
+
+The left lung appears relatively clear. There is an ""R"" marker visible confirming this is the right side with the effusion. The upper lung fields bilaterally appear to have normal aeration without significant infiltrates or masses.","Yes, there is visible pathology in this chest X-ray. The image shows a large right-sided pleural effusion. This is evidenced by:
+
+1. Opacification of the right lower lung field
+2. Blunting of the right costophrenic angle
+3. Partial obscuration of the right hemidiaphragm
+4. A meniscus sign (concave appearance of the fluid level)
+5. Shift of the mediastinum slightly toward the left side, suggesting the effusion is causing some mass effect
+
+The left lung appears relatively clear. There is an ""R"" marker visible confirming this is the right side with the effusion. The upper lung fields bilaterally appear to have normal aeration without significant infiltrates or masses."
+688b0f03-2157-4d48-965a-2b5c473e3384,"Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious?",Highly suspicious,"Highly suspicious
+
+This thyroid nodule appears highly suspicious for malignancy. The image shows a solid nodule with irregular margins and heterogeneous internal echogenicity. There appears to be microcalcifications within the nodule, which is a concerning feature. The nodule also demonstrates a more-tall-than-wide shape and has a hypoechoic appearance compared to the surrounding thyroid tissue. These features together (solid composition, irregular margins, microcalcifications, hypoechogenicity, and shape characteristics) place this nodule in the highly suspicious category according to the ACR TI-RADS or similar thyroid imaging classification systems.","Highly suspicious
+
+This thyroid nodule appears highly suspicious for malignancy. The image shows a solid nodule with irregular margins and heterogeneous internal echogenicity. There appears to be microcalcifications within the nodule, which is a concerning feature. The nodule also demonstrates a more-tall-than-wide shape and has a hypoechoic appearance compared to the surrounding thyroid tissue. These features together (solid composition, irregular margins, microcalcifications, hypoechogenicity, and shape characteristics) place this nodule in the highly suspicious category according to the ACR TI-RADS or similar thyroid imaging classification systems."
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a,What kind of MRI sequence is this?,T2 fat saturation,"This appears to be a T2-weighted sequence with fat suppression, also known as T2 fat-saturated (T2 FS) or STIR (Short Tau Inversion Recovery) sequence.
+
+The key characteristics visible in this image include:
+- Fluid appears bright (high signal intensity)
+- Fat signal is suppressed (appears darker)
+- Good contrast between soft tissues
+- The gallbladder and fluid-containing structures appear particularly bright
+- Overall darker appearance compared to standard T2 imaging
+
+This sequence is particularly useful for detecting pathology in abdominal organs, as it highlights fluid collections, edema, and inflammation while suppressing the bright signal from fat that might otherwise obscure findings.","This appears to be a T2-weighted sequence with fat suppression, also known as T2 fat-saturated (T2 FS) or STIR (Short Tau Inversion Recovery) sequence.
+
+The key characteristics visible in this image include:
+- Fluid appears bright (high signal intensity)
+- Fat signal is suppressed (appears darker)
+- Good contrast between soft tissues
+- The gallbladder and fluid-containing structures appear particularly bright
+- Overall darker appearance compared to standard T2 imaging
+
+This sequence is particularly useful for detecting pathology in abdominal organs, as it highlights fluid collections, edema, and inflammation while suppressing the bright signal from fat that might otherwise obscure findings."
+6c9f0a00-bc0b-4844-b498-c57d68382c5d,Where is the location of the endotracheal tube tip?,Trachea,"In this chest X-ray, I don't see an endotracheal tube present. There are various monitoring leads and lines visible, but no endotracheal tube is identifiable within the airway. This appears to be a chest X-ray of a non-intubated patient in the supine position, as indicated by the ""MOBILE SUPINE"" marker in the upper portion of the image.","In this chest X-ray, I don't see an endotracheal tube present. There are various monitoring leads and lines visible, but no endotracheal tube is identifiable within the airway. This appears to be a chest X-ray of a non-intubated patient in the supine position, as indicated by the ""MOBILE SUPINE"" marker in the upper portion of the image."
+6d0aec94-e009-46ea-8c93-2f2de47ef800,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,"This image shows multiple blast cells among erythrocytes. These appear to be myeloblasts, which are immature precursors of the myeloid lineage. The cells have large nuclei with fine chromatin, some visible nucleoli, and a moderate amount of basophilic cytoplasm. The presence of multiple myeloblasts in peripheral blood is concerning for acute myeloid leukemia (AML). No obvious Auer rods are visible in these particular cells, though their presence would be pathognomonic for AML.","This image shows multiple blast cells among erythrocytes. These appear to be myeloblasts, which are immature precursors of the myeloid lineage. The cells have large nuclei with fine chromatin, some visible nucleoli, and a moderate amount of basophilic cytoplasm. The presence of multiple myeloblasts in peripheral blood is concerning for acute myeloid leukemia (AML). No obvious Auer rods are visible in these particular cells, though their presence would be pathognomonic for AML."
+732150de-bce4-46af-9a70-c4b1e2c4b783,Does the liver appear enlarged?,Yes.,"Based on this abdominal CT image, the liver does not appear significantly enlarged. The liver's right lobe shows normal contour and proportions relative to the abdominal cavity. The liver edge appears sharp and well-defined, and there is no evidence of hepatomegaly extending below the costal margin or displacing adjacent structures. The parenchymal density appears homogeneous without focal lesions visible in this slice. This represents a liver of normal size based on this single axial CT image.","Based on this abdominal CT image, the liver does not appear significantly enlarged. The liver's right lobe shows normal contour and proportions relative to the abdominal cavity. The liver edge appears sharp and well-defined, and there is no evidence of hepatomegaly extending below the costal margin or displacing adjacent structures. The parenchymal density appears homogeneous without focal lesions visible in this slice. This represents a liver of normal size based on this single axial CT image."
+741ef380-c0aa-4508-8fd3-790a34b16b8b,What is shown in this image?,"Kayser-Fleischer ring, left.","This image shows a close-up of an eye with multiple solar lentigines (also known as liver spots or age spots) on the surrounding skin. These are flat, brown spots that typically appear on sun-exposed areas of the skin and are associated with cumulative sun exposure and aging. The eye itself appears normal with a blue-green iris. The periorbital skin shows some natural aging changes with fine lines and wrinkles, particularly in the upper eyelid area.","This image shows a close-up of an eye with multiple solar lentigines (also known as liver spots or age spots) on the surrounding skin. These are flat, brown spots that typically appear on sun-exposed areas of the skin and are associated with cumulative sun exposure and aging. The eye itself appears normal with a blue-green iris. The periorbital skin shows some natural aging changes with fine lines and wrinkles, particularly in the upper eyelid area."
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b,Are there signs of surgical wound infection?,Yes,"Yes, there are clear signs of surgical wound infection in this image. The wound shows:
+
+1. Significant erythema (redness) surrounding the incision site
+2. Swelling around the wound
+3. The tissue appears inflamed
+4. The suture line shows signs of irritation
+
+This appearance is consistent with a surgical site infection (SSI). The pronounced redness extending beyond the immediate incision line is particularly concerning, as normal post-operative inflammation typically doesn't spread this extensively. The knee appears to have diffuse erythema that extends well beyond the incision margins.
+
+This patient would require prompt evaluation, likely including:
+- Assessment for fever or other systemic symptoms
+- Possible wound culture
+- Consideration of antibiotic therapy
+- Potential wound care interventions
+
+Early intervention for surgical site infections is important to prevent more serious complications such as deep tissue infection or sepsis.","Yes, there are clear signs of surgical wound infection in this image. The wound shows:
+
+1. Significant erythema (redness) surrounding the incision site
+2. Swelling around the wound
+3. The tissue appears inflamed
+4. The suture line shows signs of irritation
+
+This appearance is consistent with a surgical site infection (SSI). The pronounced redness extending beyond the immediate incision line is particularly concerning, as normal post-operative inflammation typically doesn't spread this extensively. The knee appears to have diffuse erythema that extends well beyond the incision margins.
+
+This patient would require prompt evaluation, likely including:
+- Assessment for fever or other systemic symptoms
+- Possible wound culture
+- Consideration of antibiotic therapy
+- Potential wound care interventions
+
+Early intervention for surgical site infections is important to prevent more serious complications such as deep tissue infection or sepsis."
+820c2943-aea7-454e-ae7a-850c50c0de2f,Does this ECG show artifact or ventricular tachycardia?,artifact ,"This ECG shows artifact rather than ventricular tachycardia.
+
+Key findings supporting artifact:
+
+1. The top three rhythm strips show irregular, chaotic waveforms with variable morphology and amplitude
+2. Blue arrows appear to mark what might be underlying normal QRS complexes that are visible through the artifact
+3. The bottom three leads (V4, V5, V6) show a completely normal sinus rhythm with regular QRS complexes
+4. There is a clear discrepancy between the chaotic appearance in the top leads and the normal rhythm in the precordial leads
+
+This pattern is classic for motion artifact or electrode interference affecting only some leads while others continue to show the patient's true underlying normal rhythm. In true ventricular tachycardia, all leads would demonstrate the abnormal rhythm simultaneously.
+
+This is an important distinction clinically, as artifact requires no treatment while ventricular tachycardia would require immediate intervention.","This ECG shows artifact rather than ventricular tachycardia.
+
+Key findings supporting artifact:
+
+1. The top three rhythm strips show irregular, chaotic waveforms with variable morphology and amplitude
+2. Blue arrows appear to mark what might be underlying normal QRS complexes that are visible through the artifact
+3. The bottom three leads (V4, V5, V6) show a completely normal sinus rhythm with regular QRS complexes
+4. There is a clear discrepancy between the chaotic appearance in the top leads and the normal rhythm in the precordial leads
+
+This pattern is classic for motion artifact or electrode interference affecting only some leads while others continue to show the patient's true underlying normal rhythm. In true ventricular tachycardia, all leads would demonstrate the abnormal rhythm simultaneously.
+
+This is an important distinction clinically, as artifact requires no treatment while ventricular tachycardia would require immediate intervention."
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e,"Is there a fracture and if so, what kind?",No fracture,"Yes, there is a fracture visible in this X-ray. This appears to be an intertrochanteric fracture of the proximal femur (hip fracture).
+
+An intertrochanteric fracture occurs between the greater and lesser trochanters of the femur. In this image, you can see a fracture line extending through the intertrochanteric region of the proximal femur. This type of fracture is common in elderly patients, particularly those with osteoporosis, and typically results from falls.
+
+These fractures usually require surgical intervention with internal fixation using devices such as dynamic hip screws or intramedullary nails to stabilize the fracture and allow for early mobilization.","Yes, there is a fracture visible in this X-ray. This appears to be an intertrochanteric fracture of the proximal femur (hip fracture).
+
+An intertrochanteric fracture occurs between the greater and lesser trochanters of the femur. In this image, you can see a fracture line extending through the intertrochanteric region of the proximal femur. This type of fracture is common in elderly patients, particularly those with osteoporosis, and typically results from falls.
+
+These fractures usually require surgical intervention with internal fixation using devices such as dynamic hip screws or intramedullary nails to stabilize the fracture and allow for early mobilization."
+9db35400-5633-48fa-9411-97926d30d4c5,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,"# Radiological Interpretation: Right Hand Radiograph
+
+## TECHNIQUE
+PA (posteroanterior) projection of the right hand, adequately penetrated and positioned.
+
+## FINDINGS
+- **Bones**: All carpal, metacarpal, and phalangeal bones demonstrate normal mineralization and trabecular pattern. No fractures, dislocations, or destructive lesions are identified.
+- **Joints**: Joint spaces are well-preserved throughout the hand, including the radiocarpal, intercarpal, carpometacarpal, metacarpophalangeal, and interphalangeal joints. No joint space narrowing, erosions, or osteophyte formation.
+- **Soft tissues**: Normal soft tissue shadows without evidence of swelling or calcifications.
+- **Alignment**: Normal alignment of all bones and joints.
+
+## IMPRESSION
+Normal radiographic appearance of the right hand. No evidence of fracture, dislocation, arthritis, or other osseous abnormality.","# Radiological Interpretation: Right Hand Radiograph
+
+## TECHNIQUE
+PA (posteroanterior) projection of the right hand, adequately penetrated and positioned.
+
+## FINDINGS
+- **Bones**: All carpal, metacarpal, and phalangeal bones demonstrate normal mineralization and trabecular pattern. No fractures, dislocations, or destructive lesions are identified.
+- **Joints**: Joint spaces are well-preserved throughout the hand, including the radiocarpal, intercarpal, carpometacarpal, metacarpophalangeal, and interphalangeal joints. No joint space narrowing, erosions, or osteophyte formation.
+- **Soft tissues**: Normal soft tissue shadows without evidence of swelling or calcifications.
+- **Alignment**: Normal alignment of all bones and joints.
+
+## IMPRESSION
+Normal radiographic appearance of the right hand. No evidence of fracture, dislocation, arthritis, or other osseous abnormality."
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9,Is there a tree-in-bud appearance?,No,"No, there is no tree-in-bud appearance in this CT image. The image shows what appears to be a chest CT with significant lung pathology, possibly collapse or consolidation, but the classic tree-in-bud pattern (which would appear as small centrilobular nodules with branching opacities resembling a budding tree) is not visible in this image. The lung fields show areas of increased density but lack the characteristic branching pattern of small airways filled with fluid, mucus, or pus that would constitute a tree-in-bud appearance.","No, there is no tree-in-bud appearance in this CT image. The image shows what appears to be a chest CT with significant lung pathology, possibly collapse or consolidation, but the classic tree-in-bud pattern (which would appear as small centrilobular nodules with branching opacities resembling a budding tree) is not visible in this image. The lung fields show areas of increased density but lack the characteristic branching pattern of small airways filled with fluid, mucus, or pus that would constitute a tree-in-bud appearance."
+a0111520-e2e0-406c-9bf0-5139d8a2f30d,What pathology is shown in this image?,Tinea Corporis,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.12.content.1.image.source.base64: image exceeds 5 MB maximum: 7629576 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.12.content.1.image.source.base64: image exceeds 5 MB maximum: 7629576 bytes > 5242880 bytes'}}"
+a1ab8e85-4cca-4707-b3dd-57da42738aac,How does the surgical site look like?,A normal suture with eleven stitches. No signs of infection or inflammation.,"The surgical site shows a well-approximated incision with multiple staples/sutures in place. The wound appears to be healing appropriately with minimal erythema (redness) around the incision line. There is some expected mild discoloration from antiseptic solution (the yellowish-orange tint), which is normal.
+
+The edges of the wound are well-aligned, and there are no signs of infection such as excessive redness, purulent discharge, significant swelling, or wound dehiscence. The staples/sutures are evenly spaced and appear to be providing good tension across the wound.
+
+This appears to be a surgical site that is progressing through normal healing phases. The location appears to be on an ankle or lower extremity area, and the wound closure looks appropriate for this region.","The surgical site shows a well-approximated incision with multiple staples/sutures in place. The wound appears to be healing appropriately with minimal erythema (redness) around the incision line. There is some expected mild discoloration from antiseptic solution (the yellowish-orange tint), which is normal.
+
+The edges of the wound are well-aligned, and there are no signs of infection such as excessive redness, purulent discharge, significant swelling, or wound dehiscence. The staples/sutures are evenly spaced and appear to be providing good tension across the wound.
+
+This appears to be a surgical site that is progressing through normal healing phases. The location appears to be on an ankle or lower extremity area, and the wound closure looks appropriate for this region."
+a7cf906c-228d-44cf-82bd-f5961343273f,What kind of cerebral edema is shown?,Combined edema.,"This CT scan shows diffuse cerebral edema, most consistent with global cerebral edema. The image demonstrates:
+
+- Loss of gray-white matter differentiation throughout the cerebral hemispheres
+- Effacement of the cerebral sulci
+- Compression of the ventricular system
+- Overall decreased density of the brain parenchyma
+
+Global cerebral edema typically occurs in settings of severe hypoxic-ischemic injury, such as after cardiac arrest, drowning, or severe hypotension. This represents a combination of cytotoxic and vasogenic mechanisms affecting the entire brain rather than a focal region.","This CT scan shows diffuse cerebral edema, most consistent with global cerebral edema. The image demonstrates:
+
+- Loss of gray-white matter differentiation throughout the cerebral hemispheres
+- Effacement of the cerebral sulci
+- Compression of the ventricular system
+- Overall decreased density of the brain parenchyma
+
+Global cerebral edema typically occurs in settings of severe hypoxic-ischemic injury, such as after cardiac arrest, drowning, or severe hypotension. This represents a combination of cytotoxic and vasogenic mechanisms affecting the entire brain rather than a focal region."
+aa4a25e1-c52f-4811-a126-bbb52f348ef4,Can you identify which medication (and what dose) does patient have in their pill box?,Atorvastatin 10 mg,"The image shows two white oval tablets. The top tablet is imprinted with ""APO"" and the bottom tablet is imprinted with ""A10"". This is Amlodipine 10 mg, manufactured by Apotex.
+
+Amlodipine is a calcium channel blocker commonly used to treat high blood pressure (hypertension) and coronary artery disease. The 10 mg dose is typically the maximum daily dose for this medication.","The image shows two white oval tablets. The top tablet is imprinted with ""APO"" and the bottom tablet is imprinted with ""A10"". This is Amlodipine 10 mg, manufactured by Apotex.
+
+Amlodipine is a calcium channel blocker commonly used to treat high blood pressure (hypertension) and coronary artery disease. The 10 mg dose is typically the maximum daily dose for this medication."
+aa9e1c00-8519-465d-9e18-0861b353c138,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,"Yes, there is a pneumothorax visible on this chest X-ray, but it does not appear to be a tension pneumothorax.
+
+The image shows a right-sided pneumothorax, evidenced by the visible pleural line and lack of lung markings peripheral to this line. However, this does not demonstrate the classic signs of a tension pneumothorax, which would typically include:
+
+1. Significant mediastinal shift away from the affected side
+2. Depression of the ipsilateral hemidiaphragm
+3. Widening of intercostal spaces
+4. Complete or near-complete lung collapse
+
+This appears to be a moderate pneumothorax without tension physiology. The mediastinal structures do not appear to be significantly displaced, which would be a hallmark finding in tension pneumothorax.","Yes, there is a pneumothorax visible on this chest X-ray, but it does not appear to be a tension pneumothorax.
+
+The image shows a right-sided pneumothorax, evidenced by the visible pleural line and lack of lung markings peripheral to this line. However, this does not demonstrate the classic signs of a tension pneumothorax, which would typically include:
+
+1. Significant mediastinal shift away from the affected side
+2. Depression of the ipsilateral hemidiaphragm
+3. Widening of intercostal spaces
+4. Complete or near-complete lung collapse
+
+This appears to be a moderate pneumothorax without tension physiology. The mediastinal structures do not appear to be significantly displaced, which would be a hallmark finding in tension pneumothorax."
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,"Yes, there is an intracerebral hemorrhage in this image. This appears to be an intraparenchymal hemorrhage in the left basal ganglia/thalamic region. The hemorrhage appears as a hyperdense (bright white) lesion with relatively well-defined borders within the brain parenchyma. This type of hemorrhage occurs within the brain tissue itself, as opposed to the subdural, epidural, or subarachnoid spaces. Intraparenchymal hemorrhages in this location are often associated with hypertension as the underlying cause.","Yes, there is an intracerebral hemorrhage in this image. This appears to be an intraparenchymal hemorrhage in the left basal ganglia/thalamic region. The hemorrhage appears as a hyperdense (bright white) lesion with relatively well-defined borders within the brain parenchyma. This type of hemorrhage occurs within the brain tissue itself, as opposed to the subdural, epidural, or subarachnoid spaces. Intraparenchymal hemorrhages in this location are often associated with hypertension as the underlying cause."
+ae849698-02d1-4e88-98f8-558f15089a42,How many fingers are shown in this image?,6,"5
+
+This X-ray image shows a hand with 5 fingers - the thumb and four fingers (index, middle, ring, and little finger). The X-ray clearly displays the bone structure of all five digits, along with the metacarpal bones in the palm and a portion of the radius and ulna bones of the forearm.","5
+
+This X-ray image shows a hand with 5 fingers - the thumb and four fingers (index, middle, ring, and little finger). The X-ray clearly displays the bone structure of all five digits, along with the metacarpal bones in the palm and a portion of the radius and ulna bones of the forearm."
+afabd2e4-a0f2-4e06-9ba3-3db6e1ff73e0,Do these patient signature samples over the years show micrographia?,Yes,"This image doesn't show signature samples but rather demonstrates a handwriting exercise showing repeated lowercase ""e"" characters. 
+
+The image shows two rows (labeled A and B) of the letter ""e"" written multiple times. In row A, there appears to be a pattern where the ""e"" starts larger and gradually becomes smaller toward the right side of the row. In row B, there's a similar but less consistent pattern.
+
+This type of exercise is often used in the assessment of micrographia, which is the abnormal smallness of handwriting and a common symptom in Parkinson's disease. The progressive reduction in letter size across a line or with continued writing is characteristic of micrographia. 
+
+So while this isn't a collection of signatures over time, it does appear to be demonstrating the micrographia phenomenon in a controlled writing exercise.","This image doesn't show signature samples but rather demonstrates a handwriting exercise showing repeated lowercase ""e"" characters. 
+
+The image shows two rows (labeled A and B) of the letter ""e"" written multiple times. In row A, there appears to be a pattern where the ""e"" starts larger and gradually becomes smaller toward the right side of the row. In row B, there's a similar but less consistent pattern.
+
+This type of exercise is often used in the assessment of micrographia, which is the abnormal smallness of handwriting and a common symptom in Parkinson's disease. The progressive reduction in letter size across a line or with continued writing is characteristic of micrographia. 
+
+So while this isn't a collection of signatures over time, it does appear to be demonstrating the micrographia phenomenon in a controlled writing exercise."
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0,Is there hydronephrosis?,No,"No, there is no hydronephrosis visible in this image. Both kidneys appear to have normal collecting systems without dilation of the renal pelvis or calyces. The renal parenchyma appears preserved with normal corticomedullary differentiation.","No, there is no hydronephrosis visible in this image. Both kidneys appear to have normal collecting systems without dilation of the renal pelvis or calyces. The renal parenchyma appears preserved with normal corticomedullary differentiation."
+b04916c8-41b9-4189-a16b-e831c2ddc950,What pathology is shown?,Ulcerative colitis,"This endoscopic image shows a colonic polyp. The image reveals a raised, rounded lesion protruding from the mucosal surface of what appears to be the colon. Colonic polyps are abnormal growths that arise from the inner lining of the colon. They can vary in size and appearance, and while many are benign, some have the potential to develop into colorectal cancer over time, particularly adenomatous polyps.
+
+The surrounding mucosa appears relatively normal with typical vascular patterns visible. This type of finding is commonly encountered during routine colonoscopy screenings, which are recommended for adults starting at age 45-50 to detect and remove such polyps before they potentially progress to cancer.","This endoscopic image shows a colonic polyp. The image reveals a raised, rounded lesion protruding from the mucosal surface of what appears to be the colon. Colonic polyps are abnormal growths that arise from the inner lining of the colon. They can vary in size and appearance, and while many are benign, some have the potential to develop into colorectal cancer over time, particularly adenomatous polyps.
+
+The surrounding mucosa appears relatively normal with typical vascular patterns visible. This type of finding is commonly encountered during routine colonoscopy screenings, which are recommended for adults starting at age 45-50 to detect and remove such polyps before they potentially progress to cancer."
+b214470b-8d93-40eb-bd02-56c83e3615df,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,"This MRI image shows multiple variable-sized cysts in both kidneys, predominantly affecting the lower poles. The cysts appear as well-defined, round, bright (hyperintense) structures on this T2-weighted MRI sequence.
+
+This appearance is consistent with Autosomal Dominant Polycystic Kidney Disease (ADPKD). ADPKD is characterized by the progressive development of fluid-filled cysts throughout the kidneys, which gradually replace normal renal parenchyma and can lead to kidney enlargement and eventual renal failure.
+
+Key radiological features visible here:
+- Bilateral kidney involvement
+- Multiple cysts of varying sizes
+- Preservation of some normal renal tissue (though progressively compromised)
+- Characteristic distribution pattern
+
+ADPKD is the most common inherited kidney disease, typically manifesting clinically in adulthood, though radiological findings may be present earlier. The condition is caused by mutations in either the PKD1 or PKD2 gene in most cases.","This MRI image shows multiple variable-sized cysts in both kidneys, predominantly affecting the lower poles. The cysts appear as well-defined, round, bright (hyperintense) structures on this T2-weighted MRI sequence.
+
+This appearance is consistent with Autosomal Dominant Polycystic Kidney Disease (ADPKD). ADPKD is characterized by the progressive development of fluid-filled cysts throughout the kidneys, which gradually replace normal renal parenchyma and can lead to kidney enlargement and eventual renal failure.
+
+Key radiological features visible here:
+- Bilateral kidney involvement
+- Multiple cysts of varying sizes
+- Preservation of some normal renal tissue (though progressively compromised)
+- Characteristic distribution pattern
+
+ADPKD is the most common inherited kidney disease, typically manifesting clinically in adulthood, though radiological findings may be present earlier. The condition is caused by mutations in either the PKD1 or PKD2 gene in most cases."
+b25c0453-eaf9-481c-9dbe-bc8924905668,Where is the pneumonia located?,left upper lobe,"This chest X-ray appears normal without evidence of pneumonia. The lung fields are clear bilaterally with no focal consolidations, infiltrates, or opacities that would suggest pneumonia. The cardiomediastinal silhouette is normal in size and contour, and the costophrenic angles are sharp. There is good lung expansion without evidence of pleural effusion or pneumothorax.","This chest X-ray appears normal without evidence of pneumonia. The lung fields are clear bilaterally with no focal consolidations, infiltrates, or opacities that would suggest pneumonia. The cardiomediastinal silhouette is normal in size and contour, and the costophrenic angles are sharp. There is good lung expansion without evidence of pleural effusion or pneumothorax."
+b2c4774e-08f5-460e-87e5-4c496942ab8a,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 5962404 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 5962404 bytes > 5242880 bytes'}}"
+b3eb1d37-e024-4463-8014-eb8f11f81936,Is there visible pathology?,Appendicitis,"Yes, there is visible pathology in this coronal CT image of the abdomen and pelvis. The image shows a large hypodense mass in the left kidney, which is consistent with a renal cyst or potentially a renal neoplasm. The left kidney appears enlarged compared to the right kidney. There also appears to be some contrast material in the collecting systems bilaterally.
+
+Additionally, there are what appear to be vertebral body fusion devices or hardware visible in the lumbar spine, indicating previous spinal surgery.
+
+The liver, spleen, and visible bowel appear unremarkable from this view. No free fluid or pneumoperitoneum is identified.","Yes, there is visible pathology in this coronal CT image of the abdomen and pelvis. The image shows a large hypodense mass in the left kidney, which is consistent with a renal cyst or potentially a renal neoplasm. The left kidney appears enlarged compared to the right kidney. There also appears to be some contrast material in the collecting systems bilaterally.
+
+Additionally, there are what appear to be vertebral body fusion devices or hardware visible in the lumbar spine, indicating previous spinal surgery.
+
+The liver, spleen, and visible bowel appear unremarkable from this view. No free fluid or pneumoperitoneum is identified."
+b41fb4f4-e509-4ead-a337-1ab15b4cb4bb,Is bronchiectasis present?,Yes,"Yes, bronchiectasis is present in this coronal CT image of the chest. 
+
+The image shows several characteristic findings of bronchiectasis:
+
+1. Dilated bronchi that appear wider than their accompanying pulmonary vessels (the ""signet ring"" sign)
+2. Lack of normal bronchial tapering as they extend toward the periphery
+3. Visible bronchi in the peripheral third of the lung fields
+4. Thickened bronchial walls
+
+These findings are particularly evident in the lower lobes bilaterally. The bronchiectatic changes appear to be cylindrical/tubular in morphology. There also appears to be some volume loss in the lower lobes, which is a common finding in chronic bronchiectasis.
+
+This pattern is consistent with bronchiectasis, which represents permanent abnormal dilation of the bronchi due to chronic inflammation and destruction of the structural components of the bronchial walls.","Yes, bronchiectasis is present in this coronal CT image of the chest. 
+
+The image shows several characteristic findings of bronchiectasis:
+
+1. Dilated bronchi that appear wider than their accompanying pulmonary vessels (the ""signet ring"" sign)
+2. Lack of normal bronchial tapering as they extend toward the periphery
+3. Visible bronchi in the peripheral third of the lung fields
+4. Thickened bronchial walls
+
+These findings are particularly evident in the lower lobes bilaterally. The bronchiectatic changes appear to be cylindrical/tubular in morphology. There also appears to be some volume loss in the lower lobes, which is a common finding in chronic bronchiectasis.
+
+This pattern is consistent with bronchiectasis, which represents permanent abnormal dilation of the bronchi due to chronic inflammation and destruction of the structural components of the bronchial walls."
+b43555d3-9ef4-4280-bdec-902f634ec75a,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 10224136 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 10224136 bytes > 5242880 bytes'}}"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,"There appears to be right ventricular enlargement, which is consistent with right heart strain secondary to the pulmonary embolism. This is an expected finding in significant pulmonary embolism cases, especially with a saddle embolus, as the right ventricle must work harder against the increased pulmonary vascular resistance caused by the clot.","There appears to be right ventricular enlargement, which is consistent with right heart strain secondary to the pulmonary embolism. This is an expected finding in significant pulmonary embolism cases, especially with a saddle embolus, as the right ventricle must work harder against the increased pulmonary vascular resistance caused by the clot."
+b60bb3ca-680f-4d0d-b616-456e6a84908c,Is there evidence of inflammation?,No.,"Yes, there is evidence of inflammation in this MRI image of a knee joint. The image shows a small joint effusion (fluid collection) visible as the increased signal intensity (brighter area) in the suprapatellar pouch and posterior aspect of the knee joint. Joint effusion is a common sign of inflammation. There also appears to be some synovial thickening, which is another indicator of inflammatory changes. The bone marrow signal appears relatively normal, but the soft tissue changes are consistent with an inflammatory process affecting the knee joint. This could represent synovitis, which is inflammation of the synovial membrane lining the joint.","Yes, there is evidence of inflammation in this MRI image of a knee joint. The image shows a small joint effusion (fluid collection) visible as the increased signal intensity (brighter area) in the suprapatellar pouch and posterior aspect of the knee joint. Joint effusion is a common sign of inflammation. There also appears to be some synovial thickening, which is another indicator of inflammatory changes. The bone marrow signal appears relatively normal, but the soft tissue changes are consistent with an inflammatory process affecting the knee joint. This could represent synovitis, which is inflammation of the synovial membrane lining the joint."
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8,Is there a lung mass in the Chest radiograph?,Yes.,"Yes, there appears to be an opacity in the right upper lung field. There is a somewhat ill-defined mass-like density in the right upper lobe that appears to have irregular borders. This finding is concerning for a lung mass and would warrant further investigation with additional imaging such as a CT scan of the chest for better characterization. The remainder of the lung fields appear relatively clear, with normal cardiac silhouette and no obvious pleural effusions.","Yes, there appears to be an opacity in the right upper lung field. There is a somewhat ill-defined mass-like density in the right upper lobe that appears to have irregular borders. This finding is concerning for a lung mass and would warrant further investigation with additional imaging such as a CT scan of the chest for better characterization. The remainder of the lung fields appear relatively clear, with normal cardiac silhouette and no obvious pleural effusions."
+b82002ea-ec05-4c5c-95a8-3b646f020ed7,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,"ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}"
+ba18e483-86ae-4f00-9b03-dc1d5d1d6cef,What is the cytologic diagnosis?,Low-grade squamous intraepithelial lesion (LSIL).,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 10228932 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 10228932 bytes > 5242880 bytes'}}"
+bd2f6789-49fc-4e2b-b38a-7f6d0bb0d9e6,What is the diagnosis?,"Consolidation, left lower lobe","This chest X-ray shows a left lower lobe pneumonia with consolidation. There is an area of increased opacity (whiteness) in the left lower lung field, consistent with alveolar filling from infection. The right lung appears relatively clear. The cardiac silhouette is normal in size, and no pleural effusion is evident. The finding is consistent with community-acquired pneumonia affecting the left lower lobe.","This chest X-ray shows a left lower lobe pneumonia with consolidation. There is an area of increased opacity (whiteness) in the left lower lung field, consistent with alveolar filling from infection. The right lung appears relatively clear. The cardiac silhouette is normal in size, and no pleural effusion is evident. The finding is consistent with community-acquired pneumonia affecting the left lower lobe."
+bda6b1c5-2522-418c-94f5-124c3018015d,Are there any pathologies shown in this image?,Varicosis in both legs.,"Yes, the image shows varicose veins in the right leg. Varicose veins appear as dilated, tortuous, bluish vessels visible through the skin. This condition occurs when the valves in the veins become weak or damaged, allowing blood to pool and veins to enlarge.
+
+The right leg in the image displays the characteristic bluish, rope-like appearance of varicose veins, particularly in the posterior-lateral aspect of the leg. The left leg appears relatively normal in comparison.
+
+Varicose veins are a common manifestation of chronic venous insufficiency and can cause symptoms such as aching, heaviness, swelling, and discomfort in affected limbs. They're more common with advancing age, in women, during pregnancy, and in those with occupations requiring prolonged standing.","Yes, the image shows varicose veins in the right leg. Varicose veins appear as dilated, tortuous, bluish vessels visible through the skin. This condition occurs when the valves in the veins become weak or damaged, allowing blood to pool and veins to enlarge.
+
+The right leg in the image displays the characteristic bluish, rope-like appearance of varicose veins, particularly in the posterior-lateral aspect of the leg. The left leg appears relatively normal in comparison.
+
+Varicose veins are a common manifestation of chronic venous insufficiency and can cause symptoms such as aching, heaviness, swelling, and discomfort in affected limbs. They're more common with advancing age, in women, during pregnancy, and in those with occupations requiring prolonged standing."
+be56d9fd-423c-43fe-b5d9-1b9fe46c1808,Is there fat necrosis?,No. ,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 27486564 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 27486564 bytes > 5242880 bytes'}}"
+c0a57b05-eee7-499a-8745-a2f637cde131,Is there any evidence of pneumothorax in the radiograph?,Yes.,"No, there is no evidence of pneumothorax in this chest radiograph.
+
+A pneumothorax would appear as a visible separation between the lung edge and the chest wall, with absence of lung markings in that space. In this image, the lung margins extend to the chest wall bilaterally with no visible pleural line or air collection in the pleural space.
+
+The lung fields demonstrate normal vascular markings extending to the periphery on both sides. The costophrenic angles are sharp and clear. The cardiac silhouette appears normal in size and shape, and the mediastinum is midline with no evidence of shift that might suggest tension pneumothorax.
+
+This appears to be a normal chest radiograph without evidence of pneumothorax or other acute cardiopulmonary abnormalities.","No, there is no evidence of pneumothorax in this chest radiograph.
+
+A pneumothorax would appear as a visible separation between the lung edge and the chest wall, with absence of lung markings in that space. In this image, the lung margins extend to the chest wall bilaterally with no visible pleural line or air collection in the pleural space.
+
+The lung fields demonstrate normal vascular markings extending to the periphery on both sides. The costophrenic angles are sharp and clear. The cardiac silhouette appears normal in size and shape, and the mediastinum is midline with no evidence of shift that might suggest tension pneumothorax.
+
+This appears to be a normal chest radiograph without evidence of pneumothorax or other acute cardiopulmonary abnormalities."
+c7db3e52-cadc-4110-acaf-df1d77417653,What is the diagnosis?,"Facial palsy, left","The image shows a case of Bell's palsy, specifically left-sided facial paralysis. 
+
+The clinical findings visible in the image include:
+- Asymmetry of the face with drooping of the left side
+- Inability to fully close the left eye
+- Flattening of the left nasolabial fold
+- Drooping of the left corner of the mouth
+- Asymmetrical smile with deviation toward the unaffected (right) side
+
+Bell's palsy is a form of temporary facial paralysis resulting from damage or trauma to the facial nerve (cranial nerve VII). It's typically a diagnosis of exclusion after ruling out other causes of facial paralysis such as stroke, tumor, or Lyme disease. The condition often has a sudden onset and can affect people of any age, though it's more common in adults. Most patients recover completely within 3-6 months, though some may have residual weakness.","The image shows a case of Bell's palsy, specifically left-sided facial paralysis. 
+
+The clinical findings visible in the image include:
+- Asymmetry of the face with drooping of the left side
+- Inability to fully close the left eye
+- Flattening of the left nasolabial fold
+- Drooping of the left corner of the mouth
+- Asymmetrical smile with deviation toward the unaffected (right) side
+
+Bell's palsy is a form of temporary facial paralysis resulting from damage or trauma to the facial nerve (cranial nerve VII). It's typically a diagnosis of exclusion after ruling out other causes of facial paralysis such as stroke, tumor, or Lyme disease. The condition often has a sudden onset and can affect people of any age, though it's more common in adults. Most patients recover completely within 3-6 months, though some may have residual weakness."
+c8270afe-324e-4bdf-af7d-a95d1f7d2155,"What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? ",Highly suggestive of malignancy,"Suspicious
+
+This mammogram shows an area of architectural distortion with spiculated margins in the central portion of the breast. The spiculated appearance with irregular borders and tissue retraction is concerning for malignancy. This type of finding would typically be classified as BI-RADS 4 (suspicious), which carries a risk of malignancy between 2-95% depending on specific features. The spiculated nature of this lesion is particularly concerning and would warrant further investigation with additional imaging (such as spot compression views, tomosynthesis, or ultrasound) and likely biopsy for definitive diagnosis.","Suspicious
+
+This mammogram shows an area of architectural distortion with spiculated margins in the central portion of the breast. The spiculated appearance with irregular borders and tissue retraction is concerning for malignancy. This type of finding would typically be classified as BI-RADS 4 (suspicious), which carries a risk of malignancy between 2-95% depending on specific features. The spiculated nature of this lesion is particularly concerning and would warrant further investigation with additional imaging (such as spot compression views, tomosynthesis, or ultrasound) and likely biopsy for definitive diagnosis."
+ca0f791b-bcbd-4c2c-9ea0-c960f9fac20c,What suture technique is shown?,Donati suture technique.,"This image shows simple interrupted sutures. The technique involves placing individual sutures that are tied and cut separately from one another. Each suture creates an ""X"" pattern when viewed from above, as can be seen in the image. This is one of the most commonly used suture techniques in wound closure, particularly for wounds under minimal tension. The interrupted nature of these sutures provides good wound edge eversion and allows for precise adjustment of tension along different parts of the wound.","This image shows simple interrupted sutures. The technique involves placing individual sutures that are tied and cut separately from one another. Each suture creates an ""X"" pattern when viewed from above, as can be seen in the image. This is one of the most commonly used suture techniques in wound closure, particularly for wounds under minimal tension. The interrupted nature of these sutures provides good wound edge eversion and allows for precise adjustment of tension along different parts of the wound."
+cae3a3c3-4917-421d-b4a5-360767f459cd,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 8222296 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 8222296 bytes > 5242880 bytes'}}"
+cdeea5fd-c696-4cdf-8b16-624d77413798,Can you safely send this patient home without further diagnostics?,"Yes, normal Chest X-ray.","Yes, this chest X-ray appears normal. The lung fields are clear without evidence of pneumonia, pneumothorax, or effusion. The cardiac silhouette is of normal size and contour. The diaphragm is well-defined with normal costophrenic angles. The bony structures appear intact without obvious fractures. The mediastinum is not widened.
+
+Assuming the patient's clinical presentation is consistent with this normal radiographic finding (no concerning symptoms such as severe chest pain, respiratory distress, or hemodynamic instability), and vital signs are stable, it would be reasonable to discharge the patient home with appropriate follow-up instructions.
+
+However, it's important to note that clinical decision-making should never be based solely on imaging. The patient's history, physical examination findings, vital signs, and laboratory results (if obtained) must all be considered together when making disposition decisions.","Yes, this chest X-ray appears normal. The lung fields are clear without evidence of pneumonia, pneumothorax, or effusion. The cardiac silhouette is of normal size and contour. The diaphragm is well-defined with normal costophrenic angles. The bony structures appear intact without obvious fractures. The mediastinum is not widened.
+
+Assuming the patient's clinical presentation is consistent with this normal radiographic finding (no concerning symptoms such as severe chest pain, respiratory distress, or hemodynamic instability), and vital signs are stable, it would be reasonable to discharge the patient home with appropriate follow-up instructions.
+
+However, it's important to note that clinical decision-making should never be based solely on imaging. The patient's history, physical examination findings, vital signs, and laboratory results (if obtained) must all be considered together when making disposition decisions."
+d05074d3-8496-426c-b315-edc6dd9c7874,"Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location?",Middle mediastinal mass,"Yes, there is a mediastinal mass visible on this lateral chest radiograph. It appears to be located in the middle mediastinum. The mass is causing widening of the mediastinal silhouette in the mid-chest region, consistent with a middle mediastinal mass. This location would correspond anatomically to structures such as the trachea, main bronchi, heart, and hilar lymph nodes. The anterior and posterior mediastinal compartments appear relatively preserved.","Yes, there is a mediastinal mass visible on this lateral chest radiograph. It appears to be located in the middle mediastinum. The mass is causing widening of the mediastinal silhouette in the mid-chest region, consistent with a middle mediastinal mass. This location would correspond anatomically to structures such as the trachea, main bronchi, heart, and hilar lymph nodes. The anterior and posterior mediastinal compartments appear relatively preserved."
+d2fa6150-282c-459e-8110-12496e7d201b,Is there a liver abscess in the ultrasound image?,Yes,"Yes, this ultrasound image shows what appears to be a liver abscess. The image demonstrates a well-defined, hypoechoic (darker) lesion within the liver parenchyma. The lesion has somewhat irregular borders and internal heterogeneity, which is characteristic of an abscess. 
+
+Liver abscesses typically appear as hypoechoic lesions with irregular margins and may contain internal echoes or debris. This particular abscess appears to have some internal complexity, which is consistent with the purulent material and potential loculations that can develop within hepatic abscesses.
+
+The surrounding liver tissue appears to have normal echogenicity. This contrast between the normal liver parenchyma and the hypoechoic lesion helps define the abscess boundaries.
+
+Further evaluation with contrast-enhanced imaging or aspiration might be warranted to confirm the diagnosis and identify the causative organism, which could include pyogenic bacteria, amoebic infection, or fungal pathogens.","Yes, this ultrasound image shows what appears to be a liver abscess. The image demonstrates a well-defined, hypoechoic (darker) lesion within the liver parenchyma. The lesion has somewhat irregular borders and internal heterogeneity, which is characteristic of an abscess. 
+
+Liver abscesses typically appear as hypoechoic lesions with irregular margins and may contain internal echoes or debris. This particular abscess appears to have some internal complexity, which is consistent with the purulent material and potential loculations that can develop within hepatic abscesses.
+
+The surrounding liver tissue appears to have normal echogenicity. This contrast between the normal liver parenchyma and the hypoechoic lesion helps define the abscess boundaries.
+
+Further evaluation with contrast-enhanced imaging or aspiration might be warranted to confirm the diagnosis and identify the causative organism, which could include pyogenic bacteria, amoebic infection, or fungal pathogens."
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.","Yes, there is an abnormality in this chest radiograph. There appears to be a right upper lobe opacity/consolidation. This finding could represent pneumonia, atelectasis, or possibly a mass. The remainder of the lung fields appear clear, and the cardiac silhouette is normal in size. No pneumothorax or pleural effusion is visible.","Yes, there is an abnormality in this chest radiograph. There appears to be a right upper lobe opacity/consolidation. This finding could represent pneumonia, atelectasis, or possibly a mass. The remainder of the lung fields appear clear, and the cardiac silhouette is normal in size. No pneumothorax or pleural effusion is visible."
+d9c89c56-9588-4c36-9ee7-bac43ceb1047,What type of staining is shown?,Endospore staining.,"This appears to be an acid-fast staining, specifically the Kinyoun modification of the acid-fast stain (also known as cold acid-fast staining). 
+
+The image shows rod-shaped bacteria stained red against a yellowish-orange background with some blue counterstained elements. This staining technique is commonly used to identify acid-fast organisms such as Mycobacterium species and Nocardia. The Kinyoun method uses a more concentrated carbol fuchsin stain without heating, unlike the traditional Ziehl-Neelsen method.
+
+The acid-fast property of these bacteria is due to the high lipid content (mycolic acids) in their cell walls, which resist decolorization with acid-alcohol after staining with carbol fuchsin.","This appears to be an acid-fast staining, specifically the Kinyoun modification of the acid-fast stain (also known as cold acid-fast staining). 
+
+The image shows rod-shaped bacteria stained red against a yellowish-orange background with some blue counterstained elements. This staining technique is commonly used to identify acid-fast organisms such as Mycobacterium species and Nocardia. The Kinyoun method uses a more concentrated carbol fuchsin stain without heating, unlike the traditional Ziehl-Neelsen method.
+
+The acid-fast property of these bacteria is due to the high lipid content (mycolic acids) in their cell walls, which resist decolorization with acid-alcohol after staining with carbol fuchsin."
+da35a3de-fa23-4c20-905e-5b82b8d5d23a,What is the histopathologic diagnosis?,Adenocarcinoma. ,"ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}"
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 6109544 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.2.content.1.image.source.base64: image exceeds 5 MB maximum: 6109544 bytes > 5242880 bytes'}}"
+e4ce4ffc-bc94-4da2-abd7-2493702e2082,Are there pleural effusions in this chest x-ray?,"Yes, on the left","Yes, there is evidence of a pleural effusion in this chest X-ray. The image shows a large right-sided pleural effusion characterized by:
+
+1. Homogeneous opacity in the right lower hemithorax
+2. Blunting of the right costophrenic angle
+3. Partial obscuration of the right hemidiaphragm
+4. Shifting of the mediastinum slightly toward the left side
+
+The left lung field appears relatively clear without evidence of effusion on that side. The right-sided effusion appears to be moderate to large in volume based on the extent of the opacity and the associated findings.
+
+This type of unilateral pleural effusion would warrant further clinical correlation regarding potential causes such as infection, malignancy, heart failure, or other pathologies.","Yes, there is evidence of a pleural effusion in this chest X-ray. The image shows a large right-sided pleural effusion characterized by:
+
+1. Homogeneous opacity in the right lower hemithorax
+2. Blunting of the right costophrenic angle
+3. Partial obscuration of the right hemidiaphragm
+4. Shifting of the mediastinum slightly toward the left side
+
+The left lung field appears relatively clear without evidence of effusion on that side. The right-sided effusion appears to be moderate to large in volume based on the extent of the opacity and the associated findings.
+
+This type of unilateral pleural effusion would warrant further clinical correlation regarding potential causes such as infection, malignancy, heart failure, or other pathologies."
+e65f6b06-1b9e-473d-b1ef-2a029432e553,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,"ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}"
+e675a4c8-0f22-4925-8996-51e0d35bf990,On which side is the lumen?,Bottom left.,"ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 7607348 bytes > 5242880 bytes'}}","ERROR: API Request Failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.4.content.1.image.source.base64: image exceeds 5 MB maximum: 7607348 bytes > 5242880 bytes'}}"
+ea4975ff-f64d-4067-91ee-1cefeec69416,What is the histopathologic diagnosis?,Follicular adenoma (no capsular invasion). ,"ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}","ERROR: API Request Failed - Error code: 413 - {'error': {'type': 'request_too_large', 'message': 'Request exceeds the maximum size'}}"
+eb4248fd-adf3-4682-b738-5d69d0248511,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,"In this chest X-ray, there is atelectasis in the right middle lobe. The white arrows are pointing to the area of increased opacity with volume loss in the right mid-lung zone, which is characteristic of right middle lobe atelectasis. This appears as a wedge-shaped density extending from the hilum toward the right lateral chest wall.","In this chest X-ray, there is atelectasis in the right middle lobe. The white arrows are pointing to the area of increased opacity with volume loss in the right mid-lung zone, which is characteristic of right middle lobe atelectasis. This appears as a wedge-shaped density extending from the hilum toward the right lateral chest wall."
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab,Is there a visible pathology?,"Pneumothorax, left","No significant pathology visible. This appears to be a normal chest X-ray with:
+- Clear lung fields bilaterally
+- Normal cardiac silhouette
+- No pneumothorax
+- No pleural effusions
+- No visible consolidation
+- Normal bony structures
+- Normal mediastinal contours
+
+The image is well-positioned and properly penetrated, allowing for good visualization of the thoracic structures.","No significant pathology visible. This appears to be a normal chest X-ray with:
+- Clear lung fields bilaterally
+- Normal cardiac silhouette
+- No pneumothorax
+- No pleural effusions
+- No visible consolidation
+- Normal bony structures
+- Normal mediastinal contours
+
+The image is well-positioned and properly penetrated, allowing for good visualization of the thoracic structures."
+f5455eaf-7eba-44a4-963f-abdee38c9d99,What is shown on this Xray?,Moderate left pneumothorax,"This chest X-ray appears normal. The lungs are well-expanded and clear without evidence of pneumothorax, effusion, or consolidation. The cardiac silhouette is of normal size and contour. The mediastinum is not widened. The trachea is midline. The diaphragms are smooth and in normal position. The visualized bony structures show no acute abnormalities. The costophrenic angles are sharp and clear.","This chest X-ray appears normal. The lungs are well-expanded and clear without evidence of pneumothorax, effusion, or consolidation. The cardiac silhouette is of normal size and contour. The mediastinum is not widened. The trachea is midline. The diaphragms are smooth and in normal position. The visualized bony structures show no acute abnormalities. The costophrenic angles are sharp and clear."
+f90cefb2-7034-49e5-be73-ee070eaa3840,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,"# Chest Radiograph Report
+
+**Clinical Information:** Not provided
+
+**Technique:** Frontal chest radiograph
+
+**Findings:**
+- Cardiac silhouette is enlarged with a boot-shaped appearance, demonstrating right ventricular enlargement with upturned cardiac apex
+- Pulmonary vascularity appears decreased
+- Right atrium appears enlarged
+- Concavity in the region of the main pulmonary artery segment (pulmonary bay)
+- Lung fields are otherwise clear without focal consolidation or pleural effusion
+- No pneumothorax identified
+- Osseous structures and soft tissues are unremarkable
+
+**Impression:**
+Boot-shaped heart with decreased pulmonary vascularity, consistent with Tetralogy of Fallot. Findings include right ventricular hypertrophy with upturned cardiac apex and pulmonary oligemia.
+
+**Recommendation:**
+Correlation with echocardiography is recommended for further evaluation.","# Chest Radiograph Report
+
+**Clinical Information:** Not provided
+
+**Technique:** Frontal chest radiograph
+
+**Findings:**
+- Cardiac silhouette is enlarged with a boot-shaped appearance, demonstrating right ventricular enlargement with upturned cardiac apex
+- Pulmonary vascularity appears decreased
+- Right atrium appears enlarged
+- Concavity in the region of the main pulmonary artery segment (pulmonary bay)
+- Lung fields are otherwise clear without focal consolidation or pleural effusion
+- No pneumothorax identified
+- Osseous structures and soft tissues are unremarkable
+
+**Impression:**
+Boot-shaped heart with decreased pulmonary vascularity, consistent with Tetralogy of Fallot. Findings include right ventricular hypertrophy with upturned cardiac apex and pulmonary oligemia.
+
+**Recommendation:**
+Correlation with echocardiography is recommended for further evaluation."
+fa8407ca-468a-410c-9072-5a2640459820,What pathology is most likely shown in this image?,Granuloma annulare.,"This image shows annular erythematous lesions with raised borders and central clearing, characteristic of granuloma annulare. 
+
+Granuloma annulare is a benign inflammatory dermatosis that typically presents as ring-shaped (annular) or arciform plaques with a raised erythematous border and central clearing or slight depression. The lesions are often asymptomatic and can appear on the extremities, particularly on the dorsal surfaces of the hands, arms, and feet.
+
+The condition is more common in children and young adults but can affect people of any age. While the exact cause is unknown, it has been associated with minor trauma, insect bites, viral infections, and in some cases, diabetes mellitus. Most cases of localized granuloma annulare resolve spontaneously within 2 years, though treatment options include topical or intralesional corticosteroids for persistent cases.
+
+The differential diagnosis would include tinea corporis (ringworm), erythema migrans (Lyme disease), and annular variants of psoriasis or eczema.","This image shows annular erythematous lesions with raised borders and central clearing, characteristic of granuloma annulare. 
+
+Granuloma annulare is a benign inflammatory dermatosis that typically presents as ring-shaped (annular) or arciform plaques with a raised erythematous border and central clearing or slight depression. The lesions are often asymptomatic and can appear on the extremities, particularly on the dorsal surfaces of the hands, arms, and feet.
+
+The condition is more common in children and young adults but can affect people of any age. While the exact cause is unknown, it has been associated with minor trauma, insect bites, viral infections, and in some cases, diabetes mellitus. Most cases of localized granuloma annulare resolve spontaneously within 2 years, though treatment options include topical or intralesional corticosteroids for persistent cases.
+
+The differential diagnosis would include tinea corporis (ringworm), erythema migrans (Lyme disease), and annular variants of psoriasis or eczema."
+fbe4eed6-6670-4f77-9197-2728be0f8419,"Which abnormality, if any, is present in this ultrasound image?",Gallstones,"This ultrasound image of the gallbladder shows a polyp. There appears to be a small, well-defined echogenic (bright white) projection arising from the gallbladder wall that extends into the lumen. Unlike gallstones, which are typically mobile and create acoustic shadowing, gallbladder polyps are fixed to the wall and generally do not produce shadowing. This finding is consistent with a gallbladder polyp, which is a growth that protrudes from the gallbladder wall into the interior space. Most gallbladder polyps are benign cholesterol polyps, though follow-up may be recommended depending on the size, as polyps larger than 10mm have a higher risk of malignancy.","This ultrasound image of the gallbladder shows a polyp. There appears to be a small, well-defined echogenic (bright white) projection arising from the gallbladder wall that extends into the lumen. Unlike gallstones, which are typically mobile and create acoustic shadowing, gallbladder polyps are fixed to the wall and generally do not produce shadowing. This finding is consistent with a gallbladder polyp, which is a growth that protrudes from the gallbladder wall into the interior space. Most gallbladder polyps are benign cholesterol polyps, though follow-up may be recommended depending on the size, as polyps larger than 10mm have a higher risk of malignancy."

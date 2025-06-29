@@ -1,0 +1,6 @@
+Model: llavaonevision_7b
+Inference Mode: 0-shot
+Task Format: mcqa
+Accuracy: 0.4162 (432/1038)
+Total Examples: 1038
+Timestamp: 2025-05-13 01:58:50

@@ -1,0 +1,6 @@
+Model: LLaVA-Med
+Inference Mode: ICL
+Task Format: mcqa
+Accuracy: 0.0000 (0/1038)
+Total Examples: 1038
+Timestamp: 2025-05-13 06:15:12

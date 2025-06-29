@@ -1,0 +1,689 @@
+problem_id,final_question,true_answer,generated_answer,full_response
+01e87e12-d402-4fff-a5ea-1da6160c4e99,What color can be seen in the abnormal lesion?,Black.,The abnormal lesion appears to be red. ,"[INST]  
+What color can be seen in the abnormal lesion? [/INST] White.  [INST]  
+What color can be seen in the abnormal lesion? [/INST] Purple.  [INST]  
+What color can be seen in the abnormal lesion? [/INST] Red.  [INST]  
+What color can be seen in the abnormal lesion? [/INST] The abnormal lesion appears to be red. "
+02decd79-711e-4eef-9bc9-04347e4692fe,What is the diagnosis?,"Hydropneumothorax, left","The image shows a chest X-ray with a diagnosis of ""Hydropneumothorax, right."" This is a medical condition where there is an accumulation of fluid in the pleural space, which is the space between the lungs and the chest wall. The fluid can cause the lung to collapse, which is a medical emergency. ","[INST]  
+What is the diagnosis? [/INST] Pleural effusion, right  [INST]  
+What is the diagnosis? [/INST] Pneumothorax, right  [INST]  
+What is the diagnosis? [/INST] Hydropneumothorax, right  [INST]  
+What is the diagnosis? [/INST] The image shows a chest X-ray with a diagnosis of ""Hydropneumothorax, right."" This is a medical condition where there is an accumulation of fluid in the pleural space, which is the space between the lungs and the chest wall. The fluid can cause the lung to collapse, which is a medical emergency. "
+043f257f-34a0-4842-9334-241320202d79,Is there any type of joint deformity present here?,"Yes, Charcot´s foot, left.","Yes, the image shows a foot with Charcot's foot, which is a type of joint deformity. It is characterized by the collapse of the arch in the foot, often accompanied by dislocation of the joints. This condition can be caused by a variety of factors, including diabetes, alcoholism, and other systemic diseases. ","[INST]  
+Is there any type of joint deformity present here? [/INST] Yes, Charcot´s foot, right.  [INST]  
+Is there any type of joint deformity present here? [/INST] Yes, Charcot´s foot, left.  [INST]  
+Is there any type of joint deformity present here? [/INST] Yes, Charcot´s foot, left.  [INST]  
+Is there any type of joint deformity present here? [/INST] No  [INST]  
+Is there any type of joint deformity present here? [/INST] Yes, the image shows a foot with Charcot's foot, which is a type of joint deformity. It is characterized by the collapse of the arch in the foot, often accompanied by dislocation of the joints. This condition can be caused by a variety of factors, including diabetes, alcoholism, and other systemic diseases. "
+050515b0-aff0-4ce6-8edf-b8ae01b786c5,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ","No, there is no tumor visible in this image. It appears to be a normal histological section of a kidney, showing the typical structure of the renal cortex with glomeruli and tubules. ","[INST]  
+Is there a tumor in this kidney? [/INST] Yes, renal cell carcinoma.   [INST]  
+Is there a tumor in this kidney? [/INST] Yes, renal cell carcinoma.   [INST]  
+Is there a tumor in this kidney? [/INST] No, normal renal histology.   [INST]  
+Is there a tumor in this kidney? [/INST] No, there is no tumor visible in this image. It appears to be a normal histological section of a kidney, showing the typical structure of the renal cortex with glomeruli and tubules. "
+06485d09-1677-493a-a974-344c507da11c,What is shown in this xray?,"Clavicle fracture, left","The x-ray shows a normal clavicle on the left side of the chest. The clavicle is the bone that connects the sternum to the scapula, forming the collarbone. There are no visible fractures or abnormalities in this image. ","[INST]  
+What is shown in this xray? [/INST] Clavicle fracture, right  [INST]  
+What is shown in this xray? [/INST] Normal clavicle, left  [INST]  
+What is shown in this xray? [/INST] The x-ray shows a normal clavicle on the left side of the chest. The clavicle is the bone that connects the sternum to the scapula, forming the collarbone. There are no visible fractures or abnormalities in this image. "
+08bd93cb-0201-4f20-8e37-97e495cf3542,Are there changes of acute myocardial infarction in this ECG with paced rhythm?,Yes,Yes - Panel B shows changes of acute myocardial infarction (AMI) in the ECG with paced rhythm. ,"[INST]  
+Are there changes of acute myocardial infarction in this ECG with paced rhythm? [/INST] No - Panel A  [INST]  
+Are there changes of acute myocardial infarction in this ECG with paced rhythm? [/INST] Yes - Panel B  [INST]  
+Are there changes of acute myocardial infarction in this ECG with paced rhythm? [/INST] Yes - Panel B shows changes of acute myocardial infarction (AMI) in the ECG with paced rhythm. "
+09728185-88c5-4da1-8b87-cd7572a530d2,Is there any evidence of honeycombing?,yes,"The image you've provided appears to be a chest X-ray, and there is no clear evidence of honeycombing. Honeycombing is a characteristic feature of pulmonary fibrosis, which is a scarring of the lung tissue that can lead to a decline in lung function. It is typically seen as a pattern of small, round, air-filled spaces that resemble honeycomb. However, the image does not show this pattern, which is more commonly seen in high-resolution CT scans. The image shows a lung with some areas of increased density, which could suggest fibrosis, but without a clearer image or additional context, it's difficult to make a definitive diagnosis. ","[INST]  
+What modality is this? [/INST] computed tomography  [INST]  
+What window setting is being used? [/INST] lung window  [INST]  
+What body region are we looking at? [/INST] chest  [INST]  
+What organ system can be evaluated with the chosen window setting? [/INST] lungs  [INST]  
+Is this a normal CT scan of a lung? [/INST] no  [INST]  
+Are there signs of pulmonary fibrosis in this image? [/INST] yes  [INST]  
+Which condition can be seen in this image? [/INST] pulmonary fibrosis  [INST]  
+Is there any evidence of honeycombing? [/INST] The image you've provided appears to be a chest X-ray, and there is no clear evidence of honeycombing. Honeycombing is a characteristic feature of pulmonary fibrosis, which is a scarring of the lung tissue that can lead to a decline in lung function. It is typically seen as a pattern of small, round, air-filled spaces that resemble honeycomb. However, the image does not show this pattern, which is more commonly seen in high-resolution CT scans. The image shows a lung with some areas of increased density, which could suggest fibrosis, but without a clearer image or additional context, it's difficult to make a definitive diagnosis. "
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18,Is there a joint effusion?,No,"No, there is no joint effusion visible in the image provided. ","[INST]  
+Is there a joint effusion? [/INST] Yes  [INST]  
+Is there a joint effusion? [/INST] Yes  [INST]  
+Is there a joint effusion? [/INST] Yes  [INST]  
+Is there a joint effusion? [/INST] Yes  [INST]  
+Is there a joint effusion? [/INST] Yes  [INST]  
+Is there a joint effusion? [/INST] No  [INST]  
+Is there a joint effusion? [/INST] No  [INST]  
+Is there a joint effusion? [/INST] No, there is no joint effusion visible in the image provided. "
+0a405f20-1fcd-4fac-a0c1-3323efac8726,Is honeycombing present?,Yes,"No, there is no honeycombing present in the image you provided. It appears to be a medical image, possibly an X-ray or a CT scan, showing the internal structure of a lung. Honeycombing is a term used to describe a pattern of air spaces within the lung tissue, which is typically associated with certain lung diseases such as emphysema or severe bronchitis. The image you've shown does not display this characteristic pattern. ","[INST]  
+Is honeycombing present? [/INST] Yes  [INST]  
+Is honeycombing present? [/INST] No  [INST]  
+Is honeycombing present? [/INST] No, there is no honeycombing present in the image you provided. It appears to be a medical image, possibly an X-ray or a CT scan, showing the internal structure of a lung. Honeycombing is a term used to describe a pattern of air spaces within the lung tissue, which is typically associated with certain lung diseases such as emphysema or severe bronchitis. The image you've shown does not display this characteristic pattern. "
+16870356-d6c6-468a-8356-a8e2fc81dec5,Is there any pathology visible in this chest X-Ray?,"Water bottle sign in the heart, suggestive of pericardial effusion.","The image you've provided appears to be a chest X-ray. However, without proper medical training and the ability to interpret medical images, I am unable to provide a diagnosis or identify any pathology. It is important to consult with a qualified healthcare professional for an accurate interpretation of medical images. ","[INST]  
+Is there any pathology visible in this chest X-Ray? [/INST] Water bottle sign in the heart, suggestive of pericardial effusion.  [INST]  
+Is there any pathology visible in this chest X-Ray? [/INST] Normal.  [INST]  
+Is there any pathology visible in this chest X-Ray? [/INST] The image you've provided appears to be a chest X-ray. However, without proper medical training and the ability to interpret medical images, I am unable to provide a diagnosis or identify any pathology. It is important to consult with a qualified healthcare professional for an accurate interpretation of medical images. "
+18218d7e-e2b3-45ee-a6bb-45054271c091,What is the large round object?,Amoeba.,"The large round object in the image appears to be a cell with a prominent nucleus, which is typical of many types of cells. The cell is surrounded by other cells and tissue, suggesting that this is a microscopic view of a tissue sample, possibly from a histological slide prepared for examination under a microscope. The presence of the nucleus and the surrounding cells indicate that this is a cellular structure, likely from a living organism. ","[INST]  
+What is the large round object? [/INST] Giant cell in Giant-cell carcinoma of the lung.  [INST]  
+What is the large round object? [/INST] Amoeba.  [INST]  
+What is the large round object? [/INST] Ascarsis lumbricoides.  [INST]  
+What is the large round object? [/INST] The large round object in the image appears to be a cell with a prominent nucleus, which is typical of many types of cells. The cell is surrounded by other cells and tissue, suggesting that this is a microscopic view of a tissue sample, possibly from a histological slide prepared for examination under a microscope. The presence of the nucleus and the surrounding cells indicate that this is a cellular structure, likely from a living organism. "
+188fb1a0-4521-4fb1-9c82-46527f1603a9,What is the diagnosis?,Levocardia,"The image shows a lateral chest X-ray. The diagnosis appears to be a condition called ""dextrocardia,"" which is a congenital anomaly where the heart is positioned on the right side of the chest instead of the left side, as is typical in humans. This condition is often associated with other congenital heart defects. ","[INST]  
+What is the diagnosis? [/INST] Levocardia  [INST]  
+What is the diagnosis? [/INST] Mesocardia  [INST]  
+What is the diagnosis? [/INST] Dextrocardia  [INST]  
+What is the diagnosis? [/INST] The image shows a lateral chest X-ray. The diagnosis appears to be a condition called ""dextrocardia,"" which is a congenital anomaly where the heart is positioned on the right side of the chest instead of the left side, as is typical in humans. This condition is often associated with other congenital heart defects. "
+1b7f4c9f-5655-4037-92e6-0e310f41184e,What pathology can be seen?,Vitreous hemorrhage.,"The image shows a funduscopic view of the retina, which is the innermost layer of the eye that contains the photoreceptors. The pathology visible in this image is a vitreous hemorrhage. This is characterized by the presence of red blood cells within the vitreous humor, which is the clear, gel-like substance that fills the space between the lens and the retina. Vitreous hemorrhages can occur due to various conditions, such as trauma, retinal tears or detachment, or certain systemic diseases. The presence of red blood cells in the vitreous can cause symptoms such as sudden loss of vision, floaters, and photophobia. ","[INST]  
+What pathology can be seen? [/INST] Retinal hemorrhages.  [INST]  
+What pathology can be seen? [/INST] Vitreous hemorrhage.  [INST]  
+What pathology can be seen? [/INST] The image shows a funduscopic view of the retina, which is the innermost layer of the eye that contains the photoreceptors. The pathology visible in this image is a vitreous hemorrhage. This is characterized by the presence of red blood cells within the vitreous humor, which is the clear, gel-like substance that fills the space between the lens and the retina. Vitreous hemorrhages can occur due to various conditions, such as trauma, retinal tears or detachment, or certain systemic diseases. The presence of red blood cells in the vitreous can cause symptoms such as sudden loss of vision, floaters, and photophobia. "
+1c39462b-cfdd-455c-b8f1-e099f85bcc29,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,"Yes, there are changes of acute myocardial infarction (AMI) in this patient with known left bundle branch block (LBBB). The ECG (electrocardiogram) tracing shows ST segment elevation, which is indicative of an AMI. The elevated ST segments are seen in multiple leads, which is consistent with the pattern of an AMI. The patient's known LBBB pattern may also be contributing to the appearance of the ST segments. ","[INST]  
+Are there changes of acute myocardial infarction in this patient with known left bundle branch block? [/INST] No  [INST]  
+Are there changes of acute myocardial infarction in this patient with known left bundle branch block? [/INST] Yes  [INST]  
+Are there changes of acute myocardial infarction in this patient with known left bundle branch block? [/INST] Yes  [INST]  
+Are there changes of acute myocardial infarction in this patient with known left bundle branch block? [/INST] Yes  [INST]  
+Are there changes of acute myocardial infarction in this patient with known left bundle branch block? [/INST] Yes, there are changes of acute myocardial infarction (AMI) in this patient with known left bundle branch block (LBBB). The ECG (electrocardiogram) tracing shows ST segment elevation, which is indicative of an AMI. The elevated ST segments are seen in multiple leads, which is consistent with the pattern of an AMI. The patient's known LBBB pattern may also be contributing to the appearance of the ST segments. "
+1d690af1-020d-4163-8abe-e7fc2bbdba17,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,Acne rosacea. ,"[INST]  
+Is the following pathology more consistent with acne vulgaris or acne rosacea?  [/INST] Acne vulgaris.  [INST]  
+Is the following pathology more consistent with acne vulgaris or acne rosacea?  [/INST] Acne rosacea.  [INST]  
+Is the following pathology more consistent with acne vulgaris or acne rosacea?  [/INST] Acne rosacea.  [INST]  
+Is the following pathology more consistent with acne vulgaris or acne rosacea?  [/INST] Acne rosacea.  [INST]  
+Is the following pathology more consistent with acne vulgaris or acne rosacea?  [/INST] Acne rosacea. "
+1e5627a5-d6ba-4714-9db5-1561d3f59d7e,Is there something pathological in this image?,"Anisocoria, right pupil more dilated than left one.","No, there is nothing pathological in this image. The person has a normal appearance with blue eyes and a slightly dilated left pupil. ","[INST]  
+Is there something pathological in this image? [/INST] Anisocoria, left pupil more dilated than right one.  [INST]  
+Is there something pathological in this image? [/INST] No, normal pupils.  [INST]  
+Is there something pathological in this image? [/INST] No, there is nothing pathological in this image. The person has a normal appearance with blue eyes and a slightly dilated left pupil. "
+1ee54fea-31da-4d9a-bd57-a6a006f97d3e,What is the diagnosis?,"Proptosis, left","The image appears to be a medical scan, possibly an MRI or CT scan, showing a view of the skull and brain. The diagnosis provided is ""Proptosis, right and left."" Proptosis refers to the forward displacement of an organ or part of the body. In this case, it seems to be referring to the displacement of the brain within the skull. This could be due to various conditions such as a brain tumor, a buildup of fluid in the brain, or other neurological disorders. However, without additional context or information, it is not possible to provide a definitive diagnosis or to discuss the potential causes or treatments. ","[INST]  
+What is the diagnosis? [/INST] Proptosis, right  [INST]  
+What is the diagnosis? [/INST] Proptosis, right and left  [INST]  
+What is the diagnosis? [/INST] The image appears to be a medical scan, possibly an MRI or CT scan, showing a view of the skull and brain. The diagnosis provided is ""Proptosis, right and left."" Proptosis refers to the forward displacement of an organ or part of the body. In this case, it seems to be referring to the displacement of the brain within the skull. This could be due to various conditions such as a brain tumor, a buildup of fluid in the brain, or other neurological disorders. However, without additional context or information, it is not possible to provide a definitive diagnosis or to discuss the potential causes or treatments. "
+21e3a17e-4ad3-42c6-8367-3c96a8bc2aae,What type of pathology is shown?,"Subdural hematoma, right","The image shows a cross-sectional view of a brain with a subdural hematoma. This is a type of pathology where blood accumulates between the dura mater and the brain parenchyma. It is often caused by trauma, such as a head injury, and can be life-threatening if not treated promptly. ","[INST]  
+What type of pathology is shown? [/INST] Epidural hematoma, left  [INST]  
+What type of pathology is shown? [/INST] Subdural hematoma, left  [INST]  
+What type of pathology is shown? [/INST] Epidural hematoma, right  [INST]  
+What type of pathology is shown? [/INST] Subdural hematoma, left  [INST]  
+What type of pathology is shown? [/INST] The image shows a cross-sectional view of a brain with a subdural hematoma. This is a type of pathology where blood accumulates between the dura mater and the brain parenchyma. It is often caused by trauma, such as a head injury, and can be life-threatening if not treated promptly. "
+21eb81de-7686-4efc-9875-7dc4cbfc557d,Are the red blood cells normal?,"No, there are schiostocytes. ","The image you've provided appears to be a microscopic view of blood cells, likely from a blood smear. The cells are stained with a dye that is commonly used to differentiate between different types of blood cells.
+
+From the image, it looks like there are several types of cells present, including red blood cells (RBCs), which are the cells that carry oxygen throughout the body. The RBCs are the large, round cells with a pinkish color. There are also smaller cells that could be white blood cells (WBCs), which are part of the immune system and help fight infections. The WBCs are typically smaller and more irregularly shaped than RBCs.
+
+However, without more context or a higher-resolution image, it's difficult to provide a definitive assessment of the cells' health or the presence of any abnormalities. If you have concerns about the cells' appearance or if you suspect there might be an issue with the blood, it's important to consult with a healthcare professional who can perform a complete blood count (CBC) and provide a detailed analysis. ","[INST]  
+Are the red blood cells normal? [/INST] Yes.   [INST]  
+Are the red blood cells normal? [/INST] No, there are schiostocytes.   [INST]  
+Are the red blood cells normal? [/INST] The image you've provided appears to be a microscopic view of blood cells, likely from a blood smear. The cells are stained with a dye that is commonly used to differentiate between different types of blood cells.
+
+From the image, it looks like there are several types of cells present, including red blood cells (RBCs), which are the cells that carry oxygen throughout the body. The RBCs are the large, round cells with a pinkish color. There are also smaller cells that could be white blood cells (WBCs), which are part of the immune system and help fight infections. The WBCs are typically smaller and more irregularly shaped than RBCs.
+
+However, without more context or a higher-resolution image, it's difficult to provide a definitive assessment of the cells' health or the presence of any abnormalities. If you have concerns about the cells' appearance or if you suspect there might be an issue with the blood, it's important to consult with a healthcare professional who can perform a complete blood count (CBC) and provide a detailed analysis. "
+21ec6a11-a59f-41b2-bbca-51cc937d8828,Where is the tumor located?,Caecum.,The tumor is located in the pancreas. ,"[INST]  
+Where is the tumor located? [/INST] Pineal region.  [INST]  
+Where is the tumor located? [/INST] Pancreas.  [INST]  
+Where is the tumor located? [/INST] The tumor is located in the pancreas. "
+2285cb57-7853-41c4-bc0b-12cf269a23a3,Is atoll sign present?,Yes,"No, there is no atoll sign present in the image. The atoll sign is a specific pattern of calcification that can be seen on a chest X-ray. It is a sign of chronic inflammation and is often associated with tuberculosis. ","[INST]  
+Is atoll sign present? [/INST] Yes  [INST]  
+Is atoll sign present? [/INST] No  [INST]  
+Is atoll sign present? [/INST] No, there is no atoll sign present in the image. The atoll sign is a specific pattern of calcification that can be seen on a chest X-ray. It is a sign of chronic inflammation and is often associated with tuberculosis. "
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,"The image appears to show a chest X-ray with a pattern that could suggest dilated cardiomyopathy (DCM). DCM is a type of heart disease where the heart muscle becomes weakened and enlarged, leading to a decrease in the heart's ability to pump blood efficiently. This can result in symptoms such as shortness of breath, fatigue, and fluid buildup in the lungs, which is visible in the X-ray as the ""white out"" areas that could be indicative of pulmonary edema.
+
+However, it's important to note that a definitive diagnosis of DCM would require a medical evaluation by a healthcare professional, including a physical examination and possibly additional diagnostic tests. The image alone is not sufficient to make a definitive diagnosis. ","[INST]  
+What pathology, if any, is suspected based on this picture? [/INST] None, normal thorax.  [INST]  
+What pathology, if any, is suspected based on this picture? [/INST] Dilated cardiomyopathy  [INST]  
+What pathology, if any, is suspected based on this picture? [/INST] Dilated cardiomyopathy with pulmonary edema.  [INST]  
+What pathology, if any, is suspected based on this picture? [/INST] The image appears to show a chest X-ray with a pattern that could suggest dilated cardiomyopathy (DCM). DCM is a type of heart disease where the heart muscle becomes weakened and enlarged, leading to a decrease in the heart's ability to pump blood efficiently. This can result in symptoms such as shortness of breath, fatigue, and fluid buildup in the lungs, which is visible in the X-ray as the ""white out"" areas that could be indicative of pulmonary edema.
+
+However, it's important to note that a definitive diagnosis of DCM would require a medical evaluation by a healthcare professional, including a physical examination and possibly additional diagnostic tests. The image alone is not sufficient to make a definitive diagnosis. "
+29e3f38f-c199-479c-ba00-a0fa0bbaffb8,Is there a visible pathology?,No,"Yes, there is a visible pathology on the image. It appears to be a hyperdense left MCA, which is a type of stroke. The hyperdense area is the darker region on the left side of the brain, which is the middle cerebral artery (MCA) territory. This type of stroke is characterized by a dense, hyperdense area on the CT scan, which is the result of a blockage in the blood vessel. ","[INST]  
+Is there a visible pathology? [/INST] Yes, hyperdense left MCA  [INST]  
+Is there a visible pathology? [/INST] Yes, hyperdense left MCA  [INST]  
+Is there a visible pathology? [/INST] Yes, hyperdense right MCA  [INST]  
+Is there a visible pathology? [/INST] Yes, hyperdense right MCA  [INST]  
+Is there a visible pathology? [/INST] Yes, hyperdense right MCA  [INST]  
+Is there a visible pathology? [/INST] Yes, hyperdense left MCA  [INST]  
+Is there a visible pathology? [/INST] Yes, there is a visible pathology on the image. It appears to be a hyperdense left MCA, which is a type of stroke. The hyperdense area is the darker region on the left side of the brain, which is the middle cerebral artery (MCA) territory. This type of stroke is characterized by a dense, hyperdense area on the CT scan, which is the result of a blockage in the blood vessel. "
+2d3f8498-af1d-440e-92a2-4837dc277974,What kind of image is this?,MRI of the brain with contrast,"This is a medical image, specifically a Magnetic Resonance Imaging (MRI) scan of the brain. The image shows the internal structure of the brain, including the ventricles, which are fluid-filled spaces within the brain. The contrast between the different areas of the brain is highlighted by the use of contrast agents during the MRI scan. ","[INST]  
+What kind of image is this? [/INST] CT of the brain with contrast  [INST]  
+What kind of image is this? [/INST] CT of the brain without contrast  [INST]  
+What kind of image is this? [/INST] MRI of the brain without contrast  [INST]  
+What kind of image is this? [/INST] This is a medical image, specifically a Magnetic Resonance Imaging (MRI) scan of the brain. The image shows the internal structure of the brain, including the ventricles, which are fluid-filled spaces within the brain. The contrast between the different areas of the brain is highlighted by the use of contrast agents during the MRI scan. "
+2d679738-2da1-45da-b83b-aa39a86f6bcb,Is the NG tube well-positioned?,"No, in left lung","Yes, the NG tube appears to be well-positioned, as it is seen passing through the esophagus and into the stomach. ","[INST]  
+Is the NG tube well-positioned? [/INST] Yes  [INST]  
+Is the NG tube well-positioned? [/INST] No, in airway  [INST]  
+Is the NG tube well-positioned? [/INST] No, coiled in upper airway  [INST]  
+Is the NG tube well-positioned? [/INST] No, terminates in distal esophagus  [INST]  
+Is the NG tube well-positioned? [/INST] No, terminates in right lower lobe  [INST]  
+Is the NG tube well-positioned? [/INST] Yes  [INST]  
+Is the NG tube well-positioned? [/INST] Yes, the NG tube appears to be well-positioned, as it is seen passing through the esophagus and into the stomach. "
+2f86b41e-c08b-41de-9c08-677df1528af5,What is the diagnosis?,"Acute MCA infarct, right and left","The image appears to be a medical scan, likely an MRI (Magnetic Resonance Imaging) or a CT (Computed Tomography) scan, showing a cross-section of a brain. The diagnosis indicated is ""Acute MCA infarct, right,"" which means there is an acute infarction (a type of stroke) in the right middle cerebral artery (MCA) region of the brain. This is a medical condition where blood flow to a specific area of the brain is disrupted, often due to a blockage in the artery. The affected area is typically the region supplied by the MCA, which includes parts of the brain responsible for motor function, speech, and other cognitive functions. ","[INST]  
+What is the diagnosis? [/INST] Acute MCA infarct, right  [INST]  
+What is the diagnosis? [/INST] Acute MCA infarct, left  [INST]  
+What is the diagnosis? [/INST] The image appears to be a medical scan, likely an MRI (Magnetic Resonance Imaging) or a CT (Computed Tomography) scan, showing a cross-section of a brain. The diagnosis indicated is ""Acute MCA infarct, right,"" which means there is an acute infarction (a type of stroke) in the right middle cerebral artery (MCA) region of the brain. This is a medical condition where blood flow to a specific area of the brain is disrupted, often due to a blockage in the artery. The affected area is typically the region supplied by the MCA, which includes parts of the brain responsible for motor function, speech, and other cognitive functions. "
+321365c0-587b-4f7e-8e85-34c152b401e0,What is the diagnosis?,"Exophthalmos, bilateral","The image shows a close-up of a person's face with a focus on the eye. The eye appears to be dilated, which could be due to a variety of reasons such as the use of eye drops, a medical condition, or the person being in a state of shock or fear. The diagnosis of the condition causing the dilated eye would require a medical examination by a healthcare professional. ","[INST]  
+What is the diagnosis? [/INST] Exophthalmos, bilateral  [INST]  
+What is the diagnosis? [/INST] Exophthalmos, right  [INST]  
+What is the diagnosis? [/INST] Exophthalmos, left  [INST]  
+What is the diagnosis? [/INST] The image shows a close-up of a person's face with a focus on the eye. The eye appears to be dilated, which could be due to a variety of reasons such as the use of eye drops, a medical condition, or the person being in a state of shock or fear. The diagnosis of the condition causing the dilated eye would require a medical examination by a healthcare professional. "
+3436b5aa-7219-42c1-96cc-54f1e4286003,What is this person's skin type?,Type VI,"The person in the image appears to have a skin tone that is consistent with Type IV on the Fitzpatrick scale, which is characterized by a fair complexion with a natural blush on the cheeks. ","[INST]  
+What is this person's skin type? [/INST] Type VI  [INST]  
+What is this person's skin type? [/INST] Type I  [INST]  
+What is this person's skin type? [/INST] Type IV  [INST]  
+What is this person's skin type? [/INST] The person in the image appears to have a skin tone that is consistent with Type IV on the Fitzpatrick scale, which is characterized by a fair complexion with a natural blush on the cheeks. "
+34d5c4f5-9a58-43d0-b716-cd81487a881a,Describe the present abnormality.,"Central retinal artery occlusion. Retinal whitening and cherry-red spot are visible, as well as the likely causative clot.","The image shows a funduscopic view of the retina, which is the innermost layer of the eye that contains the photoreceptors. The central retinal artery (CRA) is occluded, which is indicated by the white area in the center of the image. This occlusion is causing a lack of blood flow to the retina, which can lead to ischemia and potentially permanent vision loss. The retina appears to be swollen and there are areas of hemorrhage, which are small amounts of blood that have leaked from the blood vessels. The presence of a cherry-red spot, which is a small area of retinal tissue that is highly metabolic and receives a high amount of blood flow, is also visible. This spot is often seen in conditions like diabetic retinopathy or retinal vein occlusion. The image is a clinical photograph used for medical diagnosis and treatment planning. ","[INST]  
+Describe the present abnormality. [/INST] Central retinal artery occlusion. Retinal whitening and cherry-red spot are visible.
+  [INST]  
+Describe the present abnormality. [/INST] Branch retinal vein occlusion of superotemporal branch vein in the right eye. Fundus photograph showing widespread hemorrhages and axonal congestion (cotton wool spots; white circles) upstream of the venous occlusion. 
+  [INST]  
+Describe the present abnormality. [/INST] Branch retinal artery occlusion. Retinal whitening is visible, as well as the likely causative clot.  [INST]  
+Describe the present abnormality. [/INST] The image shows a funduscopic view of the retina, which is the innermost layer of the eye that contains the photoreceptors. The central retinal artery (CRA) is occluded, which is indicated by the white area in the center of the image. This occlusion is causing a lack of blood flow to the retina, which can lead to ischemia and potentially permanent vision loss. The retina appears to be swollen and there are areas of hemorrhage, which are small amounts of blood that have leaked from the blood vessels. The presence of a cherry-red spot, which is a small area of retinal tissue that is highly metabolic and receives a high amount of blood flow, is also visible. This spot is often seen in conditions like diabetic retinopathy or retinal vein occlusion. The image is a clinical photograph used for medical diagnosis and treatment planning. "
+34f7d1cc-7328-457b-b9d3-5e983c6496d1,Which skin condition is shown?,petechiae,"The image shows a skin condition with red spots, which could be indicative of angioma, a type of skin tumor. Angiomas are benign growths of blood vessels and are typically red or purple in color. However, it is important to note that this is just an image and a proper diagnosis should be made by a qualified healthcare professional. ","[INST]  
+Which skin condition is shown? [/INST] petechiae  [INST]  
+Which skin condition is shown? [/INST] petechiae  [INST]  
+Which skin condition is shown? [/INST] angioma  [INST]  
+Which skin condition is shown? [/INST] angioma  [INST]  
+Which skin condition is shown? [/INST] angioma  [INST]  
+Which skin condition is shown? [/INST] The image shows a skin condition with red spots, which could be indicative of angioma, a type of skin tumor. Angiomas are benign growths of blood vessels and are typically red or purple in color. However, it is important to note that this is just an image and a proper diagnosis should be made by a qualified healthcare professional. "
+3808de45-a0d1-4f89-b0b9-76a6a977c90a,What is the diagnosis?,"Erb's palsy, right and left","The image shows a baby with a palsy affecting the left arm. The diagnosis appears to be Erb's palsy, which is a type of brachial plexus injury that occurs during childbirth. It is characterized by weakness or paralysis in the arm and hand, often accompanied by a visible scar on the shoulder. ","[INST]  
+What is the diagnosis? [/INST] Erb's palsy, left  [INST]  
+What is the diagnosis? [/INST] Erb's palsy, right  [INST]  
+What is the diagnosis? [/INST] The image shows a baby with a palsy affecting the left arm. The diagnosis appears to be Erb's palsy, which is a type of brachial plexus injury that occurs during childbirth. It is characterized by weakness or paralysis in the arm and hand, often accompanied by a visible scar on the shoulder. "
+3833ca0c-82cd-4545-b1de-93ed42e4d6e2,"What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?",Very high suspicion for COVID-19 infection,Very high suspicion for COVID-19 infection ,"[INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] No suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Low suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] High suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Low suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Low suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Indeterminate suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Indeterminate suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] High suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Very high suspicion for COVID-19 infection  [INST]  
+What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? [/INST] Very high suspicion for COVID-19 infection "
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e,Does this EEG show seizure activity?,no,"Yes, the EEG in the image shows seizure activity. The patterns and frequency of the waves are characteristic of seizure activity, which is typically associated with abnormal electrical activity in the brain. ","[INST]  
+Does this EEG show seizure activity? [/INST] yes  [INST]  
+Does this EEG show seizure activity? [/INST] yes  [INST]  
+Does this EEG show seizure activity? [/INST] yes  [INST]  
+Does this EEG show seizure activity? [/INST] yes  [INST]  
+Does this EEG show seizure activity? [/INST] Yes, the EEG in the image shows seizure activity. The patterns and frequency of the waves are characteristic of seizure activity, which is typically associated with abnormal electrical activity in the brain. "
+3b17a705-1ef8-484e-bddf-2593b7062b98,Is there a visible pathology?,Pneumoperitoneum,"The image you've provided appears to be a chest X-ray. However, without proper medical training, it's not appropriate for me to provide a diagnosis or identify any pathologies. If you have concerns about this X-ray, it's important to consult with a qualified healthcare professional who can interpret the image and provide an accurate assessment. ","[INST]  
+Is there a visible pathology? [/INST] Pneumoperitoneum  [INST]  
+Is there a visible pathology? [/INST] Pneumoperitoneum  [INST]  
+Is there a visible pathology? [/INST] Pneumoperitoneum  [INST]  
+Is there a visible pathology? [/INST] Normal chest xray  [INST]  
+Is there a visible pathology? [/INST] The image you've provided appears to be a chest X-ray. However, without proper medical training, it's not appropriate for me to provide a diagnosis or identify any pathologies. If you have concerns about this X-ray, it's important to consult with a qualified healthcare professional who can interpret the image and provide an accurate assessment. "
+3db48fb6-755b-4323-a963-42239ecb0316,Is there metastatic cancer in this lymph node?,No. ,"Yes, there appears to be metastatic cancer in the lymph node shown in the image. The presence of purple and pink staining, which is indicative of cancer cells, suggests that the lymph node is affected by cancer. ","[INST]  
+Is there metastatic cancer in this lymph node? [/INST] No.   [INST]  
+Is there metastatic cancer in this lymph node? [/INST] Yes.  [INST]  
+Is there metastatic cancer in this lymph node? [/INST] Yes, there appears to be metastatic cancer in the lymph node shown in the image. The presence of purple and pink staining, which is indicative of cancer cells, suggests that the lymph node is affected by cancer. "
+3e221315-f38c-4c93-87b1-7c9915d8a41b,Is this suspicious for lymphoma?,No.,"Yes. The image you've provided appears to be a microscopic view of cells, which could be indicative of a lymphoma diagnosis. Lymphoma is a type of cancer that affects the lymphatic system, which is part of the immune system. The presence of abnormal cells in the blood or bone marrow is a common sign of lymphoma. However, it's important to note that a definitive diagnosis of lymphoma would require a medical professional to review the image in conjunction with other diagnostic tests and medical history. ","[INST]  
+Is this suspicious for lymphoma? [/INST] Yes.   [INST]  
+Is this suspicious for lymphoma? [/INST] Yes.   [INST]  
+Is this suspicious for lymphoma? [/INST] Yes. The image you've provided appears to be a microscopic view of cells, which could be indicative of a lymphoma diagnosis. Lymphoma is a type of cancer that affects the lymphatic system, which is part of the immune system. The presence of abnormal cells in the blood or bone marrow is a common sign of lymphoma. However, it's important to note that a definitive diagnosis of lymphoma would require a medical professional to review the image in conjunction with other diagnostic tests and medical history. "
+40ea6079-9d12-477e-b34e-373c6d4f64d5,What is the diagnosis?,"Fracture, ulna","The image shows an X-ray of a forearm with a fracture of the ulna, which is one of the two bones in the forearm. The fracture is indicated by the ""R"" and ""HB"" markings, which likely stand for ""right"" and ""left humerus bone,"" respectively, suggesting that the ulna is the bone that is broken. The diagnosis is a fracture of the ulna. ","[INST]  
+What is the diagnosis? [/INST] Fracture, ulna and radius  [INST]  
+What is the diagnosis? [/INST] Fracture, ulna  [INST]  
+What is the diagnosis? [/INST] The image shows an X-ray of a forearm with a fracture of the ulna, which is one of the two bones in the forearm. The fracture is indicated by the ""R"" and ""HB"" markings, which likely stand for ""right"" and ""left humerus bone,"" respectively, suggesting that the ulna is the bone that is broken. The diagnosis is a fracture of the ulna. "
+41727fb3-7f70-4274-bacb-61f84b4bf584,Is splinter hemorrhage present?,no,"Yes, there is splinter hemorrhage present in the image. ","[INST]  
+Is splinter hemorrhage present? [/INST] yes  [INST]  
+Is splinter hemorrhage present? [/INST] no  [INST]  
+Is splinter hemorrhage present? [/INST] yes  [INST]  
+Is splinter hemorrhage present? [/INST] yes  [INST]  
+Is splinter hemorrhage present? [/INST] yes  [INST]  
+Is splinter hemorrhage present? [/INST] Yes, there is splinter hemorrhage present in the image. "
+443aea8a-c61d-418c-80ab-6f9250324838,What organ is shown and is it tumorous?,Kidney without tumor. ,The image shows a kidney with a tumor. The tumor appears to be located in the lower pole of the kidney. ,"[INST]  
+What organ is shown and is it tumorous? [/INST] Kidney with tumor.   [INST]  
+What organ is shown and is it tumorous? [/INST] Kidney without tumor.   [INST]  
+What organ is shown and is it tumorous? [/INST] The image shows a kidney with a tumor. The tumor appears to be located in the lower pole of the kidney. "
+44c46ae9-37d5-43b0-afab-162db2096c2c,What is shown in this image?,Plasma cells.,"The image appears to be a histopathological slide, which is a microscopic view of tissue samples stained with hematoxylin and eosin (H&E), a common staining method in histopathology. The slide shows cells that are likely part of a tumor, as indicated by the irregular and crowded cellular architecture, which is characteristic of a neoplastic growth. The cells have a high nuclear-to-cytoplasmic ratio, which is typical for many types of cancer. The specific type of cancer is not identifiable from this image alone, as a definitive diagnosis would require additional information and possibly immunohistochemical stains to identify specific markers. ","[INST]  
+Is this a malignancy? [/INST] Yes.   [INST]  
+What is the histopathologic diagnosis? [/INST] Adenocarcinoma.   [INST]  
+Is this a malignancy? [/INST] No.  [INST]  
+What is the histopathologic diagnosis? [/INST] Tubular adenoma.  [INST]  
+What is the histopathologic diagnosis? [/INST] Fat necrosis.   [INST]  
+What is the histopathologic diagnosis? [/INST] Basal cell carcinoma.  [INST]  
+What is the histopathologic diagnosis? [/INST] Squamous cell carcinoma.  [INST]  
+What is shown in this image? [/INST] Renal oncocytoma.   [INST]  
+What is the cytologic diagnosis? [/INST] Low-grade squamous intraepithelial lesion (LSIL).  [INST]  
+What is the histopathologic diagnosis? [/INST] Papillary thyroid carcinoma.   [INST]  
+What is shown in this image? [/INST] Ovarian teratoma.  [INST]  
+What is the histopathologic diagnosis? [/INST] Fungal infection.  [INST]  
+What is the histopathologic diagnosis? [/INST] Adenocarcinoma, metastatic to lymph node.   [INST]  
+What is the immunohistochemical stain result? [/INST] Positive for H. Pylori.   [INST]  
+What is the immunohistochemical staining pattern? [/INST] Membranous.   [INST]  
+What is the immunohistochemical staining pattern? [/INST] Cytoplasmic.   [INST]  
+What is the immunohistochemical staining pattern? [/INST] Nuclear.  [INST]  
+What is the histopathologic diagnosis? [/INST] Acute inflammation.  [INST]  
+What is shown in this image? [/INST] Blast cells.   [INST]  
+What is shown in this image? [/INST] The image appears to be a histopathological slide, which is a microscopic view of tissue samples stained with hematoxylin and eosin (H&E), a common staining method in histopathology. The slide shows cells that are likely part of a tumor, as indicated by the irregular and crowded cellular architecture, which is characteristic of a neoplastic growth. The cells have a high nuclear-to-cytoplasmic ratio, which is typical for many types of cancer. The specific type of cancer is not identifiable from this image alone, as a definitive diagnosis would require additional information and possibly immunohistochemical stains to identify specific markers. "
+48095d55-9265-4a0a-b9dc-baa2343c14af,Which anatomical plane is shown?,axial or transverse plane,"The image shows a sagittal plane, which is a frontal view of the body. ","[INST]  
+Which anatomical plane is shown? [/INST] axial or transverse plane  [INST]  
+Which anatomical plane is shown? [/INST] sagittal plane  [INST]  
+Which anatomical plane is shown? [/INST] coronal or frontal plane  [INST]  
+Which anatomical plane is shown? [/INST] coronal or frontal plane  [INST]  
+Which anatomical plane is shown? [/INST] sagittal plane  [INST]  
+Which anatomical plane is shown? [/INST] The image shows a sagittal plane, which is a frontal view of the body. "
+4894916c-f303-4d6c-8f76-73edee07f0b2,Is air trapping present?,Yes,"No, there is no air trapping present in the image you provided. The image appears to be a medical scan, possibly an X-ray or a CT scan, showing the internal structure of the chest. Air trapping is typically seen as areas of high density within the lungs, which are not present in this image. ","[INST]  
+Is air trapping present? [/INST] yes  [INST]  
+Is air trapping present? [/INST] No  [INST]  
+Is air trapping present? [/INST] No, there is no air trapping present in the image you provided. The image appears to be a medical scan, possibly an X-ray or a CT scan, showing the internal structure of the chest. Air trapping is typically seen as areas of high density within the lungs, which are not present in this image. "
+4a8e141c-c247-45f0-84c2-5486cfbd62cf,How many neutrophils are clearly visible?,6,2 ,"[INST]  
+How many neutrophils are clearly visible? [/INST] 2  [INST]  
+How many neutrophils are clearly visible? [/INST] 1  [INST]  
+How many neutrophils are clearly visible? [/INST] 4  [INST]  
+How many neutrophils are clearly visible? [/INST] 2 "
+4b8852b6-d518-4f21-beef-e016a52ce821,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.","The skin lesion in the image shows a well-defined border with a central clearing, indicative of a tinea corporis infection. This is commonly known as ringworm. The lesion appears to be scaly and erythematous, with a central area that is less inflamed than the surrounding skin. ","[INST]  
+What does the skin lesion show? [/INST] Irregular borders and color variation, suggestive of melanoma.  [INST]  
+What does the skin lesion show? [/INST] Well-defined edges with uniform pigmentation, consistent with a melanocytic nevus.  [INST]  
+What does the skin lesion show? [/INST] Scaly, erythematous plaque with central clearing, indicative of tinea corporis.  [INST]  
+What does the skin lesion show? [/INST] The skin lesion in the image shows a well-defined border with a central clearing, indicative of a tinea corporis infection. This is commonly known as ringworm. The lesion appears to be scaly and erythematous, with a central area that is less inflamed than the surrounding skin. "
+4d6c4b4d-6825-4c1f-adb6-ea06f72351a9,Is there a visible pathology in the ribs?,"Acute rib fracture, right","Yes, there is a visible pathology in the ribs. There appears to be a fracture on the right side of the chest, which is indicated by the darker area on the ribs. ","[INST]  
+Is there a visible pathology in the ribs? [/INST] Acute rib fractures, bilateral  [INST]  
+Is there a visible pathology in the ribs? [/INST] Acute rib fracture, right  [INST]  
+Is there a visible pathology in the ribs? [/INST] Acute rib fracture, left  [INST]  
+Is there a visible pathology in the ribs? [/INST] Yes, there is a visible pathology in the ribs. There appears to be a fracture on the right side of the chest, which is indicated by the darker area on the ribs. "
+4eff8140-addf-49c6-b690-e63ace50df8e,Is there an endoleak?,No,"Yes, there appears to be an endoleak visible in the image. An endoleak is a condition where the stitches or sutures that hold the endovascular graft in place within the aorta start to leak. This can be a serious complication after a stent graft procedure for an abdominal aortic aneurysm (AAA). ","[INST]  
+Is there an endoleak? [/INST] Yes  [INST]  
+Is there an endoleak? [/INST] Yes  [INST]  
+Is there an endoleak? [/INST] Yes  [INST]  
+Is there an endoleak? [/INST] No  [INST]  
+Is there an endoleak? [/INST] Yes, there appears to be an endoleak visible in the image. An endoleak is a condition where the stitches or sutures that hold the endovascular graft in place within the aorta start to leak. This can be a serious complication after a stent graft procedure for an abdominal aortic aneurysm (AAA). "
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.","The ECG shows a pattern of ventricular escape beats, which are premature ventricular contractions (PVCs). These are abnormal heartbeats that originate in the ventricles, the lower chambers of the heart, and can cause a disruption in the normal heart rhythm. ","[INST]  
+What abnormality, if any, is present in this ECG? [/INST] First-degree heart block.  [INST]  
+What abnormality, if any, is present in this ECG? [/INST] Third-degree heart block.  [INST]  
+What abnormality, if any, is present in this ECG? [/INST] Second-degree heart block, type 1.  [INST]  
+What abnormality, if any, is present in this ECG? [/INST] First-degree heart block.  [INST]  
+What abnormality, if any, is present in this ECG? [/INST] The ECG shows a pattern of ventricular escape beats, which are premature ventricular contractions (PVCs). These are abnormal heartbeats that originate in the ventricles, the lower chambers of the heart, and can cause a disruption in the normal heart rhythm. "
+53694f7c-93a9-4c85-af33-363e5f08af0d," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,Mid zone ,"[INST]  
+Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone? [/INST] Apical zone  [INST]  
+Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone? [/INST] Upper zone  [INST]  
+Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone? [/INST] Mid zone  [INST]  
+ Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone? [/INST] Mid zone "
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d,"Which pathology, if any, is prevalent in this image?",Schistocytes,Sickle cells ,"[INST]  
+Which pathology, if any, is prevalent in this image? [/INST] Sickle cells  [INST]  
+Which pathology, if any, is prevalent in this image? [/INST] None  [INST]  
+Which pathology, if any, is prevalent in this image? [/INST] Schistocytes  [INST]  
+Which pathology, if any, is prevalent in this image? [/INST] None  [INST]  
+Which pathology, if any, is prevalent in this image? [/INST] Sickle cells  [INST]  
+Which pathology, if any, is prevalent in this image? [/INST] Sickle cells  [INST]  
+Which pathology, if any, is prevalent in this image? [/INST] Sickle cells "
+5c2a91db-7496-40c9-a919-ff9ec03b893b,Is there pneumoperitoneum?,No,"No, there is no pneumoperitoneum visible in this image. Pneumoperitoneum is a condition where air accumulates in the space between the lungs and the chest wall, which is not present in this X-ray. ","[INST]  
+Is there pneumoperitoneum? [/INST] Yes  [INST]  
+Is there pneumoperitoneum? [/INST] Yes  [INST]  
+Is there pneumoperitoneum? [/INST] Yes  [INST]  
+Is there pneumoperitoneum? [/INST] No  [INST]  
+Is there pneumoperitoneum? [/INST] No  [INST]  
+Is there pneumoperitoneum? [/INST] No, there is no pneumoperitoneum visible in this image. Pneumoperitoneum is a condition where air accumulates in the space between the lungs and the chest wall, which is not present in this X-ray. "
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92,What pathology is visible?,Retinal detachment in fundus image.,"The image shows a funduscopic view of the retina, which is the innermost layer of the eye that contains the photoreceptors. The pathology visible in this image is a retinal vein occlusion (RVO). This condition occurs when a retinal vein becomes blocked, which can cause a sudden decrease in vision. The blocked vein appears as a dark, round spot in the center of the image, and the surrounding retina may appear swollen or have a reddish hue. RVOs can be caused by various factors, including blood clots, inflammation, or other medical conditions. ","[INST]  
+ What pathology is visible? [/INST] Retinal detachment in fundus image.  [INST]  
+What pathology is visible? [/INST] No pathology, healthy fundus.  [INST]  
+What pathology is visible? [/INST] Retinal vein occlusion in fundus image.  [INST]  
+What pathology is visible? [/INST] The image shows a funduscopic view of the retina, which is the innermost layer of the eye that contains the photoreceptors. The pathology visible in this image is a retinal vein occlusion (RVO). This condition occurs when a retinal vein becomes blocked, which can cause a sudden decrease in vision. The blocked vein appears as a dark, round spot in the center of the image, and the surrounding retina may appear swollen or have a reddish hue. RVOs can be caused by various factors, including blood clots, inflammation, or other medical conditions. "
+5d954983-45e2-4853-b94a-19f21492884c,Which bone or bones are fractured?,Ulna,Radius and Ulna ,"[INST]  
+Which bone or bones are fractured? [/INST] Radius  [INST]  
+Which bone or bones are fractured? [/INST] Radius  [INST]  
+Which bone or bones are fractured? [/INST] Radius  [INST]  
+Which bone or bones are fractured? [/INST] Ulna  [INST]  
+Which bone or bones are fractured? [/INST] Radius and Ulna  [INST]  
+Which bone or bones are fractured? [/INST] Radius and Ulna "
+63338bb8-841b-4420-86fe-78e1963625d0,Which skin-condition is shown?,Superficial spreading melanoma,Cherry angioma ,"[INST]  
+Which skin-condition is shown? [/INST] Spider angioma  [INST]  
+Which skin-condition is shown? [/INST] Cherry angioma  [INST]  
+Which skin-condition is shown? [/INST] Superficial spreading Melanoma  [INST]  
+Which skin-condition is shown? [/INST] Spider angioma  [INST]  
+Which skin-condition is shown? [/INST] Spider angioma  [INST]  
+Which skin-condition is shown? [/INST] Cherry angioma  [INST]  
+Which skin-condition is shown? [/INST] Cherry angioma "
+6597f180-5f13-4d49-83dd-64315337ce2f,Is there visible pathology?,"Pleural effusion, right","Yes, there is visible pathology in the image. There is a pleural effusion, which is a collection of fluid between the chest wall and the lungs. This can be a sign of various medical conditions and may require further evaluation. ","[INST]  
+Is there visible pathology? [/INST] Pleural effusion, left  [INST]  
+Is there visible pathology? [/INST] Pleural effusion, right  [INST]  
+Is there visible pathology? [/INST] Yes, there is visible pathology in the image. There is a pleural effusion, which is a collection of fluid between the chest wall and the lungs. This can be a sign of various medical conditions and may require further evaluation. "
+688b0f03-2157-4d48-965a-2b5c473e3384,"Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious?",Highly suspicious,Highly suspicious ,"[INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Not suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Mildly suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Not suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Mildly suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Moderately suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Mildly suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Highly suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Moderately suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Highly suspicious  [INST]  
+Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious? [/INST] Highly suspicious "
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a,What kind of MRI sequence is this?,T2 fat saturation,"The image you've provided appears to be a T2-weighted MRI sequence. T2-weighted imaging is a type of MRI scan that uses a specific sequence of radiofrequency pulses and magnetic field gradients to emphasize the signal from fat and fluid in the body. This type of scan is often used to visualize the soft tissues of the body, such as muscles, tendons, and ligaments, as well as to assess the fluid content of joints and the fat content of organs like the liver and pancreas. ","[INST]  
+What kind of MRI sequence is this? [/INST] T1  [INST]  
+What kind of MRI sequence is this? [/INST] T1 fat saturation  [INST]  
+What kind of MRI sequence is this? [/INST] T2  [INST]  
+What kind of MRI sequence is this? [/INST] The image you've provided appears to be a T2-weighted MRI sequence. T2-weighted imaging is a type of MRI scan that uses a specific sequence of radiofrequency pulses and magnetic field gradients to emphasize the signal from fat and fluid in the body. This type of scan is often used to visualize the soft tissues of the body, such as muscles, tendons, and ligaments, as well as to assess the fluid content of joints and the fat content of organs like the liver and pancreas. "
+6c9f0a00-bc0b-4844-b498-c57d68382c5d,Where is the location of the endotracheal tube tip?,Trachea,"The endotracheal tube tip is located in the main bronchus, which is the left bronchus in the image. ","[INST]  
+Where is the location of the endotracheal tube tip? [/INST] Trachea  [INST]  
+Where is the location of the endotracheal tube tip? [/INST] Main bronchus, right  [INST]  
+Where is the location of the endotracheal tube tip? [/INST] Main bronchus, left  [INST]  
+Where is the location of the endotracheal tube tip? [/INST] The endotracheal tube tip is located in the main bronchus, which is the left bronchus in the image. "
+6d0aec94-e009-46ea-8c93-2f2de47ef800,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,Myeloblast with Auer rods ,"[INST]  
+What type of cell is present among the erythrocytes? [/INST] Myeloblast with Auer rods  [INST]  
+What type of cell is present among the erythrocytes? [/INST] Myeloblast with Auer rods  [INST]  
+What type of cell is present among the erythrocytes? [/INST] Myeloblast with Auer rods  [INST]  
+What type of cell is present among the erythrocytes? [/INST] Basophil  [INST]  
+What type of cell is present among the erythrocytes? [/INST] Basophil  [INST]  
+What type of cell is present among the erythrocytes? [/INST] Myeloblast without Auer rods  [INST]  
+What type of cell is present among the erythrocytes? [/INST] Myeloblast with Auer rods "
+732150de-bce4-46af-9a70-c4b1e2c4b783,Does the liver appear enlarged?,Yes.,"No, the liver in the image does not appear enlarged. It is a typical size for a human liver. ","[INST]  
+Does the liver appear enlarged? [/INST] Yes.  [INST]  
+Does the liver appear enlarged? [/INST] No.  [INST]  
+Does the liver appear enlarged? [/INST] No, the liver in the image does not appear enlarged. It is a typical size for a human liver. "
+741ef380-c0aa-4508-8fd3-790a34b16b8b,What is shown in this image?,"Kayser-Fleischer ring, left.","The image shows a close-up of a person's eye. The eye appears to be a normal human eye with a visible pupil and iris. The person has a fair complexion, and the image is taken from a perspective that focuses on the eye, with the eyelashes and the skin around the eye visible. ","[INST]  
+What is shown in this image? [/INST] Kayser-Fleischer rings, bilateral.  [INST]  
+What is shown in this image? [/INST] Kayser-Fleischer ring, right.  [INST]  
+What is shown in this image? [/INST] Normal eyes.  [INST]  
+What is shown in this image? [/INST] The image shows a close-up of a person's eye. The eye appears to be a normal human eye with a visible pupil and iris. The person has a fair complexion, and the image is taken from a perspective that focuses on the eye, with the eyelashes and the skin around the eye visible. "
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b,Are there signs of surgical wound infection?,Yes,"No, there are no signs of surgical wound infection in the image provided. The skin appears to be healing well, and there are no indications of infection such as redness, swelling, or pus. The wound looks clean and is likely in the process of healing. ","[INST]  
+Are there signs of surgical wound infection? [/INST] Yes   [INST]  
+Are there signs of surgical wound infection? [/INST] No  [INST]  
+Are there signs of surgical wound infection? [/INST] No  [INST]  
+Are there signs of surgical wound infection? [/INST] No, there are no signs of surgical wound infection in the image provided. The skin appears to be healing well, and there are no indications of infection such as redness, swelling, or pus. The wound looks clean and is likely in the process of healing. "
+820c2943-aea7-454e-ae7a-850c50c0de2f,Does this ECG show artifact or ventricular tachycardia?,artifact ,"The ECG shown in the image appears to display ventricular tachycardia (VT). Ventricular tachycardia is a type of abnormal heart rhythm that originates in the lower chambers of the heart (ventricles) and is characterized by a rapid, regular heartbeat. The pattern of the ECG tracing, with its wide, bizarre complexes, is consistent with VT.
+
+Artifact is a term used in ECG analysis to describe any unwanted or misleading information that appears on the ECG tracing. It can be caused by various factors such as electrical interference, movement, or other sources of noise. The pattern in the image does not show the typical characteristics of artifact, which would include random, irregular, or distorted beats that do not follow a consistent pattern.
+
+It's important to note that the diagnosis of VT requires a thorough understanding of ECG patterns and should be made by a qualified healthcare professional. ","[INST]  
+Does this ECG show artifact or ventricular tachycardia? [/INST] artifact  [INST]  
+Does this ECG show artifact or ventricular tachycardia? [/INST] ventricular tachycardia  [INST]  
+Does this ECG show artifact or ventricular tachycardia? [/INST] The ECG shown in the image appears to display ventricular tachycardia (VT). Ventricular tachycardia is a type of abnormal heart rhythm that originates in the lower chambers of the heart (ventricles) and is characterized by a rapid, regular heartbeat. The pattern of the ECG tracing, with its wide, bizarre complexes, is consistent with VT.
+
+Artifact is a term used in ECG analysis to describe any unwanted or misleading information that appears on the ECG tracing. It can be caused by various factors such as electrical interference, movement, or other sources of noise. The pattern in the image does not show the typical characteristics of artifact, which would include random, irregular, or distorted beats that do not follow a consistent pattern.
+
+It's important to note that the diagnosis of VT requires a thorough understanding of ECG patterns and should be made by a qualified healthcare professional. "
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e,"Is there a fracture and if so, what kind?",No fracture,No fracture is visible in the image provided. The image shows a knee joint with the patella (knee cap) dislocated. ,"[INST]  
+Is there a fracture and if so, what kind? [/INST] Transverse fracture  [INST]  
+Is there a fracture and if so, what kind? [/INST] Oblique fracture  [INST]  
+Is there a fracture and if so, what kind? [/INST] Spiral fracture  [INST]  
+Is there a fracture and if so, what kind? [/INST] Comminuted fracture  [INST]  
+Is there a fracture and if so, what kind? [/INST] No fracture  [INST]  
+Is there a fracture and if so, what kind? [/INST] No fracture is visible in the image provided. The image shows a knee joint with the patella (knee cap) dislocated. "
+9db35400-5633-48fa-9411-97926d30d4c5,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,"The radiograph shows a hand with a focus on the wrist and the proximal phalanges of the fingers. There is a clear view of the carpal bones, including the lunate, scaphoid, and triquetral bones, which form the wrist joint. The proximal phalanges are also visible, showing the typical structure of the bones in the fingers.
+
+There is no visible pathology or fracture in this image. The bones appear to be intact and well-defined, suggesting that the hand is not currently experiencing any significant trauma or injury. The image is of high quality, allowing for clear visualization of the skeletal structures.
+
+The presence of the ""R AG"" label suggests that this is an X-ray film, which is typically used for medical imaging. The film is likely being used to examine the hand for any potential issues, such as fractures, dislocations, or arthritis.
+
+The image does not show any signs of arthritis, which is a condition characterized by the breakdown of cartilage in joints, leading to inflammation, pain, and stiffness. The joint spaces appear to be normal, and there are no visible signs of bone erosion or joint space narrowing, which are common indicators of arthritis. ","[INST]  
+Provide a radiological interpretation of this radiograph of the hand. [/INST] Arthritis  [INST]  
+Provide a radiological interpretation of this radiograph of the hand. [/INST] Normal  [INST]  
+Provide a radiological interpretation of this radiograph of the hand. [/INST] Normal  [INST]  
+Provide a radiological interpretation of this radiograph of the hand. [/INST] Arthritis  [INST]  
+Provide a radiological interpretation of this radiograph of the hand. [/INST] The radiograph shows a hand with a focus on the wrist and the proximal phalanges of the fingers. There is a clear view of the carpal bones, including the lunate, scaphoid, and triquetral bones, which form the wrist joint. The proximal phalanges are also visible, showing the typical structure of the bones in the fingers.
+
+There is no visible pathology or fracture in this image. The bones appear to be intact and well-defined, suggesting that the hand is not currently experiencing any significant trauma or injury. The image is of high quality, allowing for clear visualization of the skeletal structures.
+
+The presence of the ""R AG"" label suggests that this is an X-ray film, which is typically used for medical imaging. The film is likely being used to examine the hand for any potential issues, such as fractures, dislocations, or arthritis.
+
+The image does not show any signs of arthritis, which is a condition characterized by the breakdown of cartilage in joints, leading to inflammation, pain, and stiffness. The joint spaces appear to be normal, and there are no visible signs of bone erosion or joint space narrowing, which are common indicators of arthritis. "
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9,Is there a tree-in-bud appearance?,No,"No, there is no tree-in-bud appearance in this image. It appears to be a medical image, possibly an X-ray or a CT scan, showing the internal structure of a human lung. The image is black and white, which is typical for medical imaging to highlight the details of the anatomy. ","[INST]  
+Is there a tree-in-bud appearance? [/INST] yes  [INST]  
+Is there a tree-in-bud appearance? [/INST] No  [INST]  
+Is there a tree-in-bud appearance? [/INST] yes  [INST]  
+Is there a tree-in-bud appearance? [/INST] No, there is no tree-in-bud appearance in this image. It appears to be a medical image, possibly an X-ray or a CT scan, showing the internal structure of a human lung. The image is black and white, which is typical for medical imaging to highlight the details of the anatomy. "
+a0111520-e2e0-406c-9bf0-5139d8a2f30d,What pathology is shown in this image?,Tinea Corporis,"The image shows a skin lesion that appears to be a papule, which is a small, solid, raised bump on the skin. This could be indicative of various skin conditions, such as acne, folliculitis, or a rash from an allergic reaction. It is not possible to definitively diagnose the condition from the image alone, as a proper diagnosis would require a medical examination and possibly additional tests. ","[INST]  
+What pathology is shown in this image? [/INST] Erythema migrans  [INST]  
+What pathology is shown in this image? [/INST] Erythema migrans  [INST]  
+What pathology is shown in this image? [/INST] Erythema multiforme  [INST]  
+What pathology is shown in this image? [/INST] Erythema migrans  [INST]  
+What pathology is shown in this image? [/INST] Tinea Corporis  [INST]  
+What pathology is shown in this image? [/INST] Erythema multiforme  [INST]  
+What pathology is shown in this image? [/INST] The image shows a skin lesion that appears to be a papule, which is a small, solid, raised bump on the skin. This could be indicative of various skin conditions, such as acne, folliculitis, or a rash from an allergic reaction. It is not possible to definitively diagnose the condition from the image alone, as a proper diagnosis would require a medical examination and possibly additional tests. "
+a1ab8e85-4cca-4707-b3dd-57da42738aac,How does the surgical site look like?,A normal suture with eleven stitches. No signs of infection or inflammation.,"The surgical site in the image appears to be a laceration or a wound that has been sutured. There are visible sutures with blue thread, which are used to close the wound. The skin around the sutures is red and inflamed, which is normal for a healing wound. There is no obvious infection or other complications visible in the image. The wound is located on the upper arm or shoulder area. ","[INST]  
+How does the surgical site look like? [/INST] The surgical site looks infected (redness).
+  [INST]  
+How does the surgical site look like? [/INST] A normal suture with five stitches. No signs of infection or inflammation.  [INST]  
+How does the surgical site look like? [/INST] The surgical site in the image appears to be a laceration or a wound that has been sutured. There are visible sutures with blue thread, which are used to close the wound. The skin around the sutures is red and inflamed, which is normal for a healing wound. There is no obvious infection or other complications visible in the image. The wound is located on the upper arm or shoulder area. "
+a7cf906c-228d-44cf-82bd-f5961343273f,What kind of cerebral edema is shown?,Combined edema.,"The image shows a cross-sectional view of a brain with a focus on the cerebral cortex. There appears to be a region of increased density, which could be indicative of cytotoxic edema. Cytotoxic edema is a type of brain edema that occurs when there is damage to the blood-brain barrier, allowing fluid to leak into the brain tissue. This can be a result of various conditions, such as trauma, infection, or other forms of injury. It is important to note that this is a medical image and should be interpreted by a qualified healthcare professional. ","[INST]  
+What kind of cerebral edema is shown? [/INST] Vasogenic edema.  [INST]  
+What kind of cerebral edema is shown? [/INST] Vasogenic edema.  [INST]  
+What kind of cerebral edema is shown? [/INST] Cytotoxic edema.  [INST]  
+What kind of cerebral edema is shown? [/INST] The image shows a cross-sectional view of a brain with a focus on the cerebral cortex. There appears to be a region of increased density, which could be indicative of cytotoxic edema. Cytotoxic edema is a type of brain edema that occurs when there is damage to the blood-brain barrier, allowing fluid to leak into the brain tissue. This can be a result of various conditions, such as trauma, infection, or other forms of injury. It is important to note that this is a medical image and should be interpreted by a qualified healthcare professional. "
+aa4a25e1-c52f-4811-a126-bbb52f348ef4,Can you identify which medication (and what dose) does patient have in their pill box?,Atorvastatin 10 mg,Atorvastatin 10 mg ,"[INST]  
+Can you identify which medication (and what dose) does patient have in their pill box? [/INST] Atorvastatin 20 mg  [INST]  
+Can you identify which medication (and what dose) does patient have in their pill box? [/INST] Atorvastatin 40 mg  [INST]  
+Can you identify which medication (and what dose) does patient have in their pill box? [/INST] Atorvastatin 10 mg "
+aa9e1c00-8519-465d-9e18-0861b353c138,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,"The image you've provided appears to show a chest X-ray. A pneumothorax is a medical condition where air accumulates in the pleural space between the lungs and the chest wall. It can be a tension pneumothorax, which is a medical emergency, or a non-tension pneumothorax.
+
+In a tension pneumothorax, the air pressure in the chest is high, which can lead to decreased blood flow to the lungs and other organs, and can be life-threatening. Symptoms of a tension pneumothorax include severe chest pain, shortness of breath, rapid breathing, and anxiety.
+
+From the image, it's not possible to definitively diagnose a pneumothorax or determine if it's a tension pneumothorax. A medical professional would need to examine the patient and perform a physical examination to make a diagnosis. If you or someone else is experiencing symptoms that could indicate a pneumothorax, it's important to seek immediate medical attention. ","[INST]  
+Is there a pneumothorax and if so, is it a tension pneumothorax? [/INST] Pneumothorax but not tension pneumothorax   [INST]  
+Is there a pneumothorax and if so, is it a tension pneumothorax? [/INST] Pneumothorax but not tension pneumothorax   [INST]  
+Is there a pneumothorax and if so, is it a tension pneumothorax? [/INST] Pneumothorax but not tension pneumothorax   [INST]  
+Is there a pneumothorax and if so, is it a tension pneumothorax? [/INST] Tension pneumothorax   [INST]  
+Is there a pneumothorax and if so, is it a tension pneumothorax? [/INST] No pneumothorax  [INST]  
+Is there a pneumothorax and if so, is it a tension pneumothorax? [/INST] The image you've provided appears to show a chest X-ray. A pneumothorax is a medical condition where air accumulates in the pleural space between the lungs and the chest wall. It can be a tension pneumothorax, which is a medical emergency, or a non-tension pneumothorax.
+
+In a tension pneumothorax, the air pressure in the chest is high, which can lead to decreased blood flow to the lungs and other organs, and can be life-threatening. Symptoms of a tension pneumothorax include severe chest pain, shortness of breath, rapid breathing, and anxiety.
+
+From the image, it's not possible to definitively diagnose a pneumothorax or determine if it's a tension pneumothorax. A medical professional would need to examine the patient and perform a physical examination to make a diagnosis. If you or someone else is experiencing symptoms that could indicate a pneumothorax, it's important to seek immediate medical attention. "
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,"Yes, there is an intracerebral hemorrhage in this image. It appears to be a subarachnoid hemorrhage (SAH), which is a type of hemorrhage that occurs within the subarachnoid space, the space between the arachnoid membrane and the pia mater that surrounds the brain. ","[INST]  
+Is there an intracerebral hemorrhage in this image and if so, what kind? [/INST] No intracerebral hemorrhage  [INST]  
+Is there an intracerebral hemorrhage in this image and if so, what kind? [/INST] Epidural hematoma  [INST]  
+Is there an intracerebral hemorrhage in this image and if so, what kind? [/INST] No intracerebral hemorrhage  [INST]  
+Is there an intracerebral hemorrhage in this image and if so, what kind? [/INST] Subdural hemorrhage  [INST]  
+Is there an intracerebral hemorrhage in this image and if so, what kind? [/INST] Subarachnoid hemorrhage  [INST]  
+Is there an intracerebral hemorrhage in this image and if so, what kind? [/INST] Yes, there is an intracerebral hemorrhage in this image. It appears to be a subarachnoid hemorrhage (SAH), which is a type of hemorrhage that occurs within the subarachnoid space, the space between the arachnoid membrane and the pia mater that surrounds the brain. "
+ae849698-02d1-4e88-98f8-558f15089a42,How many fingers are shown in this image?,6,5 ,"[INST]  
+How many fingers are shown in this image? [/INST] 6  [INST]  
+How many fingers are shown in this image? [/INST] 5  [INST]  
+How many fingers are shown in this image? [/INST] 5  [INST]  
+How many fingers are shown in this image? [/INST] 5 "
+afabd2e4-a0f2-4e06-9ba3-3db6e1ff73e0,Do these patient signature samples over the years show micrographia?,Yes,"Yes, the patient signature samples over the years show micrographia. Micrographia is a condition where a person's handwriting becomes progressively smaller and more difficult to read as it goes down the page. This is a common symptom of Parkinson's disease, and the samples you've provided appear to exhibit this characteristic. ","[INST]  
+Do these patient signature samples over the years show micrographia? [/INST] Yes  [INST]  
+Do these patient signature samples over the years show micrographia? [/INST] Yes  [INST]  
+Do these patient signature samples over the years show micrographia? [/INST] Yes, the patient signature samples over the years show micrographia. Micrographia is a condition where a person's handwriting becomes progressively smaller and more difficult to read as it goes down the page. This is a common symptom of Parkinson's disease, and the samples you've provided appear to exhibit this characteristic. "
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0,Is there hydronephrosis?,No,"Yes, there is hydronephrosis visible in the image. Hydronephrosis is the presence of urine in the renal pelvis and calyces of the kidney, which is not normal. It can be a sign of an obstruction in the urinary tract, such as a kidney stone or a tumor. ","[INST]  
+Is there hydronephrosis? [/INST] Yes, bilateral  [INST]  
+Is there hydronephrosis? [/INST] Yes, left  [INST]  
+Is there hydronephrosis? [/INST] Yes, left  [INST]  
+Is there hydronephrosis? [/INST] Yes, right  [INST]  
+Is there hydronephrosis? [/INST] Yes, there is hydronephrosis visible in the image. Hydronephrosis is the presence of urine in the renal pelvis and calyces of the kidney, which is not normal. It can be a sign of an obstruction in the urinary tract, such as a kidney stone or a tumor. "
+b04916c8-41b9-4189-a16b-e831c2ddc950,What pathology is shown?,Ulcerative colitis,"The image shows a close-up view of a section of the colon, which appears to be affected by ulcerative colitis. Ulcerative colitis is a chronic inflammatory bowel disease that causes ulcers and inflammation in the lining of the colon and rectum. The redness and inflammation are indicative of the condition. ","[INST]  
+What pathology is shown? [/INST] Chrohn's disease  [INST]  
+What pathology is shown? [/INST] Ulcerative colitis  [INST]  
+What pathology is shown? [/INST] Ulcerative colitis  [INST]  
+What pathology is shown? [/INST] Chron's disease  [INST]  
+What pathology is shown? [/INST] The image shows a close-up view of a section of the colon, which appears to be affected by ulcerative colitis. Ulcerative colitis is a chronic inflammatory bowel disease that causes ulcers and inflammation in the lining of the colon and rectum. The redness and inflammation are indicative of the condition. "
+b214470b-8d93-40eb-bd02-56c83e3615df,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,"The image you've provided appears to be a medical scan, possibly an MRI or CT scan, showing the internal structure of a kidney. The kidney is shown in a cross-sectional view, and there are several cysts visible. Cysts are fluid-filled sacs that can form in the kidneys, and they are often associated with a condition called Autosomal Dominant Polycystic Kidney Disease (ADPKD).
+
+ADPKD is a genetic disorder characterized by the presence of multiple cysts in the kidneys. These cysts can cause the kidneys to enlarge and can lead to kidney failure if left untreated. The condition is typically inherited from a parent and can be passed down through generations.
+
+It's important to note that while the presence of cysts in the kidneys is indicative of ADPKD, a definitive diagnosis would require a medical evaluation by a healthcare professional who can perform additional tests and consider the patient's medical history. ","[INST]  
+Diagnose the condition in the kidney [/INST] Autosomal Dominant Polycystic Kidney disease  [INST]  
+Diagnose the condition in the kidney [/INST] Normal kidneys  [INST]  
+Diagnose the condition in the kidney [/INST] Autosomal Dominant Polycystic Kidney disease  [INST]  
+Diagnose the condition in the kidney [/INST] The image you've provided appears to be a medical scan, possibly an MRI or CT scan, showing the internal structure of a kidney. The kidney is shown in a cross-sectional view, and there are several cysts visible. Cysts are fluid-filled sacs that can form in the kidneys, and they are often associated with a condition called Autosomal Dominant Polycystic Kidney Disease (ADPKD).
+
+ADPKD is a genetic disorder characterized by the presence of multiple cysts in the kidneys. These cysts can cause the kidneys to enlarge and can lead to kidney failure if left untreated. The condition is typically inherited from a parent and can be passed down through generations.
+
+It's important to note that while the presence of cysts in the kidneys is indicative of ADPKD, a definitive diagnosis would require a medical evaluation by a healthcare professional who can perform additional tests and consider the patient's medical history. "
+b25c0453-eaf9-481c-9dbe-bc8924905668,Where is the pneumonia located?,left upper lobe,The pneumonia is located in the right upper lobe of the lung. ,"[INST]  
+Where is the pneumonia located? [/INST] Right upper lobe  [INST]  
+Where is the pneumonia located? [/INST] right lower lobe  [INST]  
+Where is the pneumonia located? [/INST] right upper lobe  [INST]  
+Where is the pneumonia located? [/INST] left lower lobe  [INST]  
+Where is the pneumonia located? [/INST] middle lobe and lingula  [INST]  
+Where is the pneumonia located? [/INST] right lower lobe  [INST]  
+Where is the pneumonia located? [/INST] left lower lobe  [INST]  
+Where is the pneumonia located? [/INST] right upper lobe and lingula  [INST]  
+Where is the pneumonia located? [/INST] The pneumonia is located in the right upper lobe of the lung. "
+b2c4774e-08f5-460e-87e5-4c496942ab8a,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,"No. This is ductal carcinoma in situ (DCIS), which is a non-invasive form of breast cancer. It is characterized by abnormal cells that have not yet broken through the basement membrane of the breast ducts. ","[INST]  
+Is this invasive cancer? [/INST] Yes. This is invasive ductal carcinoma of the breast.   [INST]  
+Is this invasive cancer? [/INST] Yes. This is invasive ductal carcinoma of the breast.   [INST]  
+Is this invasive cancer? [/INST] No. This is ductal carcinoma in situ (DCIS) of the breast.   [INST]  
+Is this invasive cancer? [/INST] No. This is ductal carcinoma in situ (DCIS), which is a non-invasive form of breast cancer. It is characterized by abnormal cells that have not yet broken through the basement membrane of the breast ducts. "
+b3eb1d37-e024-4463-8014-eb8f11f81936,Is there visible pathology?,Appendicitis,"The image you've provided appears to be a medical scan, likely an X-ray or a CT scan, showing the internal structure of the abdomen. There is no visible pathology such as a tumor or a significant abnormality that would be indicative of a medical condition. The organs and structures are generally well-defined, and there are no signs of inflammation or infection that would suggest an issue like appendicitis.
+
+However, it's important to note that without a medical diagnosis from a qualified healthcare professional, it's not possible to definitively determine the health status of the individual from this image alone. Any concerns about the health of the individual should be addressed with a medical professional. ","[INST]  
+Is there visible pathology? [/INST] Appendicitis  [INST]  
+Is there visible pathology? [/INST] Appendicitis  [INST]  
+Is there visible pathology? [/INST] Normal appendix  [INST]  
+Is there visible pathology? [/INST] The image you've provided appears to be a medical scan, likely an X-ray or a CT scan, showing the internal structure of the abdomen. There is no visible pathology such as a tumor or a significant abnormality that would be indicative of a medical condition. The organs and structures are generally well-defined, and there are no signs of inflammation or infection that would suggest an issue like appendicitis.
+
+However, it's important to note that without a medical diagnosis from a qualified healthcare professional, it's not possible to definitively determine the health status of the individual from this image alone. Any concerns about the health of the individual should be addressed with a medical professional. "
+b41fb4f4-e509-4ead-a337-1ab15b4cb4bb,Is bronchiectasis present?,Yes,"No, there is no evidence of bronchiectasis in the image provided. The image appears to be a medical scan, possibly an X-ray or a CT scan, showing the lungs and chest area. Bronchiectasis is a condition where the airways in the lungs become damaged and filled with mucus, which can lead to chronic infections. The image does not show any of the typical signs of bronchiectasis, such as dilated airways or areas of low attenuation that could indicate mucus buildup. ","[INST]  
+Is bronchiectasis present? [/INST] yes  [INST]  
+Is bronchiectasis present? [/INST] No  [INST]  
+Is bronchiectasis present? [/INST] No, there is no evidence of bronchiectasis in the image provided. The image appears to be a medical scan, possibly an X-ray or a CT scan, showing the lungs and chest area. Bronchiectasis is a condition where the airways in the lungs become damaged and filled with mucus, which can lead to chronic infections. The image does not show any of the typical signs of bronchiectasis, such as dilated airways or areas of low attenuation that could indicate mucus buildup. "
+b43555d3-9ef4-4280-bdec-902f634ec75a,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,"The image shows a histopathologic slide with a focus on the gastric mucosa. There is no evidence of Helicobacter Pylori infection, as indicated by the absence of the typical spiral-shaped bacteria. The mucosa appears normal with no signs of inflammation or dysplasia. ","[INST]  
+What is the histopathologic diagnosis? [/INST] Helicobacter Pylori infection (positive stain).  [INST]  
+What is the histopathologic diagnosis? [/INST] Helicobacter Pylori infection (positive stain).  [INST]  
+What is the histopathologic diagnosis? [/INST] Helicobacter Pylori infection.   [INST]  
+What is the histopathologic diagnosis? [/INST] Normal stomach mucosa (negative for Helicobacter Pylori infection).  [INST]  
+What is the histopathologic diagnosis? [/INST] The image shows a histopathologic slide with a focus on the gastric mucosa. There is no evidence of Helicobacter Pylori infection, as indicated by the absence of the typical spiral-shaped bacteria. The mucosa appears normal with no signs of inflammation or dysplasia. "
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,"The image shows a pulmonary embolism, which is a blood clot in the arteries of the lungs. However, there is also a condition that appears to be a pneumothorax, which is a collection of air in the pleural space between the lungs and the chest wall. This is indicated by the presence of air in the pleural space, which is typically not present. ","[INST]  
+What modality is this? [/INST] computed tomography  [INST]  
+Has contrast agent been applied for this study? [/INST] yes  [INST]  
+What condition is seen in this image? [/INST] pulmonary embolism  [INST]  
+Where is the embolism located? [/INST] Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)  [INST]  
+Besides the pulmonary embolism, what other condition is seen? [/INST] The image shows a pulmonary embolism, which is a blood clot in the arteries of the lungs. However, there is also a condition that appears to be a pneumothorax, which is a collection of air in the pleural space between the lungs and the chest wall. This is indicated by the presence of air in the pleural space, which is typically not present. "
+b60bb3ca-680f-4d0d-b616-456e6a84908c,Is there evidence of inflammation?,No.,"No, there is no evidence of inflammation in the image provided. The image appears to be an X-ray of a human knee joint, and there are no signs of swelling or inflammation that are typically associated with such conditions. ","[INST]  
+Is there evidence of inflammation? [/INST] Yes.  [INST]  
+Is there evidence of inflammation? [/INST] No.  [INST]  
+Is there evidence of inflammation? [/INST] No, there is no evidence of inflammation in the image provided. The image appears to be an X-ray of a human knee joint, and there are no signs of swelling or inflammation that are typically associated with such conditions. "
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8,Is there a lung mass in the Chest radiograph?,Yes.,"No, there is no lung mass visible in the chest radiograph. The image shows the lungs and heart, but there are no abnormalities or masses that would indicate a lung mass. ","[INST]  
+Is there a lung mass in the Chest radiograph? [/INST] Yes.  [INST]  
+Is there a lung mass in the Chest radiograph? [/INST] No.  [INST]  
+Is there a lung mass in the Chest radiograph? [/INST] No.  [INST]  
+Is there a lung mass in the Chest radiograph? [/INST] No, there is no lung mass visible in the chest radiograph. The image shows the lungs and heart, but there are no abnormalities or masses that would indicate a lung mass. "
+b82002ea-ec05-4c5c-95a8-3b646f020ed7,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,The histopathologic diagnosis is fungal organisms (hyphae). ,"[INST]  
+What is the histopathologic diagnosis? [/INST] Fungal organisms (hyphae).   [INST]  
+What is the histopathologic diagnosis? [/INST] Fungal organisms (hyphae).   [INST]  
+What is the histopathologic diagnosis? [/INST] Fungal organisms (yeast).   [INST]  
+What is the histopathologic diagnosis? [/INST] Fungal organisms (hyphae).   [INST]  
+What is the histopathologic diagnosis? [/INST] The histopathologic diagnosis is fungal organisms (hyphae). "
+ba18e483-86ae-4f00-9b03-dc1d5d1d6cef,What is the cytologic diagnosis?,Low-grade squamous intraepithelial lesion (LSIL).,"The image you've provided appears to be a cytologic smear, which is a type of microscopic examination used to diagnose diseases of the blood, bone marrow, and lymphatic system. However, without more context or a clearer image, it's not possible for me to provide a cytologic diagnosis. Cytologic smears are typically evaluated by a trained medical professional, such as a hematologist or pathologist, who can identify and classify the cells present in the sample. If you have concerns about this image, it's important to consult with a healthcare professional for an accurate diagnosis. ","[INST]  
+What is the cytologic diagnosis? [/INST] Low-grade squamous intraepithelial lesion (LSIL).  [INST]  
+What is the cytologic diagnosis? [/INST] Negative for intraepithelial lesion or malignancy (NILM).  [INST]  
+What is the cytologic diagnosis? [/INST] The image you've provided appears to be a cytologic smear, which is a type of microscopic examination used to diagnose diseases of the blood, bone marrow, and lymphatic system. However, without more context or a clearer image, it's not possible for me to provide a cytologic diagnosis. Cytologic smears are typically evaluated by a trained medical professional, such as a hematologist or pathologist, who can identify and classify the cells present in the sample. If you have concerns about this image, it's important to consult with a healthcare professional for an accurate diagnosis. "
+bd2f6789-49fc-4e2b-b38a-7f6d0bb0d9e6,What is the diagnosis?,"Consolidation, left lower lobe","The image shows a chest X-ray with a consolidation in the right upper lobe of the lung. A consolidation is a term used in radiology to describe an area of the lung where the air spaces are filled with fluid, pus, or other material, making the affected area appear denser than the surrounding lung tissue. This can be indicative of a variety of conditions, including pneumonia, bronchitis, or other infections or inflammatory processes. It is important to note that a diagnosis should be made by a qualified medical professional who can interpret the X-ray and consider the patient's symptoms and medical history. ","[INST]  
+What is the diagnosis? [/INST] Consolidation, right lower lung  [INST]  
+What is the diagnosis? [/INST] Consolidation, right upper lobe  [INST]  
+What is the diagnosis? [/INST] Consolidation, left upper lobe  [INST]  
+What is the diagnosis? [/INST] The image shows a chest X-ray with a consolidation in the right upper lobe of the lung. A consolidation is a term used in radiology to describe an area of the lung where the air spaces are filled with fluid, pus, or other material, making the affected area appear denser than the surrounding lung tissue. This can be indicative of a variety of conditions, including pneumonia, bronchitis, or other infections or inflammatory processes. It is important to note that a diagnosis should be made by a qualified medical professional who can interpret the X-ray and consider the patient's symptoms and medical history. "
+bda6b1c5-2522-418c-94f5-124c3018015d,Are there any pathologies shown in this image?,Varicosis in both legs.,"Yes, the image shows varicose veins on the legs. Varicose veins are enlarged, swollen veins that are visible just beneath the skin. They are often blue or dark purple and can be a sign of a circulatory disorder called chronic venous insufficiency. ","[INST]  
+Are there any pathologies shown in this image? [/INST] The left leg appears swollen. Lymphedema.  [INST]  
+Are there any pathologies shown in this image? [/INST] Varicosis in both legs.  [INST]  
+Are there any pathologies shown in this image? [/INST] Yes, the image shows varicose veins on the legs. Varicose veins are enlarged, swollen veins that are visible just beneath the skin. They are often blue or dark purple and can be a sign of a circulatory disorder called chronic venous insufficiency. "
+be56d9fd-423c-43fe-b5d9-1b9fe46c1808,Is there fat necrosis?,No. ,"Yes, the image appears to show fat necrosis, which is a condition where fat cells in the body die due to lack of blood supply. This can occur after a liposuction procedure, where fat cells are removed from the body. The pink and purple coloration suggests that the tissue is undergoing a healing process, which is typical after such a procedure. ","[INST]  
+Is there fat necrosis? [/INST] Yes.   [INST]  
+Is there fat necrosis? [/INST] Yes.   [INST]  
+Is there fat necrosis? [/INST] Yes, the image appears to show fat necrosis, which is a condition where fat cells in the body die due to lack of blood supply. This can occur after a liposuction procedure, where fat cells are removed from the body. The pink and purple coloration suggests that the tissue is undergoing a healing process, which is typical after such a procedure. "
+c0a57b05-eee7-499a-8745-a2f637cde131,Is there any evidence of pneumothorax in the radiograph?,Yes.,"No, there is no evidence of pneumothorax in the radiograph. The lungs appear to be filled with air, and there are no signs of air accumulation outside the lungs, which would be indicative of a pneumothorax. ","[INST]  
+Is there any evidence of pneumothorax in the radiograph? [/INST] Yes.  [INST]  
+Is there any evidence of pneumothorax in the radiograph? [/INST] No.  [INST]  
+Is there any evidence of pneumothorax in the radiograph? [/INST] No, there is no evidence of pneumothorax in the radiograph. The lungs appear to be filled with air, and there are no signs of air accumulation outside the lungs, which would be indicative of a pneumothorax. "
+c7db3e52-cadc-4110-acaf-df1d77417653,What is the diagnosis?,"Facial palsy, left","The image shows a person with facial palsy, which is a condition that affects the muscles on one side of the face. The person is smiling, and you can see that the muscles on the left side of the face are not functioning properly, which is a common symptom of facial palsy. The text in the image suggests that the person has been experiencing this condition for two days after an onset of facial paralysis. It is important for individuals with facial palsy to seek medical attention to determine the cause and receive appropriate treatment. ","[INST]  
+What is the diagnosis? [/INST] Facial palsy, right  [INST]  
+What is the diagnosis? [/INST] Facial palsy, left  [INST]  
+What is the diagnosis? [/INST] The image shows a person with facial palsy, which is a condition that affects the muscles on one side of the face. The person is smiling, and you can see that the muscles on the left side of the face are not functioning properly, which is a common symptom of facial palsy. The text in the image suggests that the person has been experiencing this condition for two days after an onset of facial paralysis. It is important for individuals with facial palsy to seek medical attention to determine the cause and receive appropriate treatment. "
+c8270afe-324e-4bdf-af7d-a95d1f7d2155,"What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? ",Highly suggestive of malignancy,"The image you've provided appears to be a mammogram, which is a medical imaging technique used to detect breast cancer. The likelihood of breast cancer in this image is not something that can be determined by me or anyone else without proper medical training. The interpretation of mammograms is typically done by radiologists who are trained to identify potential abnormalities that could be indicative of breast cancer. If you have concerns about this image, it is important to consult with a healthcare professional who can provide an accurate assessment and recommend appropriate follow-up care. ","[INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Negative  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Probably benign  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Suspicious  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Highly suggestive of malignancy  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Suspicious  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Highly suggestive of malignancy  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Benign  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Probably benign  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] Negative  [INST]  
+What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?  [/INST] The image you've provided appears to be a mammogram, which is a medical imaging technique used to detect breast cancer. The likelihood of breast cancer in this image is not something that can be determined by me or anyone else without proper medical training. The interpretation of mammograms is typically done by radiologists who are trained to identify potential abnormalities that could be indicative of breast cancer. If you have concerns about this image, it is important to consult with a healthcare professional who can provide an accurate assessment and recommend appropriate follow-up care. "
+ca0f791b-bcbd-4c2c-9ea0-c960f9fac20c,What suture technique is shown?,Donati suture technique.,"The image shows a suture technique that appears to be a combination of a running suture and a subcuticular suture. The suture is placed through the skin and appears to be running along the edge of the incision, which is typical of a running suture. However, the suture also seems to be passing through the subcuticular tissue, which is not a common practice for a running suture. This could be a modified technique or an error in the illustration. ","[INST]  
+What suture technique is shown? [/INST] Simple, interrupted suture technique.  [INST]  
+What suture technique is shown? [/INST] Simple, running suture technique.  [INST]  
+What suture technique is shown? [/INST] Donati suture technique.  [INST]  
+What suture technique is shown? [/INST] Intradermal running suture technique.  [INST]  
+What suture technique is shown? [/INST] The image shows a suture technique that appears to be a combination of a running suture and a subcuticular suture. The suture is placed through the skin and appears to be running along the edge of the incision, which is typical of a running suture. However, the suture also seems to be passing through the subcuticular tissue, which is not a common practice for a running suture. This could be a modified technique or an error in the illustration. "
+cae3a3c3-4917-421d-b4a5-360767f459cd,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,"The ECG shown in the image appears to display a pattern consistent with supraventricular tachycardia with aberrancy. This is indicated by the presence of a regular, narrow complex tachycardia with a retrograde P wave, which is characteristic of supraventricular tachycardia. The aberrancy is suggested by the presence of a wide complex tachycardia with a longer R-R interval, which is not typical of supraventricular tachycardia and may indicate ventricular tachycardia. However, without additional information or a more detailed analysis, it is not possible to definitively diagnose the arrhythmia. ","[INST]  
+Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? [/INST] ventricular tachycardia  [INST]  
+Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? [/INST] supraventricular tachycardia with aberrancy   [INST]  
+Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? [/INST] supraventricular tachycardia with aberrancy  [INST]  
+Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? [/INST] supraventricular tachycardia with aberrancy  [INST]  
+Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? [/INST] supraventricular tachycardia with aberrancy  [INST]  
+Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? [/INST] The ECG shown in the image appears to display a pattern consistent with supraventricular tachycardia with aberrancy. This is indicated by the presence of a regular, narrow complex tachycardia with a retrograde P wave, which is characteristic of supraventricular tachycardia. The aberrancy is suggested by the presence of a wide complex tachycardia with a longer R-R interval, which is not typical of supraventricular tachycardia and may indicate ventricular tachycardia. However, without additional information or a more detailed analysis, it is not possible to definitively diagnose the arrhythmia. "
+cdeea5fd-c696-4cdf-8b16-624d77413798,Can you safely send this patient home without further diagnostics?,"Yes, normal Chest X-ray.",No. Pneumoperitoneum indicative of gastrointestinal perforation. ,"[INST]  
+Can you safely send this patient home without further diagnostics? [/INST] No. Pneumoperitoneum indicative of gastrointestinal perforation.  [INST]  
+Can you safely send this patient home without further diagnostics? [/INST] Yes, normal Chest X-ray.  [INST]  
+Can you safely send this patient home without further diagnostics? [/INST] No. Pneumoperitoneum indicative of gastrointestinal perforation.  [INST]  
+Can you safely send this patient home without further diagnostics? [/INST] No. Pneumoperitoneum indicative of gastrointestinal perforation. "
+d05074d3-8496-426c-b315-edc6dd9c7874,"Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location?",Middle mediastinal mass,"No, there is no mediastinal mass visible in this image. The image shows the chest area with the lungs and heart, but there is no mass or abnormality that would be indicative of a mediastinal mass. ","[INST]  
+Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location? [/INST] Anterior mediastinal mass  [INST]  
+Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location? [/INST] Posterior mediastinal mass  [INST]  
+Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location? [/INST] No mediastinal mass  [INST]  
+Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location? [/INST] No, there is no mediastinal mass visible in this image. The image shows the chest area with the lungs and heart, but there is no mass or abnormality that would be indicative of a mediastinal mass. "
+d2fa6150-282c-459e-8110-12496e7d201b,Is there a liver abscess in the ultrasound image?,Yes,"No, there is no liver abscess visible in the ultrasound image. The image shows a fetal ultrasound, and the fetus appears to be developing normally. ","[INST]  
+Is there a liver abscess in the ultrasound image? [/INST] Yes  [INST]  
+Is there a liver abscess in the ultrasound image? [/INST] No  [INST]  
+Is there a liver abscess in the ultrasound image? [/INST] No, there is no liver abscess visible in the ultrasound image. The image shows a fetal ultrasound, and the fetus appears to be developing normally. "
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.","The image appears to be a chest X-ray, and it shows the lungs and heart. There is no visible abnormality in the lungs or heart that can be determined from this image. The lungs appear to be clear, and the heart is in a normal position. If there is a concern about the image, it would be best to consult with a medical professional for an accurate interpretation. ","[INST]  
+Is there anything abnormal in the provided image? [/INST] Yes. Pneumothorax, right lung.  [INST]  
+Is there anything abnormal in the provided image? [/INST] Yes. Pneumothorax, left lung.  [INST]  
+Is there anything abnormal in the provided image? [/INST] No. Normal chest radiograph.  [INST]  
+Is there anything abnormal in the provided image? [/INST] The image appears to be a chest X-ray, and it shows the lungs and heart. There is no visible abnormality in the lungs or heart that can be determined from this image. The lungs appear to be clear, and the heart is in a normal position. If there is a concern about the image, it would be best to consult with a medical professional for an accurate interpretation. "
+d9c89c56-9588-4c36-9ee7-bac43ceb1047,What type of staining is shown?,Endospore staining.,"The image shows a microscopic view of a sample stained with Giemsa stain, which is commonly used to differentiate between different types of white blood cells. The staining highlights the nuclei and cytoplasm of the cells, allowing for identification of various cell types. ","[INST]  
+What type of staining is shown? [/INST] Ziehl-Neelsen staining.  [INST]  
+What type of staining is shown? [/INST] Auramine-O staining.  [INST]  
+What type of staining is shown? [/INST] Endospore staining.  [INST]  
+What type of staining is shown? [/INST] Giemsa staining.  [INST]  
+What type of staining is shown? [/INST] The image shows a microscopic view of a sample stained with Giemsa stain, which is commonly used to differentiate between different types of white blood cells. The staining highlights the nuclei and cytoplasm of the cells, allowing for identification of various cell types. "
+da35a3de-fa23-4c20-905e-5b82b8d5d23a,What is the histopathologic diagnosis?,Adenocarcinoma. ,Adenoma. ,"[INST]  
+What is the histopathologic diagnosis? [/INST] Adenocarcinoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Adenocarcinoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Adenoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Adenoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Adenoma. "
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,"The image shows a histopathologic slide with a focus on the epithelial and connective tissue layers. The epithelium appears to be intact and there is no evidence of dysplasia or malignancy. The connective tissue shows a dense network of collagen fibers, which is typical for the dermis. There are no visible abnormalities that would suggest a diagnosis of squamous cell carcinoma or any other type of cancer. The histopathologic diagnosis based on this image would be normal epidermis and dermis. ","[INST]  
+What is the histopathologic diagnosis? [/INST] Squamous cell carcinoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Squamous cell carcinoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Normal epidermis and dermis, with benign nevus.   [INST]  
+What is the histopathologic diagnosis? [/INST] The image shows a histopathologic slide with a focus on the epithelial and connective tissue layers. The epithelium appears to be intact and there is no evidence of dysplasia or malignancy. The connective tissue shows a dense network of collagen fibers, which is typical for the dermis. There are no visible abnormalities that would suggest a diagnosis of squamous cell carcinoma or any other type of cancer. The histopathologic diagnosis based on this image would be normal epidermis and dermis. "
+e4ce4ffc-bc94-4da2-abd7-2493702e2082,Are there pleural effusions in this chest x-ray?,"Yes, on the left","No, there are no pleural effusions visible in this chest X-ray. The image shows the lungs and heart silhouette, but there is no fluid or air collection that would indicate the presence of pleural effusions. ","[INST]  
+Are there pleural effusions in this chest x-ray? [/INST] Yes, on the right  [INST]  
+Are there pleural effusions in this chest x-ray? [/INST] No  [INST]  
+Are there pleural effusions in this chest x-ray? [/INST] No, there are no pleural effusions visible in this chest X-ray. The image shows the lungs and heart silhouette, but there is no fluid or air collection that would indicate the presence of pleural effusions. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,The image shows a histopathologic slide with a focus on the epidermis and dermis. The histopathologic diagnosis is normal epidermis and dermis. ,"[INST]  
+What is the histopathologic diagnosis? [/INST] Basal cell carcinoma.   [INST]  
+What is the histopathologic diagnosis? [/INST] Normal epidermis and dermis, with benign intradermal nevus.   [INST]  
+What is the histopathologic diagnosis? [/INST] Basal cell carcinoma.  [INST]  
+What is the histopathologic diagnosis? [/INST] Basal cell carcinoma.  [INST]  
+What is the histopathologic diagnosis? [/INST] Normal epidermis and dermis.   [INST]  
+What is the histopathologic diagnosis? [/INST] The image shows a histopathologic slide with a focus on the epidermis and dermis. The histopathologic diagnosis is normal epidermis and dermis. "
+e675a4c8-0f22-4925-8996-51e0d35bf990,On which side is the lumen?,Bottom left.,Top. ,"[INST]  
+On which side is the lumen? [/INST] Right.  [INST]  
+On which side is the lumen? [/INST] Top.  [INST]  
+On which side is the lumen? [/INST] Top. "
+ea4975ff-f64d-4067-91ee-1cefeec69416,What is the histopathologic diagnosis?,Follicular adenoma (no capsular invasion). ,"The image shows a histopathologic slide of a tissue sample, which appears to be from a thyroid gland. The histopathologic diagnosis is follicular adenoma, which is a benign tumor of the thyroid gland. The cells are arranged in a follicular pattern, which is characteristic of thyroid follicles. The cells are uniform in size and shape, and there is no evidence of capsular invasion or other malignant features. ","[INST]  
+What is the histopathologic diagnosis? [/INST] Follicular thyroid carcinoma (with capsular invasion).   [INST]  
+What is the histopathologic diagnosis? [/INST] Follicular thyroid carcinoma (with capsular invasion).   [INST]  
+What is the histopathologic diagnosis? [/INST] Follicular adenoma (no capsular invasion).   [INST]  
+What is the histopathologic diagnosis? [/INST] The image shows a histopathologic slide of a tissue sample, which appears to be from a thyroid gland. The histopathologic diagnosis is follicular adenoma, which is a benign tumor of the thyroid gland. The cells are arranged in a follicular pattern, which is characteristic of thyroid follicles. The cells are uniform in size and shape, and there is no evidence of capsular invasion or other malignant features. "
+eb4248fd-adf3-4682-b738-5d69d0248511,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,The atelectasis is within the right lower lobe of the lung. ,"[INST]  
+Which lung lobe(s) is the atelectasis within? [/INST] Left lower lobe  [INST]  
+Which lung lobe(s) is the atelectasis within? [/INST] Left upper lobe  [INST]  
+Which lung lobe(s) is the atelectasis within? [/INST] Right upper lobe  [INST]  
+Which lung lobe(s) is the atelectasis within? [/INST] Right middle lobe  [INST]  
+Which lung lobe(s) is the atelectasis within? [/INST] Right lower lobe  [INST]  
+Which lung lobe(s) is the atelectasis within? [/INST] The atelectasis is within the right lower lobe of the lung. "
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab,Is there a visible pathology?,"Pneumothorax, left","The image you've provided appears to be a chest X-ray. However, without proper medical training, I am not qualified to provide a diagnosis or identify any pathologies. It is important to consult with a medical professional for an accurate interpretation of medical images. ","[INST]  
+Is there a visible pathology? [/INST] Pneumothorax, right  [INST]  
+Is there a visible pathology? [/INST] Pneumothorax, bilateral  [INST]  
+Is there a visible pathology? [/INST] Pneumothorax, right  [INST]  
+Is there a visible pathology? [/INST] Pneumothorax, left  [INST]  
+Is there a visible pathology? [/INST] Normal chest xray  [INST]  
+Is there a visible pathology? [/INST] The image you've provided appears to be a chest X-ray. However, without proper medical training, I am not qualified to provide a diagnosis or identify any pathologies. It is important to consult with a medical professional for an accurate interpretation of medical images. "
+f5455eaf-7eba-44a4-963f-abdee38c9d99,What is shown on this Xray?,Moderate left pneumothorax,"The X-ray shows a pneumothorax, which is a medical condition where air accumulates in the pleural space between the lungs and the chest wall. This can occur due to a variety of reasons, such as trauma, medical procedures, or certain medical conditions. The air in the pleural space can cause the lung to collapse, which can be life-threatening if not treated. The X-ray is a lateral chest X-ray, which is a type of X-ray that is taken from the side of the body. ","[INST]  
+What is shown on this Xray? [/INST] Large tension pneumothorax on the left  [INST]  
+What is shown on this Xray? [/INST] Large right tension pneumothorax  [INST]  
+What is shown on this Xray? [/INST] Moderate right pneumothorax  [INST]  
+What is shown on this Xray? [/INST] The X-ray shows a pneumothorax, which is a medical condition where air accumulates in the pleural space between the lungs and the chest wall. This can occur due to a variety of reasons, such as trauma, medical procedures, or certain medical conditions. The air in the pleural space can cause the lung to collapse, which can be life-threatening if not treated. The X-ray is a lateral chest X-ray, which is a type of X-ray that is taken from the side of the body. "
+f90cefb2-7034-49e5-be73-ee070eaa3840,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,"The image you've provided appears to be a chest X-ray. However, due to the low resolution and the angle of the X-ray, it is difficult to make a definitive diagnosis. The heart shape is not typical, which could suggest a congenital heart defect. The lungs appear to be clear, and there are no obvious signs of infection or other pathology.
+
+To provide a more accurate diagnosis, a higher-quality image with a clearer view of the heart and lungs would be necessary. Additionally, a medical professional should be consulted for a proper interpretation of the X-ray. ","[INST]  
+Report this Chest x-ray as a radiologist. [/INST] Normal.  [INST]  
+Report this Chest x-ray as a radiologist. [/INST] Box shaped heart suggestive of Ebstein anomaly.
+  [INST]  
+Report this Chest x-ray as a radiologist. [/INST] Egg shaped heart suggestive of Transposition of great arteries.  [INST]  
+Report this Chest x-ray as a radiologist. [/INST] Snowman heart suggestive of Total anomalous pulmonary return.  [INST]  
+Report this Chest x-ray as a radiologist. [/INST] The image you've provided appears to be a chest X-ray. However, due to the low resolution and the angle of the X-ray, it is difficult to make a definitive diagnosis. The heart shape is not typical, which could suggest a congenital heart defect. The lungs appear to be clear, and there are no obvious signs of infection or other pathology.
+
+To provide a more accurate diagnosis, a higher-quality image with a clearer view of the heart and lungs would be necessary. Additionally, a medical professional should be consulted for a proper interpretation of the X-ray. "
+fa8407ca-468a-410c-9072-5a2640459820,What pathology is most likely shown in this image?,Granuloma annulare.,"The image shows a skin rash with a central, raised, red or reddish-brown lesion surrounded by a halo of redness. This appearance is characteristic of a condition called granuloma annulare. It is a type of skin lesion that is not contagious and is not cancerous. It is typically a benign skin condition that can be treated with topical creams or other treatments depending on the severity and location of the lesion. ","[INST]  
+What pathology is most likely shown in this image? [/INST] Bullseye rash in Lyme disease.  [INST]  
+What pathology is most likely shown in this image? [/INST] Granuloma annulare.  [INST]  
+What pathology is most likely shown in this image? [/INST] Discoid lupus.  [INST]  
+What pathology is most likely shown in this image? [/INST] The image shows a skin rash with a central, raised, red or reddish-brown lesion surrounded by a halo of redness. This appearance is characteristic of a condition called granuloma annulare. It is a type of skin lesion that is not contagious and is not cancerous. It is typically a benign skin condition that can be treated with topical creams or other treatments depending on the severity and location of the lesion. "
+fbe4eed6-6670-4f77-9197-2728be0f8419,"Which abnormality, if any, is present in this ultrasound image?",Gallstones,"The image shows a gallbladder with a significant amount of sludge, which is a common finding in ultrasound imaging. Sludge is a mixture of cholesterol, calcium, and other substances that can form in the gallbladder. It is not a disease in itself, but it can be a sign of an impending gallstone attack or a chronic condition that may require medical attention. ","[INST]  
+Which abnormality, if any, is present in this ultrasound image? [/INST] Gallstones  [INST]  
+Which abnormality, if any, is present in this ultrasound image? [/INST] Sludge  [INST]  
+Which abnormality, if any, is present in this ultrasound image? [/INST] The image shows a gallbladder with a significant amount of sludge, which is a common finding in ultrasound imaging. Sludge is a mixture of cholesterol, calcium, and other substances that can form in the gallbladder. It is not a disease in itself, but it can be a sign of an impending gallstone attack or a chronic condition that may require medical attention. "

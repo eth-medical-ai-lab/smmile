@@ -1,0 +1,6 @@
+Model: llama33textonly
+Inference Mode: 0-shot
+Task Format: mcqa
+Accuracy: 0.4143 (430/1038)
+Total Examples: 1038
+Timestamp: 2025-05-14 08:50:51

@@ -1,0 +1,1050 @@
+problem_id,final_question,true_answer,correct_option,selected_option,is_correct,generated_answer
+02decd79-711e-4eef-9bc9-04347e4692fe_perm_1,What is the diagnosis?,"Hydropneumothorax, left",D,D,True,"Hydropneumothorax, left"
+02decd79-711e-4eef-9bc9-04347e4692fe_perm_2,What is the diagnosis?,"Hydropneumothorax, left",D,B,False,"Hydropneumothorax, right"
+02decd79-711e-4eef-9bc9-04347e4692fe_perm_3,What is the diagnosis?,"Hydropneumothorax, left",D,D,True,"Hydropneumothorax, left"
+02decd79-711e-4eef-9bc9-04347e4692fe_perm_4,What is the diagnosis?,"Hydropneumothorax, left",D,B,False,"Hydropneumothorax, right"
+02decd79-711e-4eef-9bc9-04347e4692fe_perm_5,What is the diagnosis?,"Hydropneumothorax, left",D,C,False,"Pneumothorax, right"
+02decd79-711e-4eef-9bc9-04347e4692fe_perm_6,What is the diagnosis?,"Hydropneumothorax, left",D,B,False,"Pneumothorax, right"
+050515b0-aff0-4ce6-8edf-b8ae01b786c5_perm_1,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",A,B,False,"No, normal renal histology. "
+050515b0-aff0-4ce6-8edf-b8ae01b786c5_perm_2,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",A,B,False,"No, normal renal histology. "
+050515b0-aff0-4ce6-8edf-b8ae01b786c5_perm_3,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",A,B,False,"No, normal renal histology. "
+050515b0-aff0-4ce6-8edf-b8ae01b786c5_perm_4,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",A,B,False,"No, normal renal histology. "
+050515b0-aff0-4ce6-8edf-b8ae01b786c5_perm_5,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",B,A,False,"No, normal renal histology. "
+050515b0-aff0-4ce6-8edf-b8ae01b786c5_perm_6,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ",B,A,False,"No, normal renal histology. "
+08bd93cb-0201-4f20-8e37-97e495cf3542_perm_1,Are there changes of acute myocardial infarction in this ECG with paced rhythm?,Yes,C,A,False,No - Panel A
+08bd93cb-0201-4f20-8e37-97e495cf3542_perm_2,Are there changes of acute myocardial infarction in this ECG with paced rhythm?,Yes,C,A,False,Yes - Panel B
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_1,Is there any evidence of honeycombing?,yes,A,E,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_2,Is there any evidence of honeycombing?,yes,A,C,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_3,Is there any evidence of honeycombing?,yes,C,C,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_4,Is there any evidence of honeycombing?,yes,D,D,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_5,Is there any evidence of honeycombing?,yes,G,G,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_6,Is there any evidence of honeycombing?,yes,C,D,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_7,Is there any evidence of honeycombing?,yes,E,E,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_8,Is there any evidence of honeycombing?,yes,A,E,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_9,Is there any evidence of honeycombing?,yes,C,E,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_10,Is there any evidence of honeycombing?,yes,B,B,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_11,Is there any evidence of honeycombing?,yes,G,G,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_12,Is there any evidence of honeycombing?,yes,A,D,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_13,Is there any evidence of honeycombing?,yes,D,D,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_14,Is there any evidence of honeycombing?,yes,B,E,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_15,Is there any evidence of honeycombing?,yes,E,A,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_16,Is there any evidence of honeycombing?,yes,D,D,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_17,Is there any evidence of honeycombing?,yes,A,C,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_18,Is there any evidence of honeycombing?,yes,E,E,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_19,Is there any evidence of honeycombing?,yes,A,C,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_20,Is there any evidence of honeycombing?,yes,A,F,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_21,Is there any evidence of honeycombing?,yes,G,G,True,yes
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_22,Is there any evidence of honeycombing?,yes,B,G,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_23,Is there any evidence of honeycombing?,yes,A,D,False,no
+09728185-88c5-4da1-8b87-cd7572a530d2_perm_24,Is there any evidence of honeycombing?,yes,G,G,True,yes
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_1,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_2,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_3,Is there a joint effusion?,No,A,A,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_4,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_5,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_6,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_7,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_8,Is there a joint effusion?,No,A,A,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_9,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_10,Is there a joint effusion?,No,A,A,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_11,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_12,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_13,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_14,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_15,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_16,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_17,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_18,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_19,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_20,Is there a joint effusion?,No,A,A,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_21,Is there a joint effusion?,No,A,A,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_22,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_23,Is there a joint effusion?,No,B,B,True,No
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18_perm_24,Is there a joint effusion?,No,B,B,True,No
+0a405f20-1fcd-4fac-a0c1-3323efac8726_perm_1,Is honeycombing present?,Yes,A,A,True,Yes
+0a405f20-1fcd-4fac-a0c1-3323efac8726_perm_2,Is honeycombing present?,Yes,B,A,False,No
+16870356-d6c6-468a-8356-a8e2fc81dec5_perm_1,Is there any pathology visible in this chest X-Ray?,"Water bottle sign in the heart, suggestive of pericardial effusion.",A,B,False,Normal.
+16870356-d6c6-468a-8356-a8e2fc81dec5_perm_2,Is there any pathology visible in this chest X-Ray?,"Water bottle sign in the heart, suggestive of pericardial effusion.",B,B,True,"Water bottle sign in the heart, suggestive of pericardial effusion."
+18218d7e-e2b3-45ee-a6bb-45054271c091_perm_1,What is the large round object?,Amoeba.,B,A,False,Giant cell in Giant-cell carcinoma of the lung.
+18218d7e-e2b3-45ee-a6bb-45054271c091_perm_2,What is the large round object?,Amoeba.,C,C,True,Amoeba.
+18218d7e-e2b3-45ee-a6bb-45054271c091_perm_3,What is the large round object?,Amoeba.,A,B,False,Giant cell in Giant-cell carcinoma of the lung.
+18218d7e-e2b3-45ee-a6bb-45054271c091_perm_4,What is the large round object?,Amoeba.,A,C,False,Giant cell in Giant-cell carcinoma of the lung.
+18218d7e-e2b3-45ee-a6bb-45054271c091_perm_5,What is the large round object?,Amoeba.,C,C,True,Amoeba.
+18218d7e-e2b3-45ee-a6bb-45054271c091_perm_6,What is the large round object?,Amoeba.,B,A,False,Ascarsis lumbricoides.
+188fb1a0-4521-4fb1-9c82-46527f1603a9_perm_1,What is the diagnosis?,Levocardia,A,A,True,Levocardia
+188fb1a0-4521-4fb1-9c82-46527f1603a9_perm_2,What is the diagnosis?,Levocardia,A,A,True,Levocardia
+188fb1a0-4521-4fb1-9c82-46527f1603a9_perm_3,What is the diagnosis?,Levocardia,B,B,True,Levocardia
+188fb1a0-4521-4fb1-9c82-46527f1603a9_perm_4,What is the diagnosis?,Levocardia,C,C,True,Levocardia
+188fb1a0-4521-4fb1-9c82-46527f1603a9_perm_5,What is the diagnosis?,Levocardia,B,B,True,Levocardia
+188fb1a0-4521-4fb1-9c82-46527f1603a9_perm_6,What is the diagnosis?,Levocardia,C,C,True,Levocardia
+1b7f4c9f-5655-4037-92e6-0e310f41184e_perm_1,What pathology can be seen?,Vitreous hemorrhage.,B,A,False,Retinal hemorrhages.
+1b7f4c9f-5655-4037-92e6-0e310f41184e_perm_2,What pathology can be seen?,Vitreous hemorrhage.,A,B,False,Retinal hemorrhages.
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_1,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,B,False,Yes
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_2,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,A,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_3,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,A,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_4,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,B,False,Yes
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_5,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,A,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_6,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,A,B,False,Yes
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_7,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_8,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_9,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_10,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_11,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_12,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_13,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_14,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_15,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_16,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_17,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_18,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_19,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_20,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_21,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_22,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_23,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1c39462b-cfdd-455c-b8f1-e099f85bcc29_perm_24,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,B,B,True,No
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_1,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,A,B,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_2,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,A,B,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_3,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,A,B,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_4,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,A,B,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_5,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,A,B,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_6,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,A,B,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_7,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_8,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_9,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_10,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_11,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_12,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_13,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_14,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_15,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_16,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_17,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_18,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_19,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_20,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_21,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_22,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_23,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+1d690af1-020d-4163-8abe-e7fc2bbdba17_perm_24,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,B,A,False,Acne rosacea.
+21eb81de-7686-4efc-9875-7dc4cbfc557d_perm_1,Are the red blood cells normal?,"No, there are schiostocytes. ",B,B,True,"No, there are schiostocytes. "
+21eb81de-7686-4efc-9875-7dc4cbfc557d_perm_2,Are the red blood cells normal?,"No, there are schiostocytes. ",A,A,True,"No, there are schiostocytes. "
+21ec6a11-a59f-41b2-bbca-51cc937d8828_perm_1,Where is the tumor located?,Caecum.,C,C,True,Caecum.
+21ec6a11-a59f-41b2-bbca-51cc937d8828_perm_2,Where is the tumor located?,Caecum.,C,C,True,Caecum.
+2285cb57-7853-41c4-bc0b-12cf269a23a3_perm_1,Is atoll sign present?,Yes,A,A,True,Yes
+2285cb57-7853-41c4-bc0b-12cf269a23a3_perm_2,Is atoll sign present?,Yes,B,B,True,Yes
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5_perm_1,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,B,C,False,Dilated cardiomyopathy with pulmonary edema.
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5_perm_2,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,C,C,True,Dilated cardiomyopathy
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5_perm_3,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,A,B,False,"None, normal thorax."
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5_perm_4,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,A,C,False,"None, normal thorax."
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5_perm_5,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,C,B,False,"None, normal thorax."
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5_perm_6,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,B,C,False,"None, normal thorax."
+2d3f8498-af1d-440e-92a2-4837dc277974_perm_1,What kind of image is this?,MRI of the brain with contrast,D,C,False,MRI of the brain without contrast
+2d3f8498-af1d-440e-92a2-4837dc277974_perm_2,What kind of image is this?,MRI of the brain with contrast,D,B,False,MRI of the brain without contrast
+2d3f8498-af1d-440e-92a2-4837dc277974_perm_3,What kind of image is this?,MRI of the brain with contrast,D,C,False,MRI of the brain without contrast
+2d3f8498-af1d-440e-92a2-4837dc277974_perm_4,What kind of image is this?,MRI of the brain with contrast,D,B,False,MRI of the brain without contrast
+2d3f8498-af1d-440e-92a2-4837dc277974_perm_5,What kind of image is this?,MRI of the brain with contrast,D,A,False,MRI of the brain without contrast
+2d3f8498-af1d-440e-92a2-4837dc277974_perm_6,What kind of image is this?,MRI of the brain with contrast,D,A,False,MRI of the brain without contrast
+3436b5aa-7219-42c1-96cc-54f1e4286003_perm_1,What is this person's skin type?,Type VI,A,C,False,Type IV
+3436b5aa-7219-42c1-96cc-54f1e4286003_perm_2,What is this person's skin type?,Type VI,A,B,False,Type IV
+3436b5aa-7219-42c1-96cc-54f1e4286003_perm_3,What is this person's skin type?,Type VI,B,A,False,Type I
+3436b5aa-7219-42c1-96cc-54f1e4286003_perm_4,What is this person's skin type?,Type VI,C,B,False,Type IV
+3436b5aa-7219-42c1-96cc-54f1e4286003_perm_5,What is this person's skin type?,Type VI,B,A,False,Type IV
+3436b5aa-7219-42c1-96cc-54f1e4286003_perm_6,What is this person's skin type?,Type VI,C,C,True,Type VI
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_1,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_2,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_3,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_4,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_5,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_6,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_7,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_8,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_9,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_10,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_11,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_12,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_13,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_14,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_15,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_16,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_17,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_18,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_19,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_20,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_21,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_22,Which skin condition is shown?,petechiae,A,A,True,petechiae
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_23,Which skin condition is shown?,petechiae,B,A,False,angioma
+34f7d1cc-7328-457b-b9d3-5e983c6496d1_perm_24,Which skin condition is shown?,petechiae,A,A,True,petechiae
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_1,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_2,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_3,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_4,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_5,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_6,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_7,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_8,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_9,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_10,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_11,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_12,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_13,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_14,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_15,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_16,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_17,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_18,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_19,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_20,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_21,Does this EEG show seizure activity?,no,B,A,False,yes
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_22,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_23,Does this EEG show seizure activity?,no,B,B,True,no
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e_perm_24,Does this EEG show seizure activity?,no,B,A,False,yes
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_1,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_2,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_3,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_4,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_5,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_6,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_7,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_8,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_9,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_10,Is there a visible pathology?,Pneumoperitoneum,A,B,False,Normal chest xray
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_11,Is there a visible pathology?,Pneumoperitoneum,A,B,False,Normal chest xray
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_12,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_13,Is there a visible pathology?,Pneumoperitoneum,A,B,False,Normal chest xray
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_14,Is there a visible pathology?,Pneumoperitoneum,A,B,False,Normal chest xray
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_15,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_16,Is there a visible pathology?,Pneumoperitoneum,A,B,False,Normal chest xray
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_17,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_18,Is there a visible pathology?,Pneumoperitoneum,A,A,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_19,Is there a visible pathology?,Pneumoperitoneum,B,B,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_20,Is there a visible pathology?,Pneumoperitoneum,B,B,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_21,Is there a visible pathology?,Pneumoperitoneum,B,B,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_22,Is there a visible pathology?,Pneumoperitoneum,B,B,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_23,Is there a visible pathology?,Pneumoperitoneum,B,B,True,Pneumoperitoneum
+3b17a705-1ef8-484e-bddf-2593b7062b98_perm_24,Is there a visible pathology?,Pneumoperitoneum,B,B,True,Pneumoperitoneum
+3db48fb6-755b-4323-a963-42239ecb0316_perm_1,Is there metastatic cancer in this lymph node?,No. ,A,A,True,No. 
+3db48fb6-755b-4323-a963-42239ecb0316_perm_2,Is there metastatic cancer in this lymph node?,No. ,B,B,True,No. 
+3e221315-f38c-4c93-87b1-7c9915d8a41b_perm_1,Is this suspicious for lymphoma?,No.,B,.,False,INVALID_OPTION:.
+3e221315-f38c-4c93-87b1-7c9915d8a41b_perm_2,Is this suspicious for lymphoma?,No.,B,B,True,No.
+40ea6079-9d12-477e-b34e-373c6d4f64d5_perm_1,What is the diagnosis?,"Fracture, ulna",B,A,False,"Fracture, ulna and radius"
+40ea6079-9d12-477e-b34e-373c6d4f64d5_perm_2,What is the diagnosis?,"Fracture, ulna",A,B,False,"Fracture, ulna and radius"
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_1,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_2,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_3,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_4,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_5,Is splinter hemorrhage present?,no,A,B,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_6,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_7,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_8,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_9,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_10,Is splinter hemorrhage present?,no,A,B,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_11,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_12,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_13,Is splinter hemorrhage present?,no,A,B,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_14,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_15,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_16,Is splinter hemorrhage present?,no,A,B,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_17,Is splinter hemorrhage present?,no,A,B,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_18,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_19,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_20,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_21,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_22,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_23,Is splinter hemorrhage present?,no,B,A,False,yes
+41727fb3-7f70-4274-bacb-61f84b4bf584_perm_24,Is splinter hemorrhage present?,no,B,A,False,yes
+443aea8a-c61d-418c-80ab-6f9250324838_perm_1,What organ is shown and is it tumorous?,Kidney without tumor. ,B,B,True,Kidney without tumor. 
+443aea8a-c61d-418c-80ab-6f9250324838_perm_2,What organ is shown and is it tumorous?,Kidney without tumor. ,A,A,True,Kidney without tumor. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_1,What is shown in this image?,Plasma cells.,T,I,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_2,What is shown in this image?,Plasma cells.,T,A,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_3,What is shown in this image?,Plasma cells.,T,B,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_4,What is shown in this image?,Plasma cells.,T,G,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_5,What is shown in this image?,Plasma cells.,T,I,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_6,What is shown in this image?,Plasma cells.,T,R,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_7,What is shown in this image?,Plasma cells.,T,R,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_8,What is shown in this image?,Plasma cells.,T,C,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_9,What is shown in this image?,Plasma cells.,T,L,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_10,What is shown in this image?,Plasma cells.,T,G,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_11,What is shown in this image?,Plasma cells.,T,C,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_12,What is shown in this image?,Plasma cells.,T,S,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_13,What is shown in this image?,Plasma cells.,T,E,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_14,What is shown in this image?,Plasma cells.,T,R,False,Yes. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_15,What is shown in this image?,Plasma cells.,T,M,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_16,What is shown in this image?,Plasma cells.,T,C,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_17,What is shown in this image?,Plasma cells.,T,L,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_18,What is shown in this image?,Plasma cells.,T,T,True,Plasma cells.
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_19,What is shown in this image?,Plasma cells.,T,P,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_20,What is shown in this image?,Plasma cells.,T,K,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_21,What is shown in this image?,Plasma cells.,T,S,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_22,What is shown in this image?,Plasma cells.,T,K,False,Blast cells. 
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_23,What is shown in this image?,Plasma cells.,T,D,False,Low-grade squamous intraepithelial lesion (LSIL).
+44c46ae9-37d5-43b0-afab-162db2096c2c_perm_24,What is shown in this image?,Plasma cells.,T,S,False,Blast cells. 
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_1,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_2,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_3,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_4,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_5,Which anatomical plane is shown?,axial or transverse plane,B,B,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_6,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_7,Which anatomical plane is shown?,axial or transverse plane,A,A,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_8,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_9,Which anatomical plane is shown?,axial or transverse plane,A,A,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_10,Which anatomical plane is shown?,axial or transverse plane,A,A,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_11,Which anatomical plane is shown?,axial or transverse plane,B,B,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_12,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_13,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_14,Which anatomical plane is shown?,axial or transverse plane,B,B,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_15,Which anatomical plane is shown?,axial or transverse plane,B,B,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_16,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_17,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_18,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_19,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_20,Which anatomical plane is shown?,axial or transverse plane,A,A,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_21,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_22,Which anatomical plane is shown?,axial or transverse plane,A,A,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_23,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+48095d55-9265-4a0a-b9dc-baa2343c14af_perm_24,Which anatomical plane is shown?,axial or transverse plane,C,C,True,axial or transverse plane
+4894916c-f303-4d6c-8f76-73edee07f0b2_perm_1,Is air trapping present?,Yes,C,B,False,No
+4894916c-f303-4d6c-8f76-73edee07f0b2_perm_2,Is air trapping present?,Yes,C,B,False,yes
+4a8e141c-c247-45f0-84c2-5486cfbd62cf_perm_1,How many neutrophils are clearly visible?,6,D,B,False,1
+4a8e141c-c247-45f0-84c2-5486cfbd62cf_perm_2,How many neutrophils are clearly visible?,6,D,B,False,4
+4a8e141c-c247-45f0-84c2-5486cfbd62cf_perm_3,How many neutrophils are clearly visible?,6,D,C,False,4
+4a8e141c-c247-45f0-84c2-5486cfbd62cf_perm_4,How many neutrophils are clearly visible?,6,D,A,False,1
+4a8e141c-c247-45f0-84c2-5486cfbd62cf_perm_5,How many neutrophils are clearly visible?,6,D,B,False,2
+4a8e141c-c247-45f0-84c2-5486cfbd62cf_perm_6,How many neutrophils are clearly visible?,6,D,C,False,2
+4b8852b6-d518-4f21-beef-e016a52ce821_perm_1,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",A,A,True,"Irregular borders and color variation, suggestive of melanoma."
+4b8852b6-d518-4f21-beef-e016a52ce821_perm_2,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",A,A,True,"Irregular borders and color variation, suggestive of melanoma."
+4b8852b6-d518-4f21-beef-e016a52ce821_perm_3,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",B,B,True,"Irregular borders and color variation, suggestive of melanoma."
+4b8852b6-d518-4f21-beef-e016a52ce821_perm_4,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",C,C,True,"Irregular borders and color variation, suggestive of melanoma."
+4b8852b6-d518-4f21-beef-e016a52ce821_perm_5,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",B,B,True,"Irregular borders and color variation, suggestive of melanoma."
+4b8852b6-d518-4f21-beef-e016a52ce821_perm_6,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.",C,C,True,"Irregular borders and color variation, suggestive of melanoma."
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_1,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_2,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_3,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_4,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_5,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_6,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_7,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_8,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_9,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_10,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_11,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_12,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_13,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_14,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_15,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_16,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_17,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_18,Is there an endoleak?,No,B,B,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_19,Is there an endoleak?,No,A,A,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_20,Is there an endoleak?,No,A,A,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_21,Is there an endoleak?,No,A,A,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_22,Is there an endoleak?,No,A,A,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_23,Is there an endoleak?,No,A,A,True,No
+4eff8140-addf-49c6-b690-e63ace50df8e_perm_24,Is there an endoleak?,No,A,A,True,No
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_1,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,D,True,"Second-degree heart block, type 2."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_2,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,D,True,"Second-degree heart block, type 2."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_3,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_4,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_5,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_6,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_7,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_8,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,Third-degree heart block.
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_9,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_10,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_11,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_12,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_13,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_14,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_15,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_16,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,C,False,First-degree heart block.
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_17,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_18,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,A,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_19,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_20,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_21,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_22,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,P,False,INVALID_OPTION:P
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_23,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7_perm_24,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",D,B,False,"Second-degree heart block, type 1."
+53694f7c-93a9-4c85-af33-363e5f08af0d_perm_1," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,A,False,Apical zone
+53694f7c-93a9-4c85-af33-363e5f08af0d_perm_2," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,A,False,Apical zone
+53694f7c-93a9-4c85-af33-363e5f08af0d_perm_3," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,B,False,Apical zone
+53694f7c-93a9-4c85-af33-363e5f08af0d_perm_4," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,C,False,Apical zone
+53694f7c-93a9-4c85-af33-363e5f08af0d_perm_5," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,B,False,Apical zone
+53694f7c-93a9-4c85-af33-363e5f08af0d_perm_6," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,D,B,False,Upper zone
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_1,"Which pathology, if any, is prevalent in this image?",Schistocytes,B,B,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_2,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_3,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_4,"Which pathology, if any, is prevalent in this image?",Schistocytes,B,B,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_5,"Which pathology, if any, is prevalent in this image?",Schistocytes,A,A,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_6,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,B,False,None
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_7,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,B,False,None
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_8,"Which pathology, if any, is prevalent in this image?",Schistocytes,A,A,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_9,"Which pathology, if any, is prevalent in this image?",Schistocytes,A,A,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_10,"Which pathology, if any, is prevalent in this image?",Schistocytes,B,B,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_11,"Which pathology, if any, is prevalent in this image?",Schistocytes,B,B,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_12,"Which pathology, if any, is prevalent in this image?",Schistocytes,A,A,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_13,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_14,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_15,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,B,False,None
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_16,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_17,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,B,False,None
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_18,"Which pathology, if any, is prevalent in this image?",Schistocytes,B,B,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_19,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,B,False,None
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_20,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_21,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_22,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_23,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d_perm_24,"Which pathology, if any, is prevalent in this image?",Schistocytes,C,C,True,Schistocytes
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_1,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_2,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_3,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_4,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_5,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_6,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_7,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_8,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_9,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_10,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_11,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_12,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_13,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_14,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_15,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_16,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_17,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_18,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_19,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_20,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_21,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_22,Is there pneumoperitoneum?,No,A,A,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_23,Is there pneumoperitoneum?,No,B,B,True,No
+5c2a91db-7496-40c9-a919-ff9ec03b893b_perm_24,Is there pneumoperitoneum?,No,B,B,True,No
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92_perm_1,What pathology is visible?,Retinal detachment in fundus image.,A,B,False,"No pathology, healthy fundus."
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92_perm_2,What pathology is visible?,Retinal detachment in fundus image.,A,C,False,"No pathology, healthy fundus."
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92_perm_3,What pathology is visible?,Retinal detachment in fundus image.,B,A,False,"No pathology, healthy fundus."
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92_perm_4,What pathology is visible?,Retinal detachment in fundus image.,C,A,False,"No pathology, healthy fundus."
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92_perm_5,What pathology is visible?,Retinal detachment in fundus image.,B,C,False,"No pathology, healthy fundus."
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92_perm_6,What pathology is visible?,Retinal detachment in fundus image.,C,B,False,"No pathology, healthy fundus."
+5d954983-45e2-4853-b94a-19f21492884c_perm_1,Which bone or bones are fractured?,Ulna,B,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_2,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_3,Which bone or bones are fractured?,Ulna,B,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_4,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_5,Which bone or bones are fractured?,Ulna,A,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_6,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_7,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_8,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_9,Which bone or bones are fractured?,Ulna,A,C,False,Radius
+5d954983-45e2-4853-b94a-19f21492884c_perm_10,Which bone or bones are fractured?,Ulna,C,B,False,Radius
+5d954983-45e2-4853-b94a-19f21492884c_perm_11,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_12,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_13,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_14,Which bone or bones are fractured?,Ulna,B,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_15,Which bone or bones are fractured?,Ulna,C,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_16,Which bone or bones are fractured?,Ulna,B,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_17,Which bone or bones are fractured?,Ulna,B,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_18,Which bone or bones are fractured?,Ulna,C,B,False,Radius
+5d954983-45e2-4853-b94a-19f21492884c_perm_19,Which bone or bones are fractured?,Ulna,B,C,False,Radius
+5d954983-45e2-4853-b94a-19f21492884c_perm_20,Which bone or bones are fractured?,Ulna,C,B,False,Radius
+5d954983-45e2-4853-b94a-19f21492884c_perm_21,Which bone or bones are fractured?,Ulna,A,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_22,Which bone or bones are fractured?,Ulna,B,C,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_23,Which bone or bones are fractured?,Ulna,A,B,False,Radius and Ulna
+5d954983-45e2-4853-b94a-19f21492884c_perm_24,Which bone or bones are fractured?,Ulna,A,C,False,Radius and Ulna
+63338bb8-841b-4420-86fe-78e1963625d0_perm_1,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_2,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Cherry angioma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_3,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_4,Which skin-condition is shown?,Superficial spreading melanoma,D,A,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_5,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_6,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_7,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Cherry angioma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_8,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_9,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_10,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_11,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_12,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_13,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_14,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Cherry angioma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_15,Which skin-condition is shown?,Superficial spreading melanoma,D,A,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_16,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_17,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_18,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_19,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_20,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Cherry angioma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_21,Which skin-condition is shown?,Superficial spreading melanoma,D,A,False,Superficial spreading Melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_22,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_23,Which skin-condition is shown?,Superficial spreading melanoma,D,B,False,Cherry angioma
+63338bb8-841b-4420-86fe-78e1963625d0_perm_24,Which skin-condition is shown?,Superficial spreading melanoma,D,D,True,Superficial spreading melanoma
+6597f180-5f13-4d49-83dd-64315337ce2f_perm_1,Is there visible pathology?,"Pleural effusion, right",B,A,False,"Pleural effusion, left"
+6597f180-5f13-4d49-83dd-64315337ce2f_perm_2,Is there visible pathology?,"Pleural effusion, right",A,B,False,"Pleural effusion, left"
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a_perm_1,What kind of MRI sequence is this?,T2 fat saturation,D,C,False,T2
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a_perm_2,What kind of MRI sequence is this?,T2 fat saturation,D,B,False,T2
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a_perm_3,What kind of MRI sequence is this?,T2 fat saturation,D,C,False,T2
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a_perm_4,What kind of MRI sequence is this?,T2 fat saturation,D,B,False,T2
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a_perm_5,What kind of MRI sequence is this?,T2 fat saturation,D,D,True,T2 fat saturation
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a_perm_6,What kind of MRI sequence is this?,T2 fat saturation,D,A,False,T2
+6c9f0a00-bc0b-4844-b498-c57d68382c5d_perm_1,Where is the location of the endotracheal tube tip?,Trachea,A,B,False,"Main bronchus, right"
+6c9f0a00-bc0b-4844-b498-c57d68382c5d_perm_2,Where is the location of the endotracheal tube tip?,Trachea,A,C,False,"Main bronchus, right"
+6c9f0a00-bc0b-4844-b498-c57d68382c5d_perm_3,Where is the location of the endotracheal tube tip?,Trachea,B,B,True,Trachea
+6c9f0a00-bc0b-4844-b498-c57d68382c5d_perm_4,Where is the location of the endotracheal tube tip?,Trachea,C,A,False,"Main bronchus, right"
+6c9f0a00-bc0b-4844-b498-c57d68382c5d_perm_5,Where is the location of the endotracheal tube tip?,Trachea,B,B,True,Trachea
+6c9f0a00-bc0b-4844-b498-c57d68382c5d_perm_6,Where is the location of the endotracheal tube tip?,Trachea,C,B,False,"Main bronchus, right"
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_1,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_2,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_3,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_4,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,B,C,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_5,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_6,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_7,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_8,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_9,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_10,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_11,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,B,A,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_12,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,B,A,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_13,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_14,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_15,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_16,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_17,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_18,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_19,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,B,A,False,Basophil
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_20,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,A,B,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_21,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_22,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,B,B,True,Myeloblast without Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_23,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,B,A,False,Myeloblast with Auer rods
+6d0aec94-e009-46ea-8c93-2f2de47ef800_perm_24,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,C,C,True,Myeloblast without Auer rods
+732150de-bce4-46af-9a70-c4b1e2c4b783_perm_1,Does the liver appear enlarged?,Yes.,A,B,False,No.
+732150de-bce4-46af-9a70-c4b1e2c4b783_perm_2,Does the liver appear enlarged?,Yes.,B,A,False,No.
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b_perm_1,Are there signs of surgical wound infection?,Yes,C,B,False,No
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b_perm_2,Are there signs of surgical wound infection?,Yes,C,B,False,No
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b_perm_3,Are there signs of surgical wound infection?,Yes,C,A,False,No
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b_perm_4,Are there signs of surgical wound infection?,Yes,C,A,False,No
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b_perm_5,Are there signs of surgical wound infection?,Yes,C,A,False,No
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b_perm_6,Are there signs of surgical wound infection?,Yes,C,A,False,No
+820c2943-aea7-454e-ae7a-850c50c0de2f_perm_1,Does this ECG show artifact or ventricular tachycardia?,artifact ,C,B,False,ventricular tachycardia
+820c2943-aea7-454e-ae7a-850c50c0de2f_perm_2,Does this ECG show artifact or ventricular tachycardia?,artifact ,C,A,False,ventricular tachycardia
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_1,"Is there a fracture and if so, what kind?",No fracture,C,D,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_2,"Is there a fracture and if so, what kind?",No fracture,C,A,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_3,"Is there a fracture and if so, what kind?",No fracture,D,A,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_4,"Is there a fracture and if so, what kind?",No fracture,C,D,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_5,"Is there a fracture and if so, what kind?",No fracture,B,C,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_6,"Is there a fracture and if so, what kind?",No fracture,D,C,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_7,"Is there a fracture and if so, what kind?",No fracture,D,A,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_8,"Is there a fracture and if so, what kind?",No fracture,B,D,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_9,"Is there a fracture and if so, what kind?",No fracture,A,B,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_10,"Is there a fracture and if so, what kind?",No fracture,B,A,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_11,"Is there a fracture and if so, what kind?",No fracture,B,C,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_12,"Is there a fracture and if so, what kind?",No fracture,E,B,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_13,"Is there a fracture and if so, what kind?",No fracture,E,B,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_14,"Is there a fracture and if so, what kind?",No fracture,B,A,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_15,"Is there a fracture and if so, what kind?",No fracture,E,A,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_16,"Is there a fracture and if so, what kind?",No fracture,D,A,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_17,"Is there a fracture and if so, what kind?",No fracture,D,C,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_18,"Is there a fracture and if so, what kind?",No fracture,A,B,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_19,"Is there a fracture and if so, what kind?",No fracture,E,A,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_20,"Is there a fracture and if so, what kind?",No fracture,C,A,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_21,"Is there a fracture and if so, what kind?",No fracture,D,A,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_22,"Is there a fracture and if so, what kind?",No fracture,B,C,False,Comminuted fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_23,"Is there a fracture and if so, what kind?",No fracture,D,C,False,Transverse fracture
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e_perm_24,"Is there a fracture and if so, what kind?",No fracture,E,D,False,Transverse fracture
+9db35400-5633-48fa-9411-97926d30d4c5_perm_1,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_2,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_3,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_4,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_5,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_6,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_7,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_8,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_9,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_10,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_11,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_12,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_13,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_14,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_15,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_16,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_17,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_18,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,B,A,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_19,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_20,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_21,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_22,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_23,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9db35400-5633-48fa-9411-97926d30d4c5_perm_24,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,A,B,False,Normal
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9_perm_1,Is there a tree-in-bud appearance?,No,B,B,True,No
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9_perm_2,Is there a tree-in-bud appearance?,No,B,B,True,No
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9_perm_3,Is there a tree-in-bud appearance?,No,A,A,True,No
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9_perm_4,Is there a tree-in-bud appearance?,No,A,A,True,No
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9_perm_5,Is there a tree-in-bud appearance?,No,B,B,True,No
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9_perm_6,Is there a tree-in-bud appearance?,No,B,B,True,No
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_1,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema migrans
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_2,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema multiforme
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_3,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema multiforme
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_4,What pathology is shown in this image?,Tinea Corporis,C,C,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_5,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema migrans
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_6,What pathology is shown in this image?,Tinea Corporis,B,B,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_7,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema multiforme
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_8,What pathology is shown in this image?,Tinea Corporis,A,A,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_9,What pathology is shown in this image?,Tinea Corporis,C,C,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_10,What pathology is shown in this image?,Tinea Corporis,C,D,False,INVALID_OPTION:D
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_11,What pathology is shown in this image?,Tinea Corporis,B,B,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_12,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema migrans
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_13,What pathology is shown in this image?,Tinea Corporis,C,C,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_14,What pathology is shown in this image?,Tinea Corporis,B,B,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_15,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema multiforme
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_16,What pathology is shown in this image?,Tinea Corporis,C,C,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_17,What pathology is shown in this image?,Tinea Corporis,A,A,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_18,What pathology is shown in this image?,Tinea Corporis,B,B,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_19,What pathology is shown in this image?,Tinea Corporis,A,A,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_20,What pathology is shown in this image?,Tinea Corporis,C,C,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_21,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema migrans
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_22,What pathology is shown in this image?,Tinea Corporis,B,B,True,Tinea Corporis
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_23,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema multiforme
+a0111520-e2e0-406c-9bf0-5139d8a2f30d_perm_24,What pathology is shown in this image?,Tinea Corporis,C,A,False,Erythema migrans
+a1ab8e85-4cca-4707-b3dd-57da42738aac_perm_1,How does the surgical site look like?,A normal suture with eleven stitches. No signs of infection or inflammation.,C,C,True,A normal suture with eleven stitches. No signs of infection or inflammation.
+a1ab8e85-4cca-4707-b3dd-57da42738aac_perm_2,How does the surgical site look like?,A normal suture with eleven stitches. No signs of infection or inflammation.,C,A,False,A normal suture with five stitches. No signs of infection or inflammation.
+a7cf906c-228d-44cf-82bd-f5961343273f_perm_1,What kind of cerebral edema is shown?,Combined edema.,C,A,False,Vasogenic edema.
+a7cf906c-228d-44cf-82bd-f5961343273f_perm_2,What kind of cerebral edema is shown?,Combined edema.,C,A,False,Vasogenic edema.
+a7cf906c-228d-44cf-82bd-f5961343273f_perm_3,What kind of cerebral edema is shown?,Combined edema.,C,A,False,Vasogenic edema.
+a7cf906c-228d-44cf-82bd-f5961343273f_perm_4,What kind of cerebral edema is shown?,Combined edema.,C,A,False,Vasogenic edema.
+a7cf906c-228d-44cf-82bd-f5961343273f_perm_5,What kind of cerebral edema is shown?,Combined edema.,C,B,False,Vasogenic edema.
+a7cf906c-228d-44cf-82bd-f5961343273f_perm_6,What kind of cerebral edema is shown?,Combined edema.,C,B,False,Vasogenic edema.
+aa4a25e1-c52f-4811-a126-bbb52f348ef4_perm_1,Can you identify which medication (and what dose) does patient have in their pill box?,Atorvastatin 10 mg,C,C,True,Atorvastatin 10 mg
+aa4a25e1-c52f-4811-a126-bbb52f348ef4_perm_2,Can you identify which medication (and what dose) does patient have in their pill box?,Atorvastatin 10 mg,C,C,True,Atorvastatin 10 mg
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_1,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,C,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_2,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_3,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_4,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,B,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_5,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,A,B,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_6,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_7,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,B,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_8,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_9,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,A,B,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_10,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,B,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_11,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,A,B,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_12,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_13,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,B,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_14,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,A,B,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_15,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_16,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_17,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,A,A,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_18,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_19,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,B,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_20,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,C,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_21,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_22,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,C,A,False,Pneumothorax but not tension pneumothorax 
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_23,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,B,B,True,No pneumothorax
+aa9e1c00-8519-465d-9e18-0861b353c138_perm_24,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,A,B,False,Pneumothorax but not tension pneumothorax 
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_1,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,C,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_2,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_3,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,C,C,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_4,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_5,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,D,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_6,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,D,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_7,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_8,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_9,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,D,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_10,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,D,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_11,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_12,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_13,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_14,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_15,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,D,D,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_16,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,D,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_17,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_18,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_19,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,A,False,Subdural hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_20,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,B,B,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_21,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_22,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,A,A,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_23,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,C,C,True,No intracerebral hemorrhage
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e_perm_24,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,D,B,False,Subdural hemorrhage
+ae849698-02d1-4e88-98f8-558f15089a42_perm_1,How many fingers are shown in this image?,6,A,B,False,5
+ae849698-02d1-4e88-98f8-558f15089a42_perm_2,How many fingers are shown in this image?,6,A,B,False,5
+ae849698-02d1-4e88-98f8-558f15089a42_perm_3,How many fingers are shown in this image?,6,B,A,False,5
+ae849698-02d1-4e88-98f8-558f15089a42_perm_4,How many fingers are shown in this image?,6,B,A,False,5
+ae849698-02d1-4e88-98f8-558f15089a42_perm_5,How many fingers are shown in this image?,6,B,A,False,5
+ae849698-02d1-4e88-98f8-558f15089a42_perm_6,How many fingers are shown in this image?,6,B,A,False,5
+afabd2e4-a0f2-4e06-9ba3-3db6e1ff73e0_perm_1,Do these patient signature samples over the years show micrographia?,Yes,A,A,True,Yes
+afabd2e4-a0f2-4e06-9ba3-3db6e1ff73e0_perm_2,Do these patient signature samples over the years show micrographia?,Yes,A,A,True,Yes
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_1,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_2,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_3,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_4,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_5,Is there hydronephrosis?,No,D,A,False,"Yes, bilateral"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_6,Is there hydronephrosis?,No,D,A,False,"Yes, bilateral"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_7,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_8,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_9,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_10,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_11,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_12,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_13,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_14,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_15,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_16,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_17,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_18,Is there hydronephrosis?,No,D,A,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_19,Is there hydronephrosis?,No,D,A,False,"Yes, right"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_20,Is there hydronephrosis?,No,D,B,False,"Yes, bilateral"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_21,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_22,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_23,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0_perm_24,Is there hydronephrosis?,No,D,B,False,"Yes, left"
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_1,What pathology is shown?,Ulcerative colitis,B,A,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_2,What pathology is shown?,Ulcerative colitis,B,A,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_3,What pathology is shown?,Ulcerative colitis,B,A,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_4,What pathology is shown?,Ulcerative colitis,B,A,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_5,What pathology is shown?,Ulcerative colitis,C,A,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_6,What pathology is shown?,Ulcerative colitis,C,A,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_7,What pathology is shown?,Ulcerative colitis,A,B,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_8,What pathology is shown?,Ulcerative colitis,A,B,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_9,What pathology is shown?,Ulcerative colitis,A,B,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_10,What pathology is shown?,Ulcerative colitis,A,A,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_11,What pathology is shown?,Ulcerative colitis,A,A,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_12,What pathology is shown?,Ulcerative colitis,A,A,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_13,What pathology is shown?,Ulcerative colitis,A,B,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_14,What pathology is shown?,Ulcerative colitis,A,B,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_15,What pathology is shown?,Ulcerative colitis,A,B,False,Chrohn's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_16,What pathology is shown?,Ulcerative colitis,A,A,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_17,What pathology is shown?,Ulcerative colitis,A,A,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_18,What pathology is shown?,Ulcerative colitis,A,A,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_19,What pathology is shown?,Ulcerative colitis,C,A,False,Chron's disease
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_20,What pathology is shown?,Ulcerative colitis,C,C,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_21,What pathology is shown?,Ulcerative colitis,B,B,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_22,What pathology is shown?,Ulcerative colitis,B,B,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_23,What pathology is shown?,Ulcerative colitis,B,B,True,Ulcerative colitis
+b04916c8-41b9-4189-a16b-e831c2ddc950_perm_24,What pathology is shown?,Ulcerative colitis,B,B,True,Ulcerative colitis
+b214470b-8d93-40eb-bd02-56c83e3615df_perm_1,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,A,A,True,Autosomal Dominant Polycystic Kidney disease
+b214470b-8d93-40eb-bd02-56c83e3615df_perm_2,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,A,A,True,Autosomal Dominant Polycystic Kidney disease
+b214470b-8d93-40eb-bd02-56c83e3615df_perm_3,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,B,B,True,Autosomal Dominant Polycystic Kidney disease
+b214470b-8d93-40eb-bd02-56c83e3615df_perm_4,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,B,B,True,Autosomal Dominant Polycystic Kidney disease
+b214470b-8d93-40eb-bd02-56c83e3615df_perm_5,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,A,A,True,Autosomal Dominant Polycystic Kidney disease
+b214470b-8d93-40eb-bd02-56c83e3615df_perm_6,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,A,A,True,Autosomal Dominant Polycystic Kidney disease
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_1,Where is the pneumonia located?,left upper lobe,G,B,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_2,Where is the pneumonia located?,left upper lobe,G,C,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_3,Where is the pneumonia located?,left upper lobe,G,A,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_4,Where is the pneumonia located?,left upper lobe,G,B,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_5,Where is the pneumonia located?,left upper lobe,G,B,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_6,Where is the pneumonia located?,left upper lobe,G,A,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_7,Where is the pneumonia located?,left upper lobe,G,A,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_8,Where is the pneumonia located?,left upper lobe,G,B,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_9,Where is the pneumonia located?,left upper lobe,G,B,False,right lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_10,Where is the pneumonia located?,left upper lobe,G,D,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_11,Where is the pneumonia located?,left upper lobe,G,E,False,Right upper lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_12,Where is the pneumonia located?,left upper lobe,G,C,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_13,Where is the pneumonia located?,left upper lobe,G,E,False,Right upper lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_14,Where is the pneumonia located?,left upper lobe,G,A,False,right upper lobe and lingula
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_15,Where is the pneumonia located?,left upper lobe,G,B,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_16,Where is the pneumonia located?,left upper lobe,G,F,False,right upper lobe and lingula
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_17,Where is the pneumonia located?,left upper lobe,G,F,False,Right upper lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_18,Where is the pneumonia located?,left upper lobe,G,E,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_19,Where is the pneumonia located?,left upper lobe,G,F,False,right upper lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_20,Where is the pneumonia located?,left upper lobe,G,E,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_21,Where is the pneumonia located?,left upper lobe,G,C,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_22,Where is the pneumonia located?,left upper lobe,G,B,False,left lower lobe
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_23,Where is the pneumonia located?,left upper lobe,G,F,False,right upper lobe and lingula
+b25c0453-eaf9-481c-9dbe-bc8924905668_perm_24,Where is the pneumonia located?,left upper lobe,G,B,False,right upper lobe and lingula
+b2c4774e-08f5-460e-87e5-4c496942ab8a_perm_1,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,B,A,False,Yes. This is invasive ductal carcinoma of the breast. 
+b2c4774e-08f5-460e-87e5-4c496942ab8a_perm_2,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,B,A,False,Yes. This is invasive ductal carcinoma of the breast. 
+b2c4774e-08f5-460e-87e5-4c496942ab8a_perm_3,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,B,A,False,Yes. This is invasive ductal carcinoma of the breast. 
+b2c4774e-08f5-460e-87e5-4c496942ab8a_perm_4,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,B,A,False,Yes. This is invasive ductal carcinoma of the breast. 
+b2c4774e-08f5-460e-87e5-4c496942ab8a_perm_5,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,A,B,False,Yes. This is invasive ductal carcinoma of the breast. 
+b2c4774e-08f5-460e-87e5-4c496942ab8a_perm_6,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,A,B,False,Yes. This is invasive ductal carcinoma of the breast. 
+b3eb1d37-e024-4463-8014-eb8f11f81936_perm_1,Is there visible pathology?,Appendicitis,A,B,False,Normal appendix
+b3eb1d37-e024-4463-8014-eb8f11f81936_perm_2,Is there visible pathology?,Appendicitis,A,B,False,Normal appendix
+b3eb1d37-e024-4463-8014-eb8f11f81936_perm_3,Is there visible pathology?,Appendicitis,A,B,False,Normal appendix
+b3eb1d37-e024-4463-8014-eb8f11f81936_perm_4,Is there visible pathology?,Appendicitis,A,B,False,Normal appendix
+b3eb1d37-e024-4463-8014-eb8f11f81936_perm_5,Is there visible pathology?,Appendicitis,B,B,True,Appendicitis
+b3eb1d37-e024-4463-8014-eb8f11f81936_perm_6,Is there visible pathology?,Appendicitis,B,B,True,Appendicitis
+b41fb4f4-e509-4ead-a337-1ab15b4cb4bb_perm_1,Is bronchiectasis present?,Yes,C,A,False,yes
+b41fb4f4-e509-4ead-a337-1ab15b4cb4bb_perm_2,Is bronchiectasis present?,Yes,C,A,False,No
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_1,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,C,True,Normal stomach mucosa (negative for Helicobacter Pylori infection).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_2,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_3,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_4,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection. 
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_5,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_6,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_7,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection. 
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_8,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_9,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection. 
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_10,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection. 
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_11,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_12,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,A,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_13,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_14,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_15,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_16,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,C,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_17,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,C,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_18,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,B,C,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_19,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,A,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_20,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,A,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_21,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,A,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_22,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,A,B,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_23,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,A,C,False,Helicobacter Pylori infection (positive stain).
+b43555d3-9ef4-4280-bdec-902f634ec75a_perm_24,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,A,A,True,Normal stomach mucosa (negative for Helicobacter Pylori infection).
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_1,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,.,False,INVALID_OPTION:.
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_2,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,C,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_3,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,D,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_4,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,C,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_5,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,B,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_6,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,B,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_7,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,D,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_8,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,C,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_9,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,D,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_10,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,C,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_11,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,B,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_12,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,B,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_13,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,D,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_14,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,E,True,Small right-sided pleural effusion
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_15,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,D,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_16,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,E,True,Small right-sided pleural effusion
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_17,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,B,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_18,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,B,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_19,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,E,True,Small right-sided pleural effusion
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_20,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,E,True,Small right-sided pleural effusion
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_21,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,A,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_22,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,A,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_23,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,A,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d_perm_24,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,E,A,False,"Centrally, extending into both main pulmonary arteries (saddle pulmonary embolism)"
+b60bb3ca-680f-4d0d-b616-456e6a84908c_perm_1,Is there evidence of inflammation?,No.,B,B,True,No.
+b60bb3ca-680f-4d0d-b616-456e6a84908c_perm_2,Is there evidence of inflammation?,No.,A,A,True,No.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8_perm_1,Is there a lung mass in the Chest radiograph?,Yes.,A,B,False,No.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8_perm_2,Is there a lung mass in the Chest radiograph?,Yes.,A,B,False,No.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8_perm_3,Is there a lung mass in the Chest radiograph?,Yes.,B,A,False,No.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8_perm_4,Is there a lung mass in the Chest radiograph?,Yes.,B,A,False,No.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8_perm_5,Is there a lung mass in the Chest radiograph?,Yes.,B,A,False,No.
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8_perm_6,Is there a lung mass in the Chest radiograph?,Yes.,B,A,False,No.
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_1,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_2,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_3,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_4,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_5,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_6,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_7,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_8,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_9,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_10,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_11,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_12,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_13,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,A,B,False,Fungal organisms (hyphae). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_14,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,A,B,False,Fungal organisms (hyphae). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_15,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,A,B,False,Fungal organisms (hyphae). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_16,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,A,B,False,Fungal organisms (hyphae). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_17,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,A,B,False,Fungal organisms (hyphae). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_18,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,A,B,False,Fungal organisms (hyphae). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_19,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_20,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_21,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_22,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_23,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+b82002ea-ec05-4c5c-95a8-3b646f020ed7_perm_24,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,B,B,True,Fungal organisms (yeast). 
+ba18e483-86ae-4f00-9b03-dc1d5d1d6cef_perm_1,What is the cytologic diagnosis?,Low-grade squamous intraepithelial lesion (LSIL).,A,A,True,Low-grade squamous intraepithelial lesion (LSIL).
+ba18e483-86ae-4f00-9b03-dc1d5d1d6cef_perm_2,What is the cytologic diagnosis?,Low-grade squamous intraepithelial lesion (LSIL).,B,B,True,Low-grade squamous intraepithelial lesion (LSIL).
+bda6b1c5-2522-418c-94f5-124c3018015d_perm_1,Are there any pathologies shown in this image?,Varicosis in both legs.,B,B,True,Varicosis in both legs.
+bda6b1c5-2522-418c-94f5-124c3018015d_perm_2,Are there any pathologies shown in this image?,Varicosis in both legs.,A,A,True,Varicosis in both legs.
+be56d9fd-423c-43fe-b5d9-1b9fe46c1808_perm_1,Is there fat necrosis?,No. ,B,A,False,Yes. 
+be56d9fd-423c-43fe-b5d9-1b9fe46c1808_perm_2,Is there fat necrosis?,No. ,B,A,False,Yes. 
+c0a57b05-eee7-499a-8745-a2f637cde131_perm_1,Is there any evidence of pneumothorax in the radiograph?,Yes.,A,B,False,No.
+c0a57b05-eee7-499a-8745-a2f637cde131_perm_2,Is there any evidence of pneumothorax in the radiograph?,Yes.,B,A,False,No.
+c7db3e52-cadc-4110-acaf-df1d77417653_perm_1,What is the diagnosis?,"Facial palsy, left",B,A,False,"Facial palsy, right"
+c7db3e52-cadc-4110-acaf-df1d77417653_perm_2,What is the diagnosis?,"Facial palsy, left",A,A,True,"Facial palsy, left"
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_1,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_2,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,A,A,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_3,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_4,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_5,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,A,A,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_6,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_7,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_8,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_9,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_10,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_11,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_12,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_13,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_14,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_15,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_16,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_17,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_18,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_19,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_20,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,B,B,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_21,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_22,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_23,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+cae3a3c3-4917-421d-b4a5-360767f459cd_perm_24,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,C,C,True,ventricular tachycardia
+d2fa6150-282c-459e-8110-12496e7d201b_perm_1,Is there a liver abscess in the ultrasound image?,Yes,A,B,False,No
+d2fa6150-282c-459e-8110-12496e7d201b_perm_2,Is there a liver abscess in the ultrasound image?,Yes,B,A,False,No
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8_perm_1,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",A,A,True,"Yes. Pneumothorax, right lung."
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8_perm_2,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",A,A,True,"Yes. Pneumothorax, right lung."
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8_perm_3,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",B,B,True,"Yes. Pneumothorax, right lung."
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8_perm_4,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",C,C,True,"Yes. Pneumothorax, right lung."
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8_perm_5,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",B,B,True,"Yes. Pneumothorax, right lung."
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8_perm_6,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",C,C,True,"Yes. Pneumothorax, right lung."
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_1,What type of staining is shown?,Endospore staining.,C,A,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_2,What type of staining is shown?,Endospore staining.,D,A,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_3,What type of staining is shown?,Endospore staining.,B,A,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_4,What type of staining is shown?,Endospore staining.,B,A,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_5,What type of staining is shown?,Endospore staining.,D,A,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_6,What type of staining is shown?,Endospore staining.,C,A,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_7,What type of staining is shown?,Endospore staining.,C,B,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_8,What type of staining is shown?,Endospore staining.,D,B,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_9,What type of staining is shown?,Endospore staining.,B,C,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_10,What type of staining is shown?,Endospore staining.,B,D,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_11,What type of staining is shown?,Endospore staining.,D,C,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_12,What type of staining is shown?,Endospore staining.,C,D,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_13,What type of staining is shown?,Endospore staining.,A,A,True,Endospore staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_14,What type of staining is shown?,Endospore staining.,A,B,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_15,What type of staining is shown?,Endospore staining.,A,C,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_16,What type of staining is shown?,Endospore staining.,A,A,True,Endospore staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_17,What type of staining is shown?,Endospore staining.,A,A,True,Endospore staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_18,What type of staining is shown?,Endospore staining.,A,B,False,Giemsa staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_19,What type of staining is shown?,Endospore staining.,D,A,False,Giemsa staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_20,What type of staining is shown?,Endospore staining.,C,A,False,Giemsa staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_21,What type of staining is shown?,Endospore staining.,D,A,False,Giemsa staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_22,What type of staining is shown?,Endospore staining.,C,A,False,Giemsa staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_23,What type of staining is shown?,Endospore staining.,B,C,False,Ziehl-Neelsen staining.
+d9c89c56-9588-4c36-9ee7-bac43ceb1047_perm_24,What type of staining is shown?,Endospore staining.,B,A,False,Giemsa staining.
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_1,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_2,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_3,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_4,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_5,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_6,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_7,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_8,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_9,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_10,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_11,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_12,What is the histopathologic diagnosis?,Adenocarcinoma. ,A,A,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_13,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_14,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_15,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_16,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_17,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_18,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_19,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_20,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_21,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_22,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_23,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+da35a3de-fa23-4c20-905e-5b82b8d5d23a_perm_24,What is the histopathologic diagnosis?,Adenocarcinoma. ,B,B,True,Adenocarcinoma. 
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be_perm_1,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,A,B,False,"Normal epidermis and dermis, with benign nevus. "
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be_perm_2,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,A,B,False,"Normal epidermis and dermis, with benign nevus. "
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be_perm_3,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,A,B,False,"Normal epidermis and dermis, with benign nevus. "
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be_perm_4,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,A,B,False,"Normal epidermis and dermis, with benign nevus. "
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be_perm_5,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,B,B,True,Squamous cell carcinoma. 
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be_perm_6,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,B,B,True,Squamous cell carcinoma. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_1,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_2,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_3,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_4,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_5,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_6,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_7,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_8,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_9,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,A,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_10,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,A,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_11,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_12,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,A,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_13,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_14,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_15,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_16,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_17,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_18,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_19,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_20,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_21,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_22,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_23,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,D,True,Normal epidermis and dermis. 
+e65f6b06-1b9e-473d-b1ef-2a029432e553_perm_24,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,D,B,False,"Normal epidermis and dermis, with benign intradermal nevus. "
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_1,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Right lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_2,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_3,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_4,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_5,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_6,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,C,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_7,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,A,False,Left upper lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_8,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,E,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_9,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,C,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_10,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,E,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_11,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,A,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_12,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,C,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_13,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,D,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_14,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Right lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_15,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,F,True,Right middle lobe and right lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_16,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Right upper lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_17,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,A,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_18,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,A,False,Left upper lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_19,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,A,False,Left upper lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_20,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,D,False,Right lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_21,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,B,False,Left lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_22,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,D,False,Right upper lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_23,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,C,False,Right lower lobe
+eb4248fd-adf3-4682-b738-5d69d0248511_perm_24,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,F,D,False,Left lower lobe
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_1,Is there a visible pathology?,"Pneumothorax, left",C,B,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_2,Is there a visible pathology?,"Pneumothorax, left",A,B,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_3,Is there a visible pathology?,"Pneumothorax, left",D,C,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_4,Is there a visible pathology?,"Pneumothorax, left",A,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_5,Is there a visible pathology?,"Pneumothorax, left",B,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_6,Is there a visible pathology?,"Pneumothorax, left",D,C,False,"Pneumothorax, right"
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_7,Is there a visible pathology?,"Pneumothorax, left",A,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_8,Is there a visible pathology?,"Pneumothorax, left",B,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_9,Is there a visible pathology?,"Pneumothorax, left",C,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_10,Is there a visible pathology?,"Pneumothorax, left",B,D,False,"Pneumothorax, right"
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_11,Is there a visible pathology?,"Pneumothorax, left",B,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_12,Is there a visible pathology?,"Pneumothorax, left",D,C,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_13,Is there a visible pathology?,"Pneumothorax, left",C,B,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_14,Is there a visible pathology?,"Pneumothorax, left",C,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_15,Is there a visible pathology?,"Pneumothorax, left",D,C,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_16,Is there a visible pathology?,"Pneumothorax, left",D,C,False,"Pneumothorax, right"
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_17,Is there a visible pathology?,"Pneumothorax, left",A,C,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_18,Is there a visible pathology?,"Pneumothorax, left",C,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_19,Is there a visible pathology?,"Pneumothorax, left",D,B,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_20,Is there a visible pathology?,"Pneumothorax, left",B,C,False,"Pneumothorax, right"
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_21,Is there a visible pathology?,"Pneumothorax, left",B,C,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_22,Is there a visible pathology?,"Pneumothorax, left",C,D,False,"Pneumothorax, right"
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_23,Is there a visible pathology?,"Pneumothorax, left",C,D,False,Normal chest xray
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab_perm_24,Is there a visible pathology?,"Pneumothorax, left",C,D,False,Normal chest xray
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_1,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,B,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_2,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,B,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_3,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_4,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_5,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_6,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_7,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_8,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_9,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_10,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_11,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_12,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,A,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_13,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_14,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_15,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,B,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_16,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,B,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_17,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_18,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_19,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_20,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_21,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_22,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,B,False,"Box shaped heart suggestive of Ebstein anomaly.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_23,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+f90cefb2-7034-49e5-be73-ee070eaa3840_perm_24,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,E,E,True,Box shaped heart suggestive of Ebstein anomaly.
+fa8407ca-468a-410c-9072-5a2640459820_perm_1,What pathology is most likely shown in this image?,Granuloma annulare.,B,C,False,Discoid lupus.
+fa8407ca-468a-410c-9072-5a2640459820_perm_2,What pathology is most likely shown in this image?,Granuloma annulare.,C,B,False,Discoid lupus.
+fa8407ca-468a-410c-9072-5a2640459820_perm_3,What pathology is most likely shown in this image?,Granuloma annulare.,A,A,True,Granuloma annulare.
+fa8407ca-468a-410c-9072-5a2640459820_perm_4,What pathology is most likely shown in this image?,Granuloma annulare.,A,B,False,Discoid lupus.
+fa8407ca-468a-410c-9072-5a2640459820_perm_5,What pathology is most likely shown in this image?,Granuloma annulare.,C,A,False,Discoid lupus.
+fa8407ca-468a-410c-9072-5a2640459820_perm_6,What pathology is most likely shown in this image?,Granuloma annulare.,B,A,False,Discoid lupus.
+fbe4eed6-6670-4f77-9197-2728be0f8419_perm_1,"Which abnormality, if any, is present in this ultrasound image?",Gallstones,A,B,False,Sludge
+fbe4eed6-6670-4f77-9197-2728be0f8419_perm_2,"Which abnormality, if any, is present in this ultrasound image?",Gallstones,B,B,True,Gallstones

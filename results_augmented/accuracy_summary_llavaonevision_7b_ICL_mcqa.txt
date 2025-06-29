@@ -1,0 +1,6 @@
+Model: llavaonevision_7b
+Inference Mode: ICL
+Task Format: mcqa
+Accuracy: 0.2746 (285/1038)
+Total Examples: 1038
+Timestamp: 2025-05-13 04:08:40

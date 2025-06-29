@@ -1,0 +1,6 @@
+Model: llavanext_7b
+Inference Mode: 0-shot
+Task Format: mcqa
+Accuracy: 0.3784 (42/111)
+Total Examples: 111
+Timestamp: 2025-05-13 02:57:10

@@ -1,0 +1,446 @@
+problem_id,final_question,true_answer,generated_answer,full_response
+01e87e12-d402-4fff-a5ea-1da6160c4e99,What color can be seen in the abnormal lesion?,Black.,Black.,"Black.
+"
+02decd79-711e-4eef-9bc9-04347e4692fe,What is the diagnosis?,"Hydropneumothorax, left",Large left pleural effusion.,"Large left pleural effusion.
+"
+043f257f-34a0-4842-9334-241320202d79,Is there any type of joint deformity present here?,"Yes, Charcot´s foot, left.","Yes, Charcot foot.","Yes, Charcot foot.
+"
+050515b0-aff0-4ce6-8edf-b8ae01b786c5,Is there a tumor in this kidney?,"Yes, renal cell carcinoma. ","No, there is no tumor present in this kidney. The image shows normal renal tissue with the characteristic nephrons.","No, there is no tumor present in this kidney. The image shows normal renal tissue with the characteristic nephrons.
+"
+06485d09-1677-493a-a974-344c507da11c,What is shown in this xray?,"Clavicle fracture, left","The image shows a chest X-ray. It appears to be a left side view. There is a fracture of the clavicle (collarbone) on the left side. The lungs appear relatively clear, but a more detailed assessment would require a radiologist's interpretation.","The image shows a chest X-ray. It appears to be a left side view. There is a fracture of the clavicle (collarbone) on the left side. The lungs appear relatively clear, but a more detailed assessment would require a radiologist's interpretation.
+"
+08bd93cb-0201-4f20-8e37-97e495cf3542,Are there changes of acute myocardial infarction in this ECG with paced rhythm?,Yes,"Based on the provided ECG, there are some findings that could be suggestive of acute myocardial infarction (AMI), but a definitive diagnosis cannot be made without further clinical information and potentially additional testing.
+
+Here's a breakdown of the findings and why they are relevant:
+
+*   **ST-segment elevation:** ST-segment elevation is a hallmark of AMI. The presence of ST-segment elevation in leads V1-V6 suggests a possible anterior or anteroseptal myocardial infarction.
+*   **T-wave inversion:** T-wave inversion can also be seen in AMI, particularly in the leads with ST-segment elevation.
+*   **Q waves:** Q waves are a sign of prior myocardial infarction.
+
+However, it's important to consider the following:
+
+*   **Paced Rhythm:** The ECG shows a paced rhythm, which can affect the appearance of the ECG. The paced rhythm can mask or alter the normal ECG changes associated with AMI.
+*   **Clinical Context:** The clinical context is crucial for interpreting the ECG. The patient's symptoms, risk factors, and other clinical findings are essential for determining the likelihood of AMI.
+*   **Other Possible Causes:** ST-segment elevation can also be caused by other conditions, such as pericarditis, Prinzmetal's angina, and early repolarization.
+
+**Conclusion:**
+
+While the ECG findings are suggestive of AMI, a definitive diagnosis cannot be made without further clinical information and potentially additional testing, such as cardiac biomarkers (troponin).
+
+**Disclaimer:** This analysis is based solely on the provided ECG image and should not be considered a substitute for professional medical advice. A qualified healthcare professional should always be consulted for diagnosis and treatment.","Based on the provided ECG, there are some findings that could be suggestive of acute myocardial infarction (AMI), but a definitive diagnosis cannot be made without further clinical information and potentially additional testing.
+
+Here's a breakdown of the findings and why they are relevant:
+
+*   **ST-segment elevation:** ST-segment elevation is a hallmark of AMI. The presence of ST-segment elevation in leads V1-V6 suggests a possible anterior or anteroseptal myocardial infarction.
+*   **T-wave inversion:** T-wave inversion can also be seen in AMI, particularly in the leads with ST-segment elevation.
+*   **Q waves:** Q waves are a sign of prior myocardial infarction.
+
+However, it's important to consider the following:
+
+*   **Paced Rhythm:** The ECG shows a paced rhythm, which can affect the appearance of the ECG. The paced rhythm can mask or alter the normal ECG changes associated with AMI.
+*   **Clinical Context:** The clinical context is crucial for interpreting the ECG. The patient's symptoms, risk factors, and other clinical findings are essential for determining the likelihood of AMI.
+*   **Other Possible Causes:** ST-segment elevation can also be caused by other conditions, such as pericarditis, Prinzmetal's angina, and early repolarization.
+
+**Conclusion:**
+
+While the ECG findings are suggestive of AMI, a definitive diagnosis cannot be made without further clinical information and potentially additional testing, such as cardiac biomarkers (troponin).
+
+**Disclaimer:** This analysis is based solely on the provided ECG image and should not be considered a substitute for professional medical advice. A qualified healthcare professional should always be consulted for diagnosis and treatment."
+09728185-88c5-4da1-8b87-cd7572a530d2,Is there any evidence of honeycombing?,yes,"Yes, there is evidence of honeycombing in the lungs. The presence of small, cystic airspaces, particularly in the subpleural regions, is a characteristic finding of pulmonary fibrosis.","Yes, there is evidence of honeycombing in the lungs. The presence of small, cystic airspaces, particularly in the subpleural regions, is a characteristic finding of pulmonary fibrosis.
+"
+09b20627-5d25-4ceb-bbf3-b77a92fb4a18,Is there a joint effusion?,No,No.,"No.
+"
+0a405f20-1fcd-4fac-a0c1-3323efac8726,Is honeycombing present?,Yes,"Yes, honeycombing is present. The image shows a pattern of cystic airspaces, which is characteristic of honeycombing.","Yes, honeycombing is present. The image shows a pattern of cystic airspaces, which is characteristic of honeycombing.
+"
+16870356-d6c6-468a-8356-a8e2fc81dec5,Is there any pathology visible in this chest X-Ray?,"Water bottle sign in the heart, suggestive of pericardial effusion.","Yes, there appears to be significant cardiomegaly (enlarged heart) and likely a significant amount of fluid in the pericardial sac, potentially causing a ""water bottle"" or ""cardiac tamponade"" appearance. This is a serious finding and requires further investigation.","Yes, there appears to be significant cardiomegaly (enlarged heart) and likely a significant amount of fluid in the pericardial sac, potentially causing a ""water bottle"" or ""cardiac tamponade"" appearance. This is a serious finding and requires further investigation.
+"
+18218d7e-e2b3-45ee-a6bb-45054271c091,What is the large round object?,Amoeba.,The large round objects are likely **cestodes** (tapeworms).,"The large round objects are likely **cestodes** (tapeworms).
+"
+188fb1a0-4521-4fb1-9c82-46527f1603a9,What is the diagnosis?,Levocardia,"Based on the chest X-ray provided, the diagnosis is **normal**. The heart size appears within normal limits, the lungs are clear, and there are no obvious signs of acute pathology.
+
+However, it's important to note that a single X-ray is not sufficient for a definitive diagnosis. Further evaluation may be necessary depending on the clinical context and the patient's symptoms.","Based on the chest X-ray provided, the diagnosis is **normal**. The heart size appears within normal limits, the lungs are clear, and there are no obvious signs of acute pathology.
+
+However, it's important to note that a single X-ray is not sufficient for a definitive diagnosis. Further evaluation may be necessary depending on the clinical context and the patient's symptoms.
+"
+1b7f4c9f-5655-4037-92e6-0e310f41184e,What pathology can be seen?,Vitreous hemorrhage.,Vitreous hemorrhage.,"Vitreous hemorrhage.
+"
+1c39462b-cfdd-455c-b8f1-e099f85bcc29,Are there changes of acute myocardial infarction in this patient with known left bundle branch block?,No,"Based on the ECG provided, there are no obvious signs of acute myocardial infarction. The rhythm is regular, and there are no ST-segment elevations or significant T-wave inversions. However, a definitive diagnosis requires a comprehensive evaluation, including clinical history, physical examination, and potentially further investigations like cardiac biomarkers and imaging studies.
+
+Therefore, while the ECG doesn't show clear evidence of acute MI, it doesn't rule it out either. Further evaluation is needed.","Based on the ECG provided, there are no obvious signs of acute myocardial infarction. The rhythm is regular, and there are no ST-segment elevations or significant T-wave inversions. However, a definitive diagnosis requires a comprehensive evaluation, including clinical history, physical examination, and potentially further investigations like cardiac biomarkers and imaging studies.
+
+Therefore, while the ECG doesn't show clear evidence of acute MI, it doesn't rule it out either. Further evaluation is needed.
+"
+1d690af1-020d-4163-8abe-e7fc2bbdba17,Is the following pathology more consistent with acne vulgaris or acne rosacea? ,Acne vulgaris.,Acne vulgaris.,"Acne vulgaris.
+"
+1e5627a5-d6ba-4714-9db5-1561d3f59d7e,Is there something pathological in this image?,"Anisocoria, right pupil more dilated than left one.","Based on the image, there is no obvious pathological finding. The pupils appear normal in size and shape.","Based on the image, there is no obvious pathological finding. The pupils appear normal in size and shape.
+"
+1ee54fea-31da-4d9a-bd57-a6a006f97d3e,What is the diagnosis?,"Proptosis, left","Based on the CT scan image, the diagnosis is **right orbital mass**.
+
+Here's why:
+
+*   **Proptosis:** The eyes are bulging forward, indicating a mass or swelling within the orbit.
+*   **Orbital Mass:** The image shows a distinct, abnormal structure within the orbit, which is not a normal anatomical structure.
+
+Further investigation is needed to determine the exact nature of the orbital mass, which could be a tumor, cyst, or other pathology.","Based on the CT scan image, the diagnosis is **right orbital mass**.
+
+Here's why:
+
+*   **Proptosis:** The eyes are bulging forward, indicating a mass or swelling within the orbit.
+*   **Orbital Mass:** The image shows a distinct, abnormal structure within the orbit, which is not a normal anatomical structure.
+
+Further investigation is needed to determine the exact nature of the orbital mass, which could be a tumor, cyst, or other pathology.
+"
+21e3a17e-4ad3-42c6-8367-3c96a8bc2aae,What type of pathology is shown?,"Subdural hematoma, right","Subdural hematoma, right","Subdural hematoma, right
+"
+21eb81de-7686-4efc-9875-7dc4cbfc557d,Are the red blood cells normal?,"No, there are schiostocytes. ","No, the red blood cells are not normal. There are several abnormal red blood cells present, including:
+
+*   **Spherocytes:** These are small, round red blood cells that lack the central pallor seen in normal red blood cells. They are often seen in hereditary spherocytosis and autoimmune hemolytic anemia.
+*   **Elliptocytes:** These are oval-shaped red blood cells that are more elongated than normal. They are often seen in hereditary elliptocytosis.
+*   **Sickle cells:** These are crescent-shaped red blood cells that are seen in sickle cell anemia.
+
+The presence of these abnormal red blood cells suggests a possible underlying hematological disorder.","No, the red blood cells are not normal. There are several abnormal red blood cells present, including:
+
+*   **Spherocytes:** These are small, round red blood cells that lack the central pallor seen in normal red blood cells. They are often seen in hereditary spherocytosis and autoimmune hemolytic anemia.
+*   **Elliptocytes:** These are oval-shaped red blood cells that are more elongated than normal. They are often seen in hereditary elliptocytosis.
+*   **Sickle cells:** These are crescent-shaped red blood cells that are seen in sickle cell anemia.
+
+The presence of these abnormal red blood cells suggests a possible underlying hematological disorder.
+"
+21ec6a11-a59f-41b2-bbca-51cc937d8828,Where is the tumor located?,Caecum.,"The tumor appears to be located in the retroperitoneum, specifically in the psoas muscle.","The tumor appears to be located in the retroperitoneum, specifically in the psoas muscle.
+"
+2285cb57-7853-41c4-bc0b-12cf269a23a3,Is atoll sign present?,Yes,"Based on the image provided, the ""atoll sign"" is present. The atoll sign refers to the appearance of multiple, small, round, well-defined nodules scattered throughout the lung parenchyma, resembling an atoll. This pattern is often seen in conditions like **pneumocystis pneumonia (PCP)**.","Based on the image provided, the ""atoll sign"" is present. The atoll sign refers to the appearance of multiple, small, round, well-defined nodules scattered throughout the lung parenchyma, resembling an atoll. This pattern is often seen in conditions like **pneumocystis pneumonia (PCP)**.
+"
+26e21c7a-df27-4d6c-a3d3-44a3b73964e5,"What pathology, if any, is suspected based on this picture?",Dilated cardiomyopathy,"Based on the image, the most likely pathology suspected is **cardiomegaly**, specifically an enlarged heart. The heart appears significantly larger than normal, which could be due to various underlying conditions such as:
+
+*   **Cardiomyopathy:** A disease of the heart muscle itself.
+*   **Hypertension:** High blood pressure can lead to the heart working harder and enlarging over time.
+*   **Valvular heart disease:** Problems with the heart valves can also cause the heart to enlarge.
+*   **Congenital heart defects:** Present at birth.
+*   **Pericardial effusion:** Fluid accumulation around the heart.
+
+It's important to note that this is just a preliminary assessment based on a single image. Further evaluation, including a detailed medical history, physical examination, and potentially additional imaging studies (such as an echocardiogram), would be necessary to determine the exact cause of the cardiomegaly.","Based on the image, the most likely pathology suspected is **cardiomegaly**, specifically an enlarged heart. The heart appears significantly larger than normal, which could be due to various underlying conditions such as:
+
+*   **Cardiomyopathy:** A disease of the heart muscle itself.
+*   **Hypertension:** High blood pressure can lead to the heart working harder and enlarging over time.
+*   **Valvular heart disease:** Problems with the heart valves can also cause the heart to enlarge.
+*   **Congenital heart defects:** Present at birth.
+*   **Pericardial effusion:** Fluid accumulation around the heart.
+
+It's important to note that this is just a preliminary assessment based on a single image. Further evaluation, including a detailed medical history, physical examination, and potentially additional imaging studies (such as an echocardiogram), would be necessary to determine the exact cause of the cardiomegaly.
+"
+29e3f38f-c199-479c-ba00-a0fa0bbaffb8,Is there a visible pathology?,No,"Yes, hyperdense right MCA","Yes, hyperdense right MCA
+"
+2d3f8498-af1d-440e-92a2-4837dc277974,What kind of image is this?,MRI of the brain with contrast,MRI of the brain with contrast (likely a T1-weighted image with gadolinium contrast),"MRI of the brain with contrast (likely a T1-weighted image with gadolinium contrast)
+"
+2d679738-2da1-45da-b83b-aa39a86f6bcb,Is the NG tube well-positioned?,"No, in left lung","Yes, the NG tube appears to be well-positioned in the stomach.","Yes, the NG tube appears to be well-positioned in the stomach.
+"
+2f86b41e-c08b-41de-9c08-677df1528af5,What is the diagnosis?,"Acute MCA infarct, right and left","Based on the image provided, the diagnosis is **Multiple Sclerosis (MS)**.
+
+Here's why:
+
+*   **White Matter Lesions:** The image shows areas of increased signal intensity (hyperintensity) in the white matter of the brain. These are characteristic of MS, where demyelination (damage to the myelin sheath) occurs.
+*   **Location:** The lesions are located in the periventricular white matter, which is a common location for MS lesions.
+*   **Clinical Context:** While I don't have the patient's clinical history, the presence of white matter lesions on MRI is a key diagnostic criterion for MS.
+
+It's important to note that this is a preliminary diagnosis based on a single image. A definitive diagnosis of MS requires a comprehensive evaluation, including clinical history, neurological examination, and potentially other imaging studies (e.g., MRI with contrast, evoked potentials).","Based on the image provided, the diagnosis is **Multiple Sclerosis (MS)**.
+
+Here's why:
+
+*   **White Matter Lesions:** The image shows areas of increased signal intensity (hyperintensity) in the white matter of the brain. These are characteristic of MS, where demyelination (damage to the myelin sheath) occurs.
+*   **Location:** The lesions are located in the periventricular white matter, which is a common location for MS lesions.
+*   **Clinical Context:** While I don't have the patient's clinical history, the presence of white matter lesions on MRI is a key diagnostic criterion for MS.
+
+It's important to note that this is a preliminary diagnosis based on a single image. A definitive diagnosis of MS requires a comprehensive evaluation, including clinical history, neurological examination, and potentially other imaging studies (e.g., MRI with contrast, evoked potentials).
+"
+321365c0-587b-4f7e-8e85-34c152b401e0,What is the diagnosis?,"Exophthalmos, bilateral","Based on the image, the diagnosis is likely **conjunctival injection (red eye)**. The redness of the conjunctiva (the membrane lining the inside of the eyelids and covering the white part of the eye) is a key indicator.
+
+It's important to note that this is a preliminary assessment based on a single image. A definitive diagnosis would require a complete eye exam by an ophthalmologist.","Based on the image, the diagnosis is likely **conjunctival injection (red eye)**. The redness of the conjunctiva (the membrane lining the inside of the eyelids and covering the white part of the eye) is a key indicator.
+
+It's important to note that this is a preliminary assessment based on a single image. A definitive diagnosis would require a complete eye exam by an ophthalmologist.
+"
+3436b5aa-7219-42c1-96cc-54f1e4286003,What is this person's skin type?,Type VI,Type III,"Type III
+"
+34d5c4f5-9a58-43d0-b716-cd81487a881a,Describe the present abnormality.,"Central retinal artery occlusion. Retinal whitening and cherry-red spot are visible, as well as the likely causative clot.","The image shows a fundus photograph of the eye. The optic disc is visible in the center, surrounded by the retinal vasculature. There are some areas of increased opacity or shadowing in the retina, which could be due to various factors such as retinal pigment epithelium (RPE) changes, vascular abnormalities, or other retinal conditions. Further evaluation with additional imaging or clinical examination is needed to determine the exact cause of these findings.","The image shows a fundus photograph of the eye. The optic disc is visible in the center, surrounded by the retinal vasculature. There are some areas of increased opacity or shadowing in the retina, which could be due to various factors such as retinal pigment epithelium (RPE) changes, vascular abnormalities, or other retinal conditions. Further evaluation with additional imaging or clinical examination is needed to determine the exact cause of these findings.
+"
+34f7d1cc-7328-457b-b9d3-5e983c6496d1,Which skin condition is shown?,petechiae,purpura,"purpura
+"
+3808de45-a0d1-4f89-b0b9-76a6a977c90a,What is the diagnosis?,"Erb's palsy, right and left","Erb's palsy, left","Erb's palsy, left
+"
+3833ca0c-82cd-4545-b1de-93ed42e4d6e2,"What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?",Very high suspicion for COVID-19 infection,Very high suspicion for COVID-19 infection,"Very high suspicion for COVID-19 infection
+"
+39ba5cf9-06f1-42b2-b365-41dbd6a2223e,Does this EEG show seizure activity?,no,"Yes, the EEG shows seizure activity. The presence of rhythmic, repetitive waveforms, particularly in the frontal regions (Fp1, Fp2, F3, F4), strongly suggests seizure activity.","Yes, the EEG shows seizure activity. The presence of rhythmic, repetitive waveforms, particularly in the frontal regions (Fp1, Fp2, F3, F4), strongly suggests seizure activity.
+"
+3b17a705-1ef8-484e-bddf-2593b7062b98,Is there a visible pathology?,Pneumoperitoneum,Pneumoperitoneum,"Pneumoperitoneum
+"
+3db48fb6-755b-4323-a963-42239ecb0316,Is there metastatic cancer in this lymph node?,No. ,"Based on the image provided, there is evidence of metastatic cancer. The presence of atypical cells and abnormal cellular architecture within the lymph node suggests a malignant process. Further investigation, such as immunohistochemistry, would be needed to determine the specific type of cancer and its origin.","Based on the image provided, there is evidence of metastatic cancer. The presence of atypical cells and abnormal cellular architecture within the lymph node suggests a malignant process. Further investigation, such as immunohistochemistry, would be needed to determine the specific type of cancer and its origin.
+"
+3e221315-f38c-4c93-87b1-7c9915d8a41b,Is this suspicious for lymphoma?,No.,"Yes, the image shows a significant number of abnormal lymphocytes, which could be indicative of a lymphoproliferative disorder like lymphoma. Further investigation and analysis are needed to confirm the diagnosis.","Yes, the image shows a significant number of abnormal lymphocytes, which could be indicative of a lymphoproliferative disorder like lymphoma. Further investigation and analysis are needed to confirm the diagnosis.
+"
+40ea6079-9d12-477e-b34e-373c6d4f64d5,What is the diagnosis?,"Fracture, ulna","Fracture, radius","Fracture, radius
+"
+41727fb3-7f70-4274-bacb-61f84b4bf584,Is splinter hemorrhage present?,no,yes,"yes
+"
+443aea8a-c61d-418c-80ab-6f9250324838,What organ is shown and is it tumorous?,Kidney without tumor. ,"Based on the image, the organ shown is a kidney. There is no obvious tumor present in the image.","Based on the image, the organ shown is a kidney. There is no obvious tumor present in the image.
+"
+44c46ae9-37d5-43b0-afab-162db2096c2c,What is shown in this image?,Plasma cells.,Lymphocytes.,"Lymphocytes.
+"
+48095d55-9265-4a0a-b9dc-baa2343c14af,Which anatomical plane is shown?,axial or transverse plane,axial plane,"axial plane
+"
+4894916c-f303-4d6c-8f76-73edee07f0b2,Is air trapping present?,Yes,"Based on the image provided, there is no clear evidence of air trapping. The lung fields appear relatively normal in terms of their overall density and distribution of air.
+
+However, it's important to note that a definitive diagnosis of air trapping requires a more comprehensive evaluation, including a history of the patient's symptoms, physical examination findings, and potentially additional imaging studies.","Based on the image provided, there is no clear evidence of air trapping. The lung fields appear relatively normal in terms of their overall density and distribution of air.
+
+However, it's important to note that a definitive diagnosis of air trapping requires a more comprehensive evaluation, including a history of the patient's symptoms, physical examination findings, and potentially additional imaging studies.
+"
+4a8e141c-c247-45f0-84c2-5486cfbd62cf,How many neutrophils are clearly visible?,6,6,"6
+"
+4b8852b6-d518-4f21-beef-e016a52ce821,What does the skin lesion show?,"Irregular borders and color variation, suggestive of melanoma.","A dark, irregular lesion on the lip, concerning for a potential malignancy, such as squamous cell carcinoma.","A dark, irregular lesion on the lip, concerning for a potential malignancy, such as squamous cell carcinoma.
+"
+4d6c4b4d-6825-4c1f-adb6-ea06f72351a9,Is there a visible pathology in the ribs?,"Acute rib fracture, right","Yes, there is a visible pathology in the ribs. Specifically, there appears to be a **rib fracture** on the left side of the image.","Yes, there is a visible pathology in the ribs. Specifically, there appears to be a **rib fracture** on the left side of the image.
+"
+4eff8140-addf-49c6-b690-e63ace50df8e,Is there an endoleak?,No,"Based on the image provided, there is no obvious endoleak. The device appears to be in place and the surrounding vasculature does not show any significant abnormal flow. However, a definitive assessment requires a full review of the entire imaging study, including the pre- and post-contrast images, and comparison to prior studies if available.","Based on the image provided, there is no obvious endoleak. The device appears to be in place and the surrounding vasculature does not show any significant abnormal flow. However, a definitive assessment requires a full review of the entire imaging study, including the pre- and post-contrast images, and comparison to prior studies if available.
+"
+52c5d2a7-cf61-4508-a681-4bcddbbe63f7,"What abnormality, if any, is present in this ECG?","Second-degree heart block, type 2.",The ECG shows a normal sinus rhythm with a regular heart rate. There are no obvious abnormalities present.,"The ECG shows a normal sinus rhythm with a regular heart rate. There are no obvious abnormalities present.
+"
+53694f7c-93a9-4c85-af33-363e5f08af0d," Which chest radiograph zone is highlighted in this image, apical zone, upper zone, mid zone, or lower zone?",Lower zone,Lower zone,"Lower zone
+"
+56958e7e-2978-4f1e-8ed7-e5dcc8fbe82d,"Which pathology, if any, is prevalent in this image?",Schistocytes,Sickle cells,"Sickle cells
+"
+5c2a91db-7496-40c9-a919-ff9ec03b893b,Is there pneumoperitoneum?,No,No.,"No.
+"
+5d42ff8a-179d-44c1-9cdd-b34e9b291e92,What pathology is visible?,Retinal detachment in fundus image.,"The image appears to be a fundus photograph of the eye. Based on the visible structures, the pathology is likely **cataract**. The lens appears cloudy and opaque, obscuring the view of the retina.","The image appears to be a fundus photograph of the eye. Based on the visible structures, the pathology is likely **cataract**. The lens appears cloudy and opaque, obscuring the view of the retina.
+"
+5d954983-45e2-4853-b94a-19f21492884c,Which bone or bones are fractured?,Ulna,Radius and Ulna,"Radius and Ulna
+"
+63338bb8-841b-4420-86fe-78e1963625d0,Which skin-condition is shown?,Superficial spreading melanoma,Melanoma,"Melanoma
+"
+6597f180-5f13-4d49-83dd-64315337ce2f,Is there visible pathology?,"Pleural effusion, right","Yes, there is visible pathology. The image shows a large pleural effusion on the right side of the chest.","Yes, there is visible pathology. The image shows a large pleural effusion on the right side of the chest.
+"
+688b0f03-2157-4d48-965a-2b5c473e3384,"Is this thyroid nodule benign, not suspicious, mildly suspicious, moderately suspicious, or highly suspicious?",Highly suspicious,Highly suspicious,"Highly suspicious
+"
+6b6d8d8d-bd8a-44af-8ca4-bd0623aa596a,What kind of MRI sequence is this?,T2 fat saturation,T2-weighted,"T2-weighted
+"
+6c9f0a00-bc0b-4844-b498-c57d68382c5d,Where is the location of the endotracheal tube tip?,Trachea,"Main bronchus, right","Main bronchus, right
+"
+6d0aec94-e009-46ea-8c93-2f2de47ef800,What type of cell is present among the erythrocytes?,Myeloblast without Auer rods,Myeloblast,"Myeloblast
+"
+732150de-bce4-46af-9a70-c4b1e2c4b783,Does the liver appear enlarged?,Yes.,"Based on the image provided, the liver appears to be of normal size. The liver is situated on the left side of the abdomen and its size appears to be within the expected range.","Based on the image provided, the liver appears to be of normal size. The liver is situated on the left side of the abdomen and its size appears to be within the expected range.
+"
+741ef380-c0aa-4508-8fd3-790a34b16b8b,What is shown in this image?,"Kayser-Fleischer ring, left.","The image shows a close-up of a human eye. The iris is visible, and there are some skin imperfections visible around the eye.","The image shows a close-up of a human eye. The iris is visible, and there are some skin imperfections visible around the eye.
+"
+7d28bb1c-71e2-4be8-ab96-0a2d67df2d9b,Are there signs of surgical wound infection?,Yes,"Yes, there are signs of surgical wound infection in the image. These include:
+
+*   **Redness:** The skin around the wound appears red, indicating inflammation.
+*   **Swelling:** The area around the wound is swollen.
+*   **Warmth:** The skin around the wound feels warm to the touch.
+*   **Pain:** The wound is painful to the touch.
+*   **Drainage:** There is drainage from the wound.
+*   **Fever:** The patient may have a fever.
+
+It's important to note that these signs can also be caused by other conditions, so it's important to consult a healthcare professional for a proper diagnosis.","Yes, there are signs of surgical wound infection in the image. These include:
+
+*   **Redness:** The skin around the wound appears red, indicating inflammation.
+*   **Swelling:** The area around the wound is swollen.
+*   **Warmth:** The skin around the wound feels warm to the touch.
+*   **Pain:** The wound is painful to the touch.
+*   **Drainage:** There is drainage from the wound.
+*   **Fever:** The patient may have a fever.
+
+It's important to note that these signs can also be caused by other conditions, so it's important to consult a healthcare professional for a proper diagnosis.
+"
+820c2943-aea7-454e-ae7a-850c50c0de2f,Does this ECG show artifact or ventricular tachycardia?,artifact ,"Based on the ECG provided, it is difficult to definitively determine whether it shows artifact or ventricular tachycardia without more information. However, the presence of a regular, wide QRS complex with a rate of approximately 120 bpm raises suspicion for ventricular tachycardia.
+
+To make a more accurate determination, I would need to consider the following:
+
+*   **Clinical context:** What is the patient's presentation? Are they symptomatic?
+*   **Other ECG leads:** Are there any other leads that show similar findings?
+*   **History:** Is there any history of cardiac disease, such as heart failure, cardiomyopathy, or prior myocardial infarction?
+*   **Physical exam:** Are there any signs of heart failure, such as jugular venous distension or edema?
+
+If the ECG is of poor quality or the clinical context is unclear, it is best to err on the side of caution and treat the patient as if they have ventricular tachycardia.
+
+**Disclaimer:** This information is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for any health concerns or before making any decisions related to your health or treatment.","Based on the ECG provided, it is difficult to definitively determine whether it shows artifact or ventricular tachycardia without more information. However, the presence of a regular, wide QRS complex with a rate of approximately 120 bpm raises suspicion for ventricular tachycardia.
+
+To make a more accurate determination, I would need to consider the following:
+
+*   **Clinical context:** What is the patient's presentation? Are they symptomatic?
+*   **Other ECG leads:** Are there any other leads that show similar findings?
+*   **History:** Is there any history of cardiac disease, such as heart failure, cardiomyopathy, or prior myocardial infarction?
+*   **Physical exam:** Are there any signs of heart failure, such as jugular venous distension or edema?
+
+If the ECG is of poor quality or the clinical context is unclear, it is best to err on the side of caution and treat the patient as if they have ventricular tachycardia.
+
+**Disclaimer:** This information is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for any health concerns or before making any decisions related to your health or treatment.
+"
+96fd679e-4619-4c7a-9d7b-dd46eaa8b26e,"Is there a fracture and if so, what kind?",No fracture,The image shows a fracture of the distal femur. The fracture appears to be a **transverse fracture** of the distal femoral condyle.,"The image shows a fracture of the distal femur. The fracture appears to be a **transverse fracture** of the distal femoral condyle.
+"
+9db35400-5633-48fa-9411-97926d30d4c5,Provide a radiological interpretation of this radiograph of the hand.,Arthritis,"The radiograph shows a right hand. The bones appear intact, with no obvious fractures or dislocations. There is some degenerative changes in the wrist joint, which could be consistent with osteoarthritis. Further evaluation may be needed to rule out other conditions.","The radiograph shows a right hand. The bones appear intact, with no obvious fractures or dislocations. There is some degenerative changes in the wrist joint, which could be consistent with osteoarthritis. Further evaluation may be needed to rule out other conditions.
+"
+9ea5bef9-87e3-494f-8312-e6a70e1ca8e9,Is there a tree-in-bud appearance?,No,"Yes, there is a tree-in-bud appearance. The image shows a nodular pattern in the lung, which can be suggestive of infection or inflammation. The ""tree-in-bud"" appearance refers to the small, branching structures that resemble the branches of a tree.","Yes, there is a tree-in-bud appearance. The image shows a nodular pattern in the lung, which can be suggestive of infection or inflammation. The ""tree-in-bud"" appearance refers to the small, branching structures that resemble the branches of a tree.
+"
+a0111520-e2e0-406c-9bf0-5139d8a2f30d,What pathology is shown in this image?,Tinea Corporis,Tinea corporis (Ringworm),"Tinea corporis (Ringworm)
+"
+a1ab8e85-4cca-4707-b3dd-57da42738aac,How does the surgical site look like?,A normal suture with eleven stitches. No signs of infection or inflammation.,"The surgical site appears to be healing well. There are sutures present, and the surrounding skin shows signs of healing, including some redness and swelling. There are no obvious signs of infection, such as pus or significant inflammation.","The surgical site appears to be healing well. There are sutures present, and the surrounding skin shows signs of healing, including some redness and swelling. There are no obvious signs of infection, such as pus or significant inflammation.
+"
+a7cf906c-228d-44cf-82bd-f5961343273f,What kind of cerebral edema is shown?,Combined edema.,"Based on the image, the cerebral edema appears to be **hemorrhagic**. The presence of blood within the brain parenchyma suggests a hemorrhagic stroke, which can cause cytotoxic edema.","Based on the image, the cerebral edema appears to be **hemorrhagic**. The presence of blood within the brain parenchyma suggests a hemorrhagic stroke, which can cause cytotoxic edema.
+"
+aa4a25e1-c52f-4811-a126-bbb52f348ef4,Can you identify which medication (and what dose) does patient have in their pill box?,Atorvastatin 10 mg,Aspirin 10 mg,"Aspirin 10 mg
+"
+aa9e1c00-8519-465d-9e18-0861b353c138,"Is there a pneumothorax and if so, is it a tension pneumothorax?",No pneumothorax,"Yes, there is a pneumothorax. The presence of air in the pleural space, visible as the dark area on the right side of the chest, indicates a pneumothorax.
+
+Whether it's a tension pneumothorax is difficult to definitively determine from this single image. A tension pneumothorax is characterized by a significant pressure build-up in the pleural space, which can lead to mediastinal shift and hemodynamic instability. While the image shows a pneumothorax, it's not possible to assess the degree of pressure or mediastinal shift from this single view. Further imaging and clinical assessment are needed to confirm if it's a tension pneumothorax.","Yes, there is a pneumothorax. The presence of air in the pleural space, visible as the dark area on the right side of the chest, indicates a pneumothorax.
+
+Whether it's a tension pneumothorax is difficult to definitively determine from this single image. A tension pneumothorax is characterized by a significant pressure build-up in the pleural space, which can lead to mediastinal shift and hemodynamic instability. While the image shows a pneumothorax, it's not possible to assess the degree of pressure or mediastinal shift from this single view. Further imaging and clinical assessment are needed to confirm if it's a tension pneumothorax.
+"
+ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e,"Is there an intracerebral hemorrhage in this image and if so, what kind?",No intracerebral hemorrhage,"Yes, there is an intracerebral hemorrhage. Based on the appearance of the lesion, it appears to be a **hematoma** (likely a blood clot) located in the brain parenchyma. The exact type of intracerebral hemorrhage (e.g., intraparenchymal, lobar, deep) would require further evaluation of the image and clinical context.","Yes, there is an intracerebral hemorrhage. Based on the appearance of the lesion, it appears to be a **hematoma** (likely a blood clot) located in the brain parenchyma. The exact type of intracerebral hemorrhage (e.g., intraparenchymal, lobar, deep) would require further evaluation of the image and clinical context.
+"
+ae849698-02d1-4e88-98f8-558f15089a42,How many fingers are shown in this image?,6,5,"5
+"
+afabd2e4-a0f2-4e06-9ba3-3db6e1ff73e0,Do these patient signature samples over the years show micrographia?,Yes,"Yes, these signatures show micrographia. The repetitive, simplified ""e""s are a classic sign of micrographia.","Yes, these signatures show micrographia. The repetitive, simplified ""e""s are a classic sign of micrographia.
+"
+b0489c0e-8963-4fa3-940a-bb5d65f85dc0,Is there hydronephrosis?,No,"Yes, right.","Yes, right.
+"
+b04916c8-41b9-4189-a16b-e831c2ddc950,What pathology is shown?,Ulcerative colitis,Ulcerative colitis,"Ulcerative colitis
+"
+b214470b-8d93-40eb-bd02-56c83e3615df,Diagnose the condition in the kidney,Autosomal Dominant Polycystic Kidney disease,Autosomal Dominant Polycystic Kidney Disease (ADPKD),"Autosomal Dominant Polycystic Kidney Disease (ADPKD)
+"
+b25c0453-eaf9-481c-9dbe-bc8924905668,Where is the pneumonia located?,left upper lobe,right upper lobe,"right upper lobe
+"
+b2c4774e-08f5-460e-87e5-4c496942ab8a,Is this invasive cancer?,No. This is ductal carcinoma in situ (DCIS) of the breast. ,"Yes, this is invasive cancer. The image shows a histological view of invasive carcinoma, characterized by malignant cells that have broken through the basement membrane and invaded surrounding tissues.","Yes, this is invasive cancer. The image shows a histological view of invasive carcinoma, characterized by malignant cells that have broken through the basement membrane and invaded surrounding tissues.
+"
+b3eb1d37-e024-4463-8014-eb8f11f81936,Is there visible pathology?,Appendicitis,"Based on the image provided, there is no visible pathology. The appendix appears normal in size and shape.","Based on the image provided, there is no visible pathology. The appendix appears normal in size and shape.
+"
+b41fb4f4-e509-4ead-a337-1ab15b4cb4bb,Is bronchiectasis present?,Yes,"Based on the image provided, **no, bronchiectasis is not present.**
+
+The image shows a cross-sectional view of the lungs. The airways appear normal in caliber and there is no evidence of dilated, thickened airways characteristic of bronchiectasis.","Based on the image provided, **no, bronchiectasis is not present.**
+
+The image shows a cross-sectional view of the lungs. The airways appear normal in caliber and there is no evidence of dilated, thickened airways characteristic of bronchiectasis.
+"
+b43555d3-9ef4-4280-bdec-902f634ec75a,What is the histopathologic diagnosis?,Normal stomach mucosa (negative for Helicobacter Pylori infection).,"Based on the image, the histopathologic diagnosis is **normal stomach mucosa**. The image shows the typical architecture of the stomach lining, with gastric pits, glands, and the underlying lamina propria. There are no obvious signs of inflammation, infection, or malignancy.","Based on the image, the histopathologic diagnosis is **normal stomach mucosa**. The image shows the typical architecture of the stomach lining, with gastric pits, glands, and the underlying lamina propria. There are no obvious signs of inflammation, infection, or malignancy.
+"
+b5ea0db1-ac0b-4ac9-bf19-34b7ef15904d,"Besides the pulmonary embolism, what other condition is seen?",Small right-sided pleural effusion,"The image shows a pulmonary embolism, but it also reveals a possible **aortic dissection**. The appearance of the aorta, with its irregular contour and possible intimal flap, raises suspicion for this condition. Further evaluation would be needed to confirm this finding.","The image shows a pulmonary embolism, but it also reveals a possible **aortic dissection**. The appearance of the aorta, with its irregular contour and possible intimal flap, raises suspicion for this condition. Further evaluation would be needed to confirm this finding.
+"
+b60bb3ca-680f-4d0d-b616-456e6a84908c,Is there evidence of inflammation?,No.,"Based on the provided image, there is no clear evidence of inflammation. The soft tissues appear relatively normal in appearance. However, a definitive diagnosis requires a complete clinical evaluation and potentially additional imaging.","Based on the provided image, there is no clear evidence of inflammation. The soft tissues appear relatively normal in appearance. However, a definitive diagnosis requires a complete clinical evaluation and potentially additional imaging.
+"
+b78610bc-b395-4d39-b92a-a86f8d6c7dc8,Is there a lung mass in the Chest radiograph?,Yes.,"Yes, there appears to be a mass in the right lung.","Yes, there appears to be a mass in the right lung.
+"
+b82002ea-ec05-4c5c-95a8-3b646f020ed7,What is the histopathologic diagnosis?,Fungal organisms (yeast). ,"Based on the image, the histopathologic diagnosis is **Cryptococcus neoformans**.
+
+The presence of round, encapsulated yeast cells within the tissue is characteristic of this fungal species.","Based on the image, the histopathologic diagnosis is **Cryptococcus neoformans**.
+
+The presence of round, encapsulated yeast cells within the tissue is characteristic of this fungal species.
+"
+ba18e483-86ae-4f00-9b03-dc1d5d1d6cef,What is the cytologic diagnosis?,Low-grade squamous intraepithelial lesion (LSIL).,"Based on the image, the cytologic diagnosis is **malignant cells, likely adenocarcinoma**. The presence of cells with enlarged, hyperchromatic nuclei, prominent nucleoli, and increased nuclear-to-cytoplasmic ratio suggests malignancy. The specific type of adenocarcinoma cannot be determined without further information, such as the tissue of origin.","Based on the image, the cytologic diagnosis is **malignant cells, likely adenocarcinoma**. The presence of cells with enlarged, hyperchromatic nuclei, prominent nucleoli, and increased nuclear-to-cytoplasmic ratio suggests malignancy. The specific type of adenocarcinoma cannot be determined without further information, such as the tissue of origin.
+"
+bd2f6789-49fc-4e2b-b38a-7f6d0bb0d9e6,What is the diagnosis?,"Consolidation, left lower lobe","Based on the image, the diagnosis is likely **pneumonia** in the left lower lobe. The increased opacity in the lower left lung field suggests consolidation, which is a hallmark of pneumonia.
+
+However, it's important to note that this is a preliminary assessment based on a single image. A definitive diagnosis requires a complete clinical evaluation, including the patient's history, physical examination findings, and potentially additional imaging or laboratory tests.","Based on the image, the diagnosis is likely **pneumonia** in the left lower lobe. The increased opacity in the lower left lung field suggests consolidation, which is a hallmark of pneumonia.
+
+However, it's important to note that this is a preliminary assessment based on a single image. A definitive diagnosis requires a complete clinical evaluation, including the patient's history, physical examination findings, and potentially additional imaging or laboratory tests.
+"
+bda6b1c5-2522-418c-94f5-124c3018015d,Are there any pathologies shown in this image?,Varicosis in both legs.,"Based on the image, the most apparent pathology is **varicose veins** in the left leg. The right leg appears relatively normal.","Based on the image, the most apparent pathology is **varicose veins** in the left leg. The right leg appears relatively normal.
+"
+be56d9fd-423c-43fe-b5d9-1b9fe46c1808,Is there fat necrosis?,No. ,"Yes, there is fat necrosis present in the image. The characteristic features of fat necrosis include:
+
+*   **Lipid Emphysema:** The presence of numerous, small, clear spaces (fatty cysts) within the tissue.
+*   **Granulation Tissue:** The presence of new blood vessels and connective tissue.
+*   **Inflammation:** The presence of inflammatory cells, such as macrophages.
+
+These features are indicative of fat necrosis, which is a type of tissue damage that occurs when fat cells are damaged and release their contents into the surrounding tissue.","Yes, there is fat necrosis present in the image. The characteristic features of fat necrosis include:
+
+*   **Lipid Emphysema:** The presence of numerous, small, clear spaces (fatty cysts) within the tissue.
+*   **Granulation Tissue:** The presence of new blood vessels and connective tissue.
+*   **Inflammation:** The presence of inflammatory cells, such as macrophages.
+
+These features are indicative of fat necrosis, which is a type of tissue damage that occurs when fat cells are damaged and release their contents into the surrounding tissue.
+"
+c0a57b05-eee7-499a-8745-a2f637cde131,Is there any evidence of pneumothorax in the radiograph?,Yes.,"Based on the image provided, there is no clear evidence of a pneumothorax. The lung fields appear relatively normal in density, and there are no obvious signs of air in the pleural space. However, a small pneumothorax can be difficult to detect, especially if it is not a large amount of air.","Based on the image provided, there is no clear evidence of a pneumothorax. The lung fields appear relatively normal in density, and there are no obvious signs of air in the pleural space. However, a small pneumothorax can be difficult to detect, especially if it is not a large amount of air.
+"
+c7db3e52-cadc-4110-acaf-df1d77417653,What is the diagnosis?,"Facial palsy, left",Bell's palsy,"Bell's palsy
+"
+c8270afe-324e-4bdf-af7d-a95d1f7d2155,"What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? ",Highly suggestive of malignancy,Suspicious,"Suspicious
+"
+ca0f791b-bcbd-4c2c-9ea0-c960f9fac20c,What suture technique is shown?,Donati suture technique.,Running suture technique.,"Running suture technique.
+"
+cae3a3c3-4917-421d-b4a5-360767f459cd,Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?,ventricular tachycardia,Supraventricular tachycardia with aberrancy.,"Supraventricular tachycardia with aberrancy.
+"
+cdeea5fd-c696-4cdf-8b16-624d77413798,Can you safely send this patient home without further diagnostics?,"Yes, normal Chest X-ray.","Based on the provided image, it is difficult to definitively say whether the patient can be safely sent home without further diagnostics. However, I can provide some observations:
+
+*   **Normal Lung Fields:** The lung fields appear clear, with no obvious signs of consolidation, effusion, or pneumothorax.
+*   **Heart Size:** The heart size appears within normal limits.
+*   **Mediastinum:** The mediastinum appears unremarkable.
+*   **Bones:** The bones appear intact.
+
+However, a definitive answer requires a more comprehensive evaluation, including:
+
+*   **Clinical History:** Understanding the patient's symptoms, medical history, and any relevant risk factors is crucial.
+*   **Physical Examination:** A thorough physical exam can provide additional clues.
+*   **Further Imaging:** Depending on the clinical suspicion, additional imaging studies (e.g., CT scan) may be necessary to rule out other potential causes of the patient's symptoms.
+
+Therefore, I cannot definitively say whether the patient can be safely sent home without further diagnostics. A thorough evaluation is necessary to make an informed decision.
+
+**Disclaimer:** I am an AI and cannot provide medical advice. This information is for educational purposes only and should not be considered a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns or before making any decisions related to your health or treatment.","Based on the provided image, it is difficult to definitively say whether the patient can be safely sent home without further diagnostics. However, I can provide some observations:
+
+*   **Normal Lung Fields:** The lung fields appear clear, with no obvious signs of consolidation, effusion, or pneumothorax.
+*   **Heart Size:** The heart size appears within normal limits.
+*   **Mediastinum:** The mediastinum appears unremarkable.
+*   **Bones:** The bones appear intact.
+
+However, a definitive answer requires a more comprehensive evaluation, including:
+
+*   **Clinical History:** Understanding the patient's symptoms, medical history, and any relevant risk factors is crucial.
+*   **Physical Examination:** A thorough physical exam can provide additional clues.
+*   **Further Imaging:** Depending on the clinical suspicion, additional imaging studies (e.g., CT scan) may be necessary to rule out other potential causes of the patient's symptoms.
+
+Therefore, I cannot definitively say whether the patient can be safely sent home without further diagnostics. A thorough evaluation is necessary to make an informed decision.
+
+**Disclaimer:** I am an AI and cannot provide medical advice. This information is for educational purposes only and should not be considered a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns or before making any decisions related to your health or treatment.
+"
+d05074d3-8496-426c-b315-edc6dd9c7874,"Is there a mediastinal mass and if so, is it anterior, posterior, or middle mediastinal in location?",Middle mediastinal mass,The image shows a mass in the **middle mediastinum**.,"The image shows a mass in the **middle mediastinum**.
+"
+d2fa6150-282c-459e-8110-12496e7d201b,Is there a liver abscess in the ultrasound image?,Yes,"Yes, there appears to be a liver abscess present in the image. It is characterized by a hypoechoic (darker) area with a thick, irregular wall and a possible internal debris.","Yes, there appears to be a liver abscess present in the image. It is characterized by a hypoechoic (darker) area with a thick, irregular wall and a possible internal debris.
+"
+d5ce402d-6bfb-48bf-8f2a-f0c1fa5d09f8,Is there anything abnormal in the provided image?,"Yes. Pneumothorax, right lung.",Yes. There appears to be a possible pleural effusion on the right side. Further evaluation with a lateral decubitus film would be recommended to confirm.,"Yes. There appears to be a possible pleural effusion on the right side. Further evaluation with a lateral decubitus film would be recommended to confirm.
+"
+d9c89c56-9588-4c36-9ee7-bac43ceb1047,What type of staining is shown?,Endospore staining.,Gram staining.,"Gram staining.
+"
+da35a3de-fa23-4c20-905e-5b82b8d5d23a,What is the histopathologic diagnosis?,Adenocarcinoma. ,"Based on the image, the histopathologic diagnosis is **adenocarcinoma**.","Based on the image, the histopathologic diagnosis is **adenocarcinoma**.
+"
+dd3a8b0d-b4cc-4651-9311-a7e75a7829be,What is the histopathologic diagnosis?,Squamous cell carcinoma. ,"Based on the image, the histopathologic diagnosis is **melanoma**.","Based on the image, the histopathologic diagnosis is **melanoma**.
+"
+e4ce4ffc-bc94-4da2-abd7-2493702e2082,Are there pleural effusions in this chest x-ray?,"Yes, on the left","Yes, there appears to be a significant pleural effusion on the left side. The opacity in the lower left hemithorax suggests fluid accumulation in the pleural space.","Yes, there appears to be a significant pleural effusion on the left side. The opacity in the lower left hemithorax suggests fluid accumulation in the pleural space.
+"
+e65f6b06-1b9e-473d-b1ef-2a029432e553,What is the histopathologic diagnosis?,Normal epidermis and dermis. ,Normal epidermis and dermis.,"Normal epidermis and dermis.
+"
+e675a4c8-0f22-4925-8996-51e0d35bf990,On which side is the lumen?,Bottom left.,Bottom.,"Bottom.
+"
+ea4975ff-f64d-4067-91ee-1cefeec69416,What is the histopathologic diagnosis?,Follicular adenoma (no capsular invasion). ,"Based on the image provided, the histopathologic diagnosis is **follicular carcinoma with capsular and/or vascular invasion**.
+
+The presence of capsular and/or vascular invasion is a key feature that distinguishes follicular carcinoma from follicular adenoma. Follicular adenomas are benign, while follicular carcinomas are malignant.","Based on the image provided, the histopathologic diagnosis is **follicular carcinoma with capsular and/or vascular invasion**.
+
+The presence of capsular and/or vascular invasion is a key feature that distinguishes follicular carcinoma from follicular adenoma. Follicular adenomas are benign, while follicular carcinomas are malignant.
+"
+eb4248fd-adf3-4682-b738-5d69d0248511,Which lung lobe(s) is the atelectasis within?,Right middle lobe and right lower lobe,Right lower lobe,"Right lower lobe
+"
+edb2f37b-0fa0-4b82-abf5-eb81c548f8ab,Is there a visible pathology?,"Pneumothorax, left","Pneumothorax, right","Pneumothorax, right
+"
+f5455eaf-7eba-44a4-963f-abdee38c9d99,What is shown on this Xray?,Moderate left pneumothorax,"The X-ray shows a normal chest X-ray. The lungs appear clear, the heart size is within normal limits, and there are no obvious signs of acute pathology.","The X-ray shows a normal chest X-ray. The lungs appear clear, the heart size is within normal limits, and there are no obvious signs of acute pathology.
+"
+f90cefb2-7034-49e5-be73-ee070eaa3840,Report this Chest x-ray as a radiologist.,Box shaped heart suggestive of Ebstein anomaly.,Cardiomegaly.,"Cardiomegaly.
+"
+fa8407ca-468a-410c-9072-5a2640459820,What pathology is most likely shown in this image?,Granuloma annulare.,"Based on the image, the most likely pathology is **discoid lupus erythematosus (DLE)**. The characteristic features of DLE include:
+
+*   **Circular or oval lesions:** The lesions are often well-defined and have a circular or oval shape.
+*   **Red, scaly patches:** The lesions are typically red and covered with scales.
+*   **Atrophy and scarring:** Chronic DLE can lead to scarring and skin atrophy.
+
+While other conditions could potentially present with similar skin findings, the combination of circular lesions, redness, and scaling strongly suggests DLE.","Based on the image, the most likely pathology is **discoid lupus erythematosus (DLE)**. The characteristic features of DLE include:
+
+*   **Circular or oval lesions:** The lesions are often well-defined and have a circular or oval shape.
+*   **Red, scaly patches:** The lesions are typically red and covered with scales.
+*   **Atrophy and scarring:** Chronic DLE can lead to scarring and skin atrophy.
+
+While other conditions could potentially present with similar skin findings, the combination of circular lesions, redness, and scaling strongly suggests DLE.
+"
+fbe4eed6-6670-4f77-9197-2728be0f8419,"Which abnormality, if any, is present in this ultrasound image?",Gallstones,"The image shows a dilated gallbladder. This could be due to several factors, including gallstones, inflammation (cholecystitis), or a blockage in the bile duct. Further evaluation would be needed to determine the exact cause.","The image shows a dilated gallbladder. This could be due to several factors, including gallstones, inflammation (cholecystitis), or a blockage in the bile duct. Further evaluation would be needed to determine the exact cause.
+"
