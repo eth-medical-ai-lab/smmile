@@ -90,7 +90,7 @@ cd inference_and_evaluation
 ```
 ### Common Arguments
 
-Inference scripts support these common arguments:
+All inference scripts support these common arguments:
 - `--inference_mode`: `ICL` or `0-shot`
 - `--output-dir`: Custom output directory (default: `../results`)
 - `--gpu-devices`: GPU device selection (e.g., `0,1`)
@@ -149,33 +149,22 @@ python inference_medgemma.py --inference_mode ICL --task_format open
 python inference_medgemma.py --inference_mode ICL --task_format mcqa --dataset augmented
 ```
 
-#### LLaVA Models
+#### LLaVA Models, LlaVA-Med
 **Special Requirements:** `transformers==4.46.3`, `torch==2.2.0`
 
 Available models: `llava_7b`, `llava_13b`, `llavanext_7b`, `llavaonevision_7b`, `llavaonevision_0.5b` 
 
-LLaVA models use separate scripts for different task formats:
 
 ```bash
 # Open-ended questions (standard script)
 python inference_llava.py --inference_mode ICL --model_name llava_7b
-python inference_llava.py --inference_mode ICL --model_name llava_7b --augmented augmented
+python inference_llava.py --inference_mode ICL --model_name llava_7b --dataset augmented
+python inference_llava_mcqa.py --inference_mode ICL --model_name llava_7b --task_format mcqa --dataset augmented
 
-# Multiple-choice questions (separate script)
-python inference_llava_mcqa.py --inference_mode ICL --model_name llava_7b --task_format mcqa
-python inference_llava_mcqa.py --inference_mode ICL --model_name llava_7b --task_format mcqa --augmented augmented
-```
-
-#### LLaVA-Med Models
-
-```bash
-# Open-ended questions
-python inference_llavamed.py --inference_mode ICL
-python inference_llavamed.py --inference_mode ICL --augmented augmented
-
-# Multiple-choice questions
-python inference_llavamed_mcqa.py --inference_mode ICL --task_format mcqa
-python inference_llavamed_mcqa.py --inference_mode ICL --task_format mcqa --augmented augmented
+# LlaVA-Med
+python inference_llavamed.py --inference_mode ICL --model_name llava_7b
+python inference_llavamed.py --inference_mode ICL --model_name llava_7b --dataset augmented
+python inference_llavamed_mcqa.py --inference_mode ICL --model_name llava_7b --task_format mcqa --dataset augmented
 ```
 
 
