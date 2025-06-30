@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/🌐-Webpage-blue)](https://smmile-benchmark.github.io)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Datasets-yellow)](https://huggingface.co/datasets/smmile/SMMILE)
-[![arXiv](https://img.shields.io/badge/arXiv-2506.21355-b31b1b.svg)](https://arxiv.org/abs/2506.21355)
+[![Paper](https://img.shields.io/badge/📄-Paper-red)](https://huggingface.co/papers/2506.21355)
 
 ## Introduction
 
