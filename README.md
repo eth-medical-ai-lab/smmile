@@ -4,6 +4,7 @@
   <img src="figures/logo_final.png" alt="SMMILE Logo" width="500"/>
 </div>
 
+[![Website](https://img.shields.io/badge/🌐-Webpage-blue)](https://smmile-benchmark.github.io)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Datasets-yellow)](https://huggingface.co/datasets/smmile/SMMILE)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.21355-b31b1b.svg)](https://arxiv.org/abs/2506.21355)
@@ -265,22 +266,9 @@ python variance_analysis.py ../results --generate_table --latex_output results_t
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## References
+## Reference to Preprint
 
-[1] Wang, P., Bai, S., Tan, S., Wang, S., Fan, Z., Bai, J., Chen, K., Liu, X., Wang, J., Ge, W., Fan, Y., Dang, K., Du, M., Ren, X., Men, R., Liu, D., Zhou, C., Zhou, J., & Lin, J. (2024). Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution. arXiv preprint arXiv:2409.12191.
-
-[2] Pan, J., Liu, C., Wu, J., Liu, F., Zhu, J., Li, H. B., Chen, C., Ouyang, C., & Rueckert, D. (2025). MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning. arXiv preprint arXiv:2502.19634.
-
-[3] Liu, H., Li, C., Wu, Q., & Lee, Y. J. (2024). Visual Instruction Tuning. IEEE Transactions on Pattern Analysis and Machine Intelligence.
-
-[4] Liu, H., Li, C., Li, Y., & Lee, Y. J. (2023). Improved Baselines with Visual Instruction Tuning. arXiv:2310.03744.
-
-[5] Li, B., Zhang, Y., Guo, D., Zhang, R., Li, F., Zhang, H., Zhang, K., Li, Y., Liu, Z., & Li, C. (2024). LLaVA-OneVision: Easy Visual Task Transfer. arXiv:2408.03326.
-
-[6] Shi, H., Wang, R., Zhang, J., Weng, L., Li, Y., Hao, C., Liu, F., You, C., Leskovec, J., Tai-Seale, M., Sun, P., Fung, P., Zou, J., & Rajpurkar, P. (2024). LLaVA-Med-V1.5: Enhanced Vision-Language Foundation Model for Medical Applications. arXiv preprint arXiv:2404.02656.
-
-[7] Li, C., Wong, C., Zhang, S., Usuyama, N., Liu, H., Yang, J., Naumann, T., Poon, H., & Gao, J. (2023). Llava-med: Training a large language-and-vision assistant for biomedicine in one day. arXiv preprint arXiv:2306.00890.
-
+[1] Rieff, M., Varma, M., Rabow, O., Adithan, S., Kim, J., Chang, K., Lee, H., Rohatgi, N., Bluethgen, C., Muneer, M. S., Delbrouck, J.-B., & Moor, M. (2025). SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning. arXiv preprint arXiv:2506.21355. https://arxiv.org/abs/2506.21355
 ## Acknowledgments
 
 We thank the clinical experts who contributed to curating the benchmark dataset.
