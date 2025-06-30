@@ -69,18 +69,9 @@ def parse_arguments():
         help="Noisy mode"
     )
     parser.add_argument(
-        "--augmented",
-        type=str,
+        "--dataset",
         choices=["augmented"],
-        default=None,
-        help="Augmented mode"
-    )
-    parser.add_argument(
-        "--order",
-        type=str,
-        choices=["First-True", "First-False", "Last-True", "Last-False"],
-        default=None,
-        help="Order mode"
+        help="Use augmented dataset (SMMILE-augmented-050825). If not specified, uses default SMMILE-050525"
     )
 
     return parser.parse_args()
@@ -285,23 +276,15 @@ if __name__ == "__main__":
     print(f"Using GPU devices: {args.gpu_devices}")
 
     # Process data
-    if args.noisy: 
-        print(f"WARNING: This script will run analysis with noisy SMMILE dataset {args.noisy}")
-        assert args.inference_mode == "ICL"
-        data = process_data(image_dir=args.image_dir, token=HF_TOKEN, dataset_id=f'smmile/NoisySMMILE-{args.noisy}-050725')
-        output_dir = args.output_dir + f'-noisy-{args.noisy.lower()}'
-    elif args.augmented: 
-        print(f"WARNING: This script will run analysis with augmented SMMILE dataset {args.augmented}")
-        data = process_data(image_dir=args.image_dir, token=HF_TOKEN, dataset_id=f'smmile/SMMILE-augmented-050825')
-        output_dir = args.output_dir + f'_augmented'
-    elif args.order: 
-        print(f"WARNING: This script will run analysis with ordered SMMILE dataset {args.order}")
-        data = process_data(image_dir=args.image_dir, token=HF_TOKEN, dataset_id=f'smmile/OrderedSMMILE-{args.order}')
-        output_dir = args.output_dir + f'-order-{args.order.lower()}'
-    else: 
-        data = process_data(image_dir=args.image_dir, token=HF_TOKEN)
+    if args.dataset == "augmented":
+        dataset_id = "smmile/SMMILE-augmented-050825"
+        output_dir = args.output_dir + "_augmented"
+    else:
+        dataset_id = "smmile/SMMILE-050525"
         output_dir = args.output_dir
-
+    
+    data = process_data(args.image_dir, HF_TOKEN, dataset_id=dataset_id)
+    
     # Run inference
     print(f"Processing with {args.model_name}...")
     run_inference(data, args.inference_mode, output_dir, args.model_name, args.hf_cache_dir)
