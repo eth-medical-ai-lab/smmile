@@ -15,6 +15,14 @@ Multimodal in-context learning (ICL) remains underexplored despite the profound 
 
 We introduce **SMMILE** (Stanford Multimodal Medical In-context Learning Evaluation), the first multimodal medical ICL benchmark. A set of clinical experts curated ICL problems to scrutinize MLLM's ability to learn multimodal tasks at inference time from context.
 
+## Updates
+
+- **[September 18, 2025]** 🎉 SMMILE has been accepted to NeurIPS 2025 Datasets and Benchmarks Track! Thanks to all collaborators and the community for your support.
+- **[June 30, 2024]** 🔥 We release SMMILE: the first multimodal medical in-context learning benchmark curated by clinical experts. Check out the [paper](https://arxiv.org/abs/2506.21355) and the [code](https://github.com/eth-medical-ai-lab/smmile).
+
+
+
+
 ## Dataset Access
 
 The SMMILE dataset is available on HuggingFace:
