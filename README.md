@@ -1,4 +1,4 @@
-# SMMILE: A Benchmark for Multimodal Medical In-Context Learning
+# [NeurIPS Datasets & Benchmarks 2025] SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning
 
 <div align="center">
   <img src="figures/logo_final.png" alt="SMMILE Logo" width="500"/>
