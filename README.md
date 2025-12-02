@@ -274,9 +274,21 @@ python variance_analysis.py ../results --generate_table --latex_output results_t
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## Reference to Preprint
+## Citation
 
-[1] Rieff, M., Varma, M., Rabow, O., Adithan, S., Kim, J., Chang, K., Lee, H., Rohatgi, N., Bluethgen, C., Muneer, M. S., Delbrouck, J.-B., & Moor, M. (2025). SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning. arXiv preprint arXiv:2506.21355. https://arxiv.org/abs/2506.21355
+If you find this repository useful for your work, please cite the following paper:
+
+```
+@inproceedings{
+rieff2025smmile,
+title={{SMMILE}: An expert-driven benchmark for multimodal medical in-context learning},
+author={Melanie Rieff and Maya Varma and Ossian Rabow and Subathra Adithan and Julie Kim and Ken Chang and Hannah Lee and Nidhi Rohatgi and Christian Bluethgen and Mohamed S Muneer and Jean-Benoit Delbrouck and Michael Moor},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2025},
+url={https://openreview.net/forum?id=ZONgHRsAbl}
+}
+```
+
 ## Acknowledgments
 
 We thank the clinical experts who contributed to curating the benchmark dataset.
